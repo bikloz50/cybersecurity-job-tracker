@@ -135,6 +135,7 @@ COMPANIES = {
     "Bishop Fox": "bishopfox",
     "GuidePoint Security": "guidepointsecurity",
     "Cyware": "cyware",
+    "Deepwatch": "deepwatchinc",
     # --- Security-adjacent / identity / cloud security ---
     "Rubrik": "rubrik",
     "Elastic": "elastic",
@@ -160,30 +161,57 @@ COMPANIES = {
 # --- Keyword rules for filtering + categorizing ---
 CYBER_KW = ["security", "cyber", "soc ", "infosec", "threat", "vulnerability",
             "incident response", "appsec", "siem", "detection", "malware",
-            "penetration", "red team", "blue team", "security analyst",
-            "security engineer", "trust and safety", "cryptograph"]
+            "penetration", "red team", "blue team", "purple team",
+            "security analyst", "security engineer", "security operations",
+            "trust and safety", "cryptograph", "devsecops", "grc ",
+            "governance", "risk and compliance", "identity and access",
+            "iam ", "privileged access", "zero trust", "endpoint",
+            "forensic", "digital forensic", "threat hunt", "threat intel",
+            "phishing", "ransomware", "firewall", "intrusion"]
 IT_KW = ["help desk", "helpdesk", "service desk", "desktop support",
          "it support", "system administrator", "sysadmin", "noc ",
          "network technician", "it technician", "technical support",
          "it operations", "support engineer", "support specialist"]
 ENTRY_KW = ["intern", "new grad", "new-grad", "graduate", "entry", "junior",
             "associate", "early career", "university", "apprentice",
-            "level 1", "tier 1", "trainee"]
+            "level 1", "tier 1", "tier i", "trainee"]
 SENIOR_BLOCK = ["senior", "staff", "principal", "lead", "manager", "director",
                 "head of", "vp ", "vice president", "chief ", "ciso", "cto", "ceo",
-                "ii", "iii", "iv", " 2", " 3", "sr.", "architect", "consultant"]
+                "ii", "iii", "iv", " 2", " 3", "sr.", "architect"]
 
-# Phrases in job descriptions that signal entry-level / new-grad roles
+# Regex patterns that detect "Analyst I", "Engineer I", "Specialist I" etc.
+# (Roman numeral I at end of title = Level 1)
+LEVEL_ONE_RE = re.compile(
+    r'\b(analyst|engineer|specialist|technician|operator|administrator|'
+    r'consultant|associate|advisor|investigator)\s+i\b',
+    re.IGNORECASE
+)
+
+# Role titles that are inherently entry-level when no senior signal is present.
+# SOC Analyst / Help Desk / IT Support without a level number are nearly always Tier 1.
+INHERENT_ENTRY_RE = re.compile(
+    r'\b(soc analyst|security operations (center )?analyst|'
+    r'help desk (analyst|technician|specialist)?|'
+    r'desktop support (analyst|technician|specialist)?|'
+    r'it support (analyst|technician|specialist)?|'
+    r'service desk (analyst|technician|specialist)?|'
+    r'noc (analyst|technician|engineer)?|'
+    r'cybersecurity analyst|information security analyst|'
+    r'cyber analyst)\b',
+    re.IGNORECASE
+)
+
+# Phrases in job descriptions that signal entry-level / new-grad roles.
+# Deliberately tight — "bachelor" and generic "entry level" are excluded
+# because they appear in senior role descriptions too.
 ENTRY_DESC_KW = [
     "0-2 years", "0 to 2 years", "0 - 2 years",
     "0-1 years", "0 to 1 year", "1-2 years", "1 to 2 years",
-    "0+ years", "1+ year", "up to 2 years",
+    "0+ years of experience", "1+ year of experience",
+    "up to 2 years",
     "no experience required", "no prior experience",
     "new grad", "new graduate", "recent grad", "recent graduate",
     "fresh graduate", "college graduate", "university graduate",
-    "entry level", "entry-level",
-    "early career", "early-career",
-    "bachelor", "bs/ba", "b.s.", "b.a.",
     "0 years of experience", "less than 1 year",
 ]
 
@@ -277,10 +305,13 @@ def categorize(title):
 
 def is_entry(title):
     t = title.lower()
-    # entry signal present AND no obvious senior signal
-    has_entry = any(k in t for k in ENTRY_KW)
     has_senior = any(k in t for k in SENIOR_BLOCK)
-    return has_entry and not has_senior
+    if has_senior:
+        return False
+    has_entry = any(k in t for k in ENTRY_KW)
+    has_level_one = bool(LEVEL_ONE_RE.search(title))
+    has_inherent = bool(INHERENT_ENTRY_RE.search(title))
+    return has_entry or has_level_one or has_inherent
 
 def clean_loc(job):
     loc = job.get("location", {})
