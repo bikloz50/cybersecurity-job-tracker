@@ -358,10 +358,10 @@ with open(os.path.join(OUT_DIR, "cyber_jobs.csv"),"w",newline="",encoding="utf-8
 with open(os.path.join(OUT_DIR, "cyber_jobs.md"),"w",encoding="utf-8") as f:
     f.write(f"# Cybersecurity & IT Job Tracker\n\n")
     f.write(f"_Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET — {len(results)} roles from {total_boards} company boards_\n\n")
-    f.write("| Company | Role | Category | Entry? | States | Location | Apply |\n")
-    f.write("|---|---|---|---|---|---|---|\n")
+    f.write("| Company | Role | Category | Entry? | States | Location | Posted | Apply |\n")
+    f.write("|---|---|---|---|---|---|---|---|\n")
     for r in results:
-        f.write(f"| {r['company']} | {r['title']} | {r['category']} | {r['entry_level']} | {r['states']} | {r['location']} | [Apply]({r['url']}) |\n")
+        f.write(f"| {r['company']} | {r['title']} | {r['category']} | {r['entry_level']} | {r['states']} | {r['location']} | {r['updated'] or '—'} | [Apply]({r['url']}) |\n")
 
 # ---------- HTML ----------
 rows_html = ""
