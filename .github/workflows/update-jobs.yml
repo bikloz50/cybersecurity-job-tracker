@@ -1,0 +1,27 @@
+name: Update Job Listings
+
+on:
+  schedule:
+    - cron: "0 9 * * 1-5"   # 9 AM UTC (5 AM ET) every weekday
+  workflow_dispatch:          # allow manual run from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run aggregator
+        run: python3 cyberjobs.py
+
+      - name: Commit updated outputs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cyber_jobs.html cyber_jobs.csv cyber_jobs.md
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore: auto-update job listings $(date -u +%Y-%m-%d)"
+          git push
