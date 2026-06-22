@@ -292,7 +292,8 @@ for name, token in COMPANIES.items():
     if data:
         for j in data.get("jobs", []):
             loc = clean_loc(j)
-            updated = (j.get("updated_at", "") or "")[:10]
+            raw_ts = (j.get("updated_at", "") or "")
+            updated = raw_ts[:16].replace("T", " ") if raw_ts else ""
             if add_result(results, name, j.get("title", ""), loc, j.get("absolute_url", ""), updated):
                 count += 1
     print(f"{count} matched")
@@ -305,7 +306,7 @@ for name, slug in LEVER_COMPANIES.items():
     for j in jobs:
         loc = j.get("categories", {}).get("location", "") or ""
         ts = j.get("createdAt", 0)
-        updated = datetime.datetime.fromtimestamp(ts / 1000).strftime("%Y-%m-%d") if ts else ""
+        updated = datetime.datetime.fromtimestamp(ts / 1000).strftime("%Y-%m-%d %H:%M") if ts else ""
         if add_result(results, name, j.get("text", ""), loc, j.get("hostedUrl", ""), updated):
             count += 1
     print(f"{count} matched")
@@ -317,7 +318,7 @@ for name, slug in ASHBY_COMPANIES.items():
     count = 0
     for j in jobs:
         loc = j.get("location", "") or ""
-        updated = (j.get("publishedDate", "") or "")[:10]
+        updated = (j.get("publishedDate", "") or "")[:16].replace("T", " ")
         if add_result(results, name, j.get("title", ""), loc, j.get("jobUrl", ""), updated):
             count += 1
     print(f"{count} matched")
@@ -331,7 +332,7 @@ for name, slug in SR_COMPANIES.items():
         loc_obj = j.get("location", {}) or {}
         parts = [loc_obj.get("city", ""), loc_obj.get("region", ""), loc_obj.get("country", "")]
         loc = ", ".join(p for p in parts if p)
-        updated = (j.get("releasedDate", "") or "")[:10]
+        updated = (j.get("releasedDate", "") or "")[:16].replace("T", " ")
         url = f"https://careers.smartrecruiters.com/{slug}/{j.get('id', '')}"
         if add_result(results, name, j.get("name", ""), loc, url, updated):
             count += 1
