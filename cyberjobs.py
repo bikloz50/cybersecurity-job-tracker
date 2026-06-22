@@ -533,7 +533,7 @@ function reset(){{
 }}
 </script>
 </body></html>"""
-with open(os.path.join(OUT_DIR, "cyber_jobs.html"),"w",encoding="utf-8") as f:
+with open(os.path.join(OUT_DIR, "index.html"),"w",encoding="utf-8") as f:
     f.write(html_doc)
 
-print("\nGenerated: cyber_jobs.html, cyber_jobs.csv, cyber_jobs.md")
+print("\nGenerated: index.html, cyber_jobs.csv, cyber_jobs.md")
