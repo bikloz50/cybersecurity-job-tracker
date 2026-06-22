@@ -465,7 +465,7 @@ rows_html = ""
 all_states = sorted({s for r in results for s in r["states"].split(", ") if s != "—"})
 for r in results:
     badge = "#2E75B6" if r["category"]=="Cybersecurity" else "#70AD47"
-    entry_badge = "#1F7A1F" if r["entry_level"]=="Yes" else "#B8860B"
+    entry_badge = "#1F7A1F" if r["entry_level"]=="Yes" else ("#2E8B57" if r["entry_level"]=="Yes (desc)" else "#B8860B")
     rows_html += f"""<tr data-cat="{r['category']}" data-entry="{r['entry_level']}" data-states="{html.escape(r['states'])}">
       <td><b>{html.escape(r['company'])}</b></td>
       <td>{html.escape(r['title'])}</td>
@@ -493,7 +493,7 @@ tr:hover{{background:#f0f6ff;}}
 a{{color:#1F4E79;font-weight:600;text-decoration:none;}}
 </style></head><body>
 <h1>Cybersecurity &amp; IT Job Tracker</h1>
-<div class="sub">Auto-generated {datetime.date.today()} · {len(results)} roles from {total_boards} live company boards · {cyber} cyber / {it} IT</div>
+<div class="sub">Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET · {len(results)} roles from {total_boards} live company boards · {cyber} cyber / {it} IT</div>
 <div class="controls">
   <button onclick="applyFilters('all',null)">All</button>
   <button onclick="applyFilters('Cybersecurity',null)">Cybersecurity</button>
