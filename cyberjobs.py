@@ -253,7 +253,7 @@ with open(os.path.join(OUT_DIR, "cyber_jobs.csv"),"w",newline="",encoding="utf-8
 # ---------- Markdown ----------
 with open(os.path.join(OUT_DIR, "cyber_jobs.md"),"w",encoding="utf-8") as f:
     f.write(f"# Cybersecurity & IT Job Tracker\n\n")
-    f.write(f"_Auto-generated {datetime.date.today()} — {len(results)} roles from {len(COMPANIES)} company boards_\n\n")
+    f.write(f"_Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET — {len(results)} roles from {len(COMPANIES)} company boards_\n\n")
     f.write("| Company | Role | Category | Entry? | States | Location | Apply |\n")
     f.write("|---|---|---|---|---|---|---|\n")
     for r in results:
