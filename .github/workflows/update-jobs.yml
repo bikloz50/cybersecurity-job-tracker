@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html cyber_jobs.csv cyber_jobs.md
+          git add index.html cyber_jobs.csv cyber_jobs.md seen_jobs.json
           git diff --cached --quiet && echo "No changes" || git commit -m "chore: auto-update job listings $(date -u +%Y-%m-%d)"
           git push

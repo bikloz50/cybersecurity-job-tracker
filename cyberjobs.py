@@ -312,8 +312,17 @@ def add_result(results, name, title, loc_raw, url, updated, desc_raw=""):
         "states": ", ".join(states) if states else "—",
         "url": url,
         "updated": updated,
+        "is_new": url not in seen_urls,
     })
     return True
+
+# Load previously seen job URLs
+SEEN_PATH = os.path.join(OUT_DIR, "seen_jobs.json")
+try:
+    with open(SEEN_PATH, "r", encoding="utf-8") as f:
+        seen_urls = set(json.load(f))
+except (FileNotFoundError, json.JSONDecodeError):
+    seen_urls = set()
 
 results = []
 total_boards = len(COMPANIES) + len(LEVER_COMPANIES) + len(ASHBY_COMPANIES) + len(SR_COMPANIES) + 1  # +1 Remote OK
@@ -433,32 +442,41 @@ if USAJOBS_KEY:
 else:
     print("\n[USAJobs] skipped — set USAJOBS_KEY env var to enable")
 
-# Sort: cyber first, entry "Yes" before "Yes (desc)" before "Maybe", then company
+# Save seen URLs for next run
+with open(SEEN_PATH, "w", encoding="utf-8") as f:
+    json.dump(list({r["url"] for r in results}), f)
+
+new_count = sum(1 for r in results if r["is_new"])
+
+# Sort: new first, then cyber first, entry "Yes" before "Yes (desc)" before "Maybe", then company
 ENTRY_ORDER = {"Yes": 0, "Yes (desc)": 1, "Maybe": 2}
-results.sort(key=lambda r: (r["category"] != "Cybersecurity",
+results.sort(key=lambda r: (not r["is_new"],
+                            r["category"] != "Cybersecurity",
                             ENTRY_ORDER.get(r["entry_level"], 2),
                             r["company"],
                             r["states"]))
 
-print(f"\nTOTAL matched roles: {len(results)}")
+print(f"\nTOTAL matched roles: {len(results)}  ({new_count} new since last run)")
 cyber = sum(1 for r in results if r['category']=='Cybersecurity')
 it = sum(1 for r in results if r['category']=='IT / On-Ramp')
 print(f"  Cybersecurity: {cyber}   IT/On-Ramp: {it}")
 
 # ---------- CSV ----------
 with open(os.path.join(OUT_DIR, "cyber_jobs.csv"),"w",newline="",encoding="utf-8") as f:
-    w = csv.DictWriter(f, fieldnames=["company","title","category","entry_level","states","location","updated","url"])
+    fields = ["company","title","category","entry_level","states","location","updated","url","is_new"]
+    w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
     w.writeheader()
     for r in results: w.writerow(r)
 
 # ---------- Markdown ----------
 with open(os.path.join(OUT_DIR, "cyber_jobs.md"),"w",encoding="utf-8") as f:
     f.write(f"# Cybersecurity & IT Job Tracker\n\n")
-    f.write(f"_Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET — {len(results)} roles from {total_boards} company boards_\n\n")
+    f.write(f"_Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET — {len(results)} roles from {total_boards} company boards · {new_count} new since last run_\n\n")
     f.write("| Company | Role | Category | Entry? | States | Location | Posted | Apply |\n")
     f.write("|---|---|---|---|---|---|---|---|\n")
     for r in results:
-        f.write(f"| {r['company']} | {r['title']} | {r['category']} | {r['entry_level']} | {r['states']} | {r['location']} | {r['updated'] or '—'} | [Apply]({r['url']}) |\n")
+        new_tag = " 🆕" if r["is_new"] else ""
+        f.write(f"| {r['company']} | {r['title']}{new_tag} | {r['category']} | {r['entry_level']} | {r['states']} | {r['location']} | {r['updated'] or '—'} | [Apply]({r['url']}) |\n")
 
 # ---------- HTML ----------
 rows_html = ""
@@ -466,9 +484,10 @@ all_states = sorted({s for r in results for s in r["states"].split(", ") if s !=
 for r in results:
     badge = "#2E75B6" if r["category"]=="Cybersecurity" else "#70AD47"
     entry_badge = "#1F7A1F" if r["entry_level"]=="Yes" else ("#2E8B57" if r["entry_level"]=="Yes (desc)" else "#B8860B")
-    rows_html += f"""<tr data-cat="{r['category']}" data-entry="{r['entry_level']}" data-states="{html.escape(r['states'])}">
+    new_badge = '<span style="background:#e63946;color:#fff;padding:2px 7px;border-radius:10px;font-size:11px;font-weight:700;margin-left:5px;">NEW</span>' if r["is_new"] else ""
+    rows_html += f"""<tr data-cat="{r['category']}" data-entry="{r['entry_level']}" data-states="{html.escape(r['states'])}" data-new="{str(r['is_new']).lower()}">
       <td><b>{html.escape(r['company'])}</b></td>
-      <td>{html.escape(r['title'])}</td>
+      <td>{html.escape(r['title'])}{new_badge}</td>
       <td><span style="background:{badge};color:#fff;padding:2px 8px;border-radius:10px;font-size:12px;">{r['category']}</span></td>
       <td><span style="color:{entry_badge};font-weight:600;">{r['entry_level']}</span></td>
       <td>{html.escape(r['states'])}</td>
@@ -493,12 +512,13 @@ tr:hover{{background:#f0f6ff;}}
 a{{color:#1F4E79;font-weight:600;text-decoration:none;}}
 </style></head><body>
 <h1>Cybersecurity &amp; IT Job Tracker</h1>
-<div class="sub">Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET · {len(results)} roles from {total_boards} live company boards · {cyber} cyber / {it} IT</div>
+<div class="sub">Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET · {len(results)} roles from {total_boards} live company boards · {cyber} cyber / {it} IT · <b style="color:#e63946">{new_count} new</b></div>
 <div class="controls">
   <button onclick="applyFilters('all',null)">All</button>
   <button onclick="applyFilters('Cybersecurity',null)">Cybersecurity</button>
   <button onclick="applyFilters('IT / On-Ramp',null)">IT / On-Ramp</button>
   <button class="alt" onclick="entryOnly()">Entry-Level Only</button>
+  <button class="alt" onclick="newOnly()" style="background:#e63946;">New Only</button>
   <button class="alt" onclick="reset()">Reset</button>
   <select id="stateFilter" onchange="applyFilters(null,this.value)" style="margin-left:8px;padding:7px 10px;border-radius:6px;border:1px solid #ccc;font-size:14px;">
     <option value="">— Filter by State —</option>
@@ -524,6 +544,11 @@ function entryOnly(){{
     var stateOk = !activeState||r.dataset.states.includes(activeState);
     var isEntry = r.dataset.entry==='Yes'||r.dataset.entry==='Yes (desc)';
     r.style.display=(isEntry&&stateOk)?'':'none';
+  }});
+}}
+function newOnly(){{
+  document.querySelectorAll('#t tbody tr').forEach(r=>{{
+    r.style.display=(r.dataset.new==='true')?'':'none';
   }});
 }}
 function reset(){{
