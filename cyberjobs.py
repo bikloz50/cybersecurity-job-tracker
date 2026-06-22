@@ -172,14 +172,74 @@ ENTRY_KW = ["intern", "new grad", "new-grad", "graduate", "entry", "junior",
 SENIOR_BLOCK = ["senior", "staff", "principal", "lead", "manager", "director",
                 "head of", "vp ", "ii", "iii", "iv", " 2", " 3", "sr."]
 
+LEVER_COMPANIES = {
+    "Palantir": "palantir",
+    "Sophos": "sophos",
+    "UltraViolet Cyber": "uvcyber",
+    "BlackCloak": "BlackCloak",
+}
+
+ASHBY_COMPANIES = {
+    "Illumio": "illumio",
+    "Snyk": "snyk",
+    "1Password": "1password",
+    "Drata": "drata",
+    "Vanta": "vanta",
+    "Semgrep": "semgrep",
+    "Socket Security": "socket",
+    "Horizon3.ai": "horizon3ai",
+    "Lumos": "lumos",
+    "WorkOS": "workos",
+    "Moxfive": "moxfive",
+}
+
+SR_COMPANIES = {
+    "Sophos (SR)": "Sophos",
+    "Trellix": "Trellix",
+    "Fortinet": "Fortinet",
+    "Check Point": "CheckPointSoftware",
+    "Forcepoint": "Forcepoint",
+    "Barracuda Networks": "BarracudaNetworks",
+    "Imperva": "Imperva",
+    "F5": "F5Networks",
+    "CyberArk": "CyberArk",
+    "Varonis": "Varonis",
+    "Securonix": "Securonix",
+}
+
+def _get(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.loads(r.read().decode())
+
 def fetch(token):
-    url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=20) as r:
-            return json.loads(r.read().decode())
+        return _get(f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true")
     except Exception as e:
-        print(f"  ! could not fetch {token}: {e}")
+        print(f"  ! {token}: {e}")
+        return None
+
+def fetch_lever(slug):
+    try:
+        return _get(f"https://api.lever.co/v0/postings/{slug}?mode=json")
+    except Exception as e:
+        print(f"  ! lever/{slug}: {e}")
+        return None
+
+def fetch_ashby(slug):
+    try:
+        data = _get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
+        return data.get("jobPostings", [])
+    except Exception as e:
+        print(f"  ! ashby/{slug}: {e}")
+        return None
+
+def fetch_sr(slug):
+    try:
+        data = _get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?limit=100")
+        return data.get("content", [])
+    except Exception as e:
+        print(f"  ! sr/{slug}: {e}")
         return None
 
 def categorize(title):
@@ -201,36 +261,80 @@ def clean_loc(job):
     loc = job.get("location", {})
     return (loc.get("name") if isinstance(loc, dict) else str(loc)) or ""
 
+def add_result(results, name, title, loc_raw, url, updated):
+    cat = categorize(title)
+    if not cat:
+        return False
+    is_us, states = extract_us_states(loc_raw)
+    if not is_us:
+        return False
+    results.append({
+        "company": name,
+        "title": title.strip(),
+        "category": cat,
+        "entry_level": "Yes" if is_entry(title) else "Maybe",
+        "location": loc_raw or "—",
+        "states": ", ".join(states) if states else "—",
+        "url": url,
+        "updated": updated,
+    })
+    return True
+
 results = []
+total_boards = len(COMPANIES) + len(LEVER_COMPANIES) + len(ASHBY_COMPANIES) + len(SR_COMPANIES)
 print("Fetching live job boards...\n")
+
+print("[Greenhouse]")
 for name, token in COMPANIES.items():
-    print(f"- {name}...", end=" ")
+    print(f"  - {name}...", end=" ")
     data = fetch(token)
-    if not data:
-        continue
-    jobs = data.get("jobs", [])
+    count = 0
+    if data:
+        for j in data.get("jobs", []):
+            loc = clean_loc(j)
+            updated = (j.get("updated_at", "") or "")[:10]
+            if add_result(results, name, j.get("title", ""), loc, j.get("absolute_url", ""), updated):
+                count += 1
+    print(f"{count} matched")
+
+print("\n[Lever]")
+for name, slug in LEVER_COMPANIES.items():
+    print(f"  - {name}...", end=" ")
+    jobs = fetch_lever(slug) or []
     count = 0
     for j in jobs:
-        title = j.get("title", "")
-        cat = categorize(title)
-        if not cat:
-            continue
-        loc_raw = clean_loc(j)
-        is_us, states = extract_us_states(loc_raw)
-        if not is_us:
-            continue
-        entry = is_entry(title)
-        results.append({
-            "company": name,
-            "title": title.strip(),
-            "category": cat,
-            "entry_level": "Yes" if entry else "Maybe",
-            "location": loc_raw or "—",
-            "states": ", ".join(states) if states else "—",
-            "url": j.get("absolute_url", ""),
-            "updated": (j.get("updated_at","") or "")[:10],
-        })
-        count += 1
+        loc = j.get("categories", {}).get("location", "") or ""
+        ts = j.get("createdAt", 0)
+        updated = datetime.datetime.fromtimestamp(ts / 1000).strftime("%Y-%m-%d") if ts else ""
+        if add_result(results, name, j.get("text", ""), loc, j.get("hostedUrl", ""), updated):
+            count += 1
+    print(f"{count} matched")
+
+print("\n[Ashby]")
+for name, slug in ASHBY_COMPANIES.items():
+    print(f"  - {name}...", end=" ")
+    jobs = fetch_ashby(slug) or []
+    count = 0
+    for j in jobs:
+        loc = j.get("location", "") or ""
+        updated = (j.get("publishedDate", "") or "")[:10]
+        if add_result(results, name, j.get("title", ""), loc, j.get("jobUrl", ""), updated):
+            count += 1
+    print(f"{count} matched")
+
+print("\n[SmartRecruiters]")
+for name, slug in SR_COMPANIES.items():
+    print(f"  - {name}...", end=" ")
+    jobs = fetch_sr(slug) or []
+    count = 0
+    for j in jobs:
+        loc_obj = j.get("location", {}) or {}
+        parts = [loc_obj.get("city", ""), loc_obj.get("region", ""), loc_obj.get("country", "")]
+        loc = ", ".join(p for p in parts if p)
+        updated = (j.get("releasedDate", "") or "")[:10]
+        url = f"https://careers.smartrecruiters.com/{slug}/{j.get('id', '')}"
+        if add_result(results, name, j.get("name", ""), loc, url, updated):
+            count += 1
     print(f"{count} matched")
 
 # Sort: cyber first, then entry-level first, then company, then state
@@ -253,7 +357,7 @@ with open(os.path.join(OUT_DIR, "cyber_jobs.csv"),"w",newline="",encoding="utf-8
 # ---------- Markdown ----------
 with open(os.path.join(OUT_DIR, "cyber_jobs.md"),"w",encoding="utf-8") as f:
     f.write(f"# Cybersecurity & IT Job Tracker\n\n")
-    f.write(f"_Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET — {len(results)} roles from {len(COMPANIES)} company boards_\n\n")
+    f.write(f"_Last updated {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} ET — {len(results)} roles from {total_boards} company boards_\n\n")
     f.write("| Company | Role | Category | Entry? | States | Location | Apply |\n")
     f.write("|---|---|---|---|---|---|---|\n")
     for r in results:
@@ -292,7 +396,7 @@ tr:hover{{background:#f0f6ff;}}
 a{{color:#1F4E79;font-weight:600;text-decoration:none;}}
 </style></head><body>
 <h1>Cybersecurity &amp; IT Job Tracker</h1>
-<div class="sub">Auto-generated {datetime.date.today()} · {len(results)} roles from {len(COMPANIES)} live company boards · {cyber} cyber / {it} IT</div>
+<div class="sub">Auto-generated {datetime.date.today()} · {len(results)} roles from {total_boards} live company boards · {cyber} cyber / {it} IT</div>
 <div class="controls">
   <button onclick="applyFilters('all',null)">All</button>
   <button onclick="applyFilters('Cybersecurity',null)">Cybersecurity</button>
