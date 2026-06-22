@@ -3,7 +3,7 @@ CyberJobs Aggregator — pulls live entry-level cybersecurity & IT roles
 from public Greenhouse job-board APIs, filters/categorizes them, and
 outputs HTML, CSV, and Markdown. Demo build.
 """
-import json, csv, urllib.request, datetime, html, re, os
+import json, csv, urllib.request, datetime, html, re, os, urllib.parse
 
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -167,10 +167,35 @@ IT_KW = ["help desk", "helpdesk", "service desk", "desktop support",
          "network technician", "it technician", "technical support",
          "it operations", "support engineer", "support specialist"]
 ENTRY_KW = ["intern", "new grad", "new-grad", "graduate", "entry", "junior",
-            "associate", "i ", " i", "early career", "university", "apprentice",
+            "associate", "early career", "university", "apprentice",
             "level 1", "tier 1", "trainee"]
 SENIOR_BLOCK = ["senior", "staff", "principal", "lead", "manager", "director",
-                "head of", "vp ", "ii", "iii", "iv", " 2", " 3", "sr."]
+                "head of", "vp ", "vice president", "chief ", "ciso", "cto", "ceo",
+                "ii", "iii", "iv", " 2", " 3", "sr.", "architect", "consultant"]
+
+# Phrases in job descriptions that signal entry-level / new-grad roles
+ENTRY_DESC_KW = [
+    "0-2 years", "0 to 2 years", "0 - 2 years",
+    "0-1 years", "0 to 1 year", "1-2 years", "1 to 2 years",
+    "0+ years", "1+ year", "up to 2 years",
+    "no experience required", "no prior experience",
+    "new grad", "new graduate", "recent grad", "recent graduate",
+    "fresh graduate", "college graduate", "university graduate",
+    "entry level", "entry-level",
+    "early career", "early-career",
+    "bachelor", "bs/ba", "b.s.", "b.a.",
+    "0 years of experience", "less than 1 year",
+]
+
+def strip_html(raw):
+    """Unescape HTML entities and strip tags, return lowercase plain text."""
+    unescaped = html.unescape(raw or "")
+    plain = re.sub(r'<[^>]+>', ' ', unescaped)
+    return re.sub(r'\s+', ' ', plain).strip().lower()
+
+def is_entry_from_desc(desc_plain):
+    """Return True if description contains new-grad / entry-level signals."""
+    return any(k in desc_plain for k in ENTRY_DESC_KW)
 
 LEVER_COMPANIES = {
     "Palantir": "palantir",
@@ -261,18 +286,28 @@ def clean_loc(job):
     loc = job.get("location", {})
     return (loc.get("name") if isinstance(loc, dict) else str(loc)) or ""
 
-def add_result(results, name, title, loc_raw, url, updated):
+def add_result(results, name, title, loc_raw, url, updated, desc_raw=""):
     cat = categorize(title)
     if not cat:
         return False
     is_us, states = extract_us_states(loc_raw)
     if not is_us:
         return False
+    desc_plain = strip_html(desc_raw)
+    has_senior = any(k in title.lower() for k in SENIOR_BLOCK)
+    entry_title = is_entry(title)
+    entry_desc = not has_senior and is_entry_from_desc(desc_plain)
+    if entry_title:
+        entry_label = "Yes"
+    elif entry_desc:
+        entry_label = "Yes (desc)"
+    else:
+        entry_label = "Maybe"
     results.append({
         "company": name,
         "title": title.strip(),
         "category": cat,
-        "entry_level": "Yes" if is_entry(title) else "Maybe",
+        "entry_level": entry_label,
         "location": loc_raw or "—",
         "states": ", ".join(states) if states else "—",
         "url": url,
@@ -281,7 +316,7 @@ def add_result(results, name, title, loc_raw, url, updated):
     return True
 
 results = []
-total_boards = len(COMPANIES) + len(LEVER_COMPANIES) + len(ASHBY_COMPANIES) + len(SR_COMPANIES)
+total_boards = len(COMPANIES) + len(LEVER_COMPANIES) + len(ASHBY_COMPANIES) + len(SR_COMPANIES) + 1  # +1 Remote OK
 print("Fetching live job boards...\n")
 
 print("[Greenhouse]")
@@ -294,7 +329,8 @@ for name, token in COMPANIES.items():
             loc = clean_loc(j)
             raw_ts = (j.get("updated_at", "") or "")
             updated = raw_ts[:16].replace("T", " ") if raw_ts else ""
-            if add_result(results, name, j.get("title", ""), loc, j.get("absolute_url", ""), updated):
+            desc = j.get("content", "") or ""
+            if add_result(results, name, j.get("title", ""), loc, j.get("absolute_url", ""), updated, desc):
                 count += 1
     print(f"{count} matched")
 
@@ -307,7 +343,8 @@ for name, slug in LEVER_COMPANIES.items():
         loc = j.get("categories", {}).get("location", "") or ""
         ts = j.get("createdAt", 0)
         updated = datetime.datetime.fromtimestamp(ts / 1000).strftime("%Y-%m-%d %H:%M") if ts else ""
-        if add_result(results, name, j.get("text", ""), loc, j.get("hostedUrl", ""), updated):
+        desc = j.get("descriptionPlain", "") or j.get("description", "") or ""
+        if add_result(results, name, j.get("text", ""), loc, j.get("hostedUrl", ""), updated, desc):
             count += 1
     print(f"{count} matched")
 
@@ -319,7 +356,8 @@ for name, slug in ASHBY_COMPANIES.items():
     for j in jobs:
         loc = j.get("location", "") or ""
         updated = (j.get("publishedDate", "") or "")[:16].replace("T", " ")
-        if add_result(results, name, j.get("title", ""), loc, j.get("jobUrl", ""), updated):
+        desc = j.get("descriptionPlain", "") or j.get("description", "") or ""
+        if add_result(results, name, j.get("title", ""), loc, j.get("jobUrl", ""), updated, desc):
             count += 1
     print(f"{count} matched")
 
@@ -338,9 +376,67 @@ for name, slug in SR_COMPANIES.items():
             count += 1
     print(f"{count} matched")
 
-# Sort: cyber first, then entry-level first, then company, then state
+print("\n[Remote OK]")
+try:
+    req = urllib.request.Request(
+        "https://remoteok.com/api?tag=security",
+        headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+    )
+    with urllib.request.urlopen(req, timeout=20) as r:
+        rok_jobs = [j for j in json.loads(r.read().decode()) if isinstance(j, dict) and j.get("position")]
+    count = 0
+    for j in rok_jobs:
+        loc = j.get("location", "") or "Remote (US)"
+        ts = j.get("epoch", 0)
+        updated = datetime.datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M") if ts else ""
+        desc = strip_html(j.get("description", "") or "")
+        company = j.get("company", "Unknown")
+        if add_result(results, company, j.get("position", ""), loc, j.get("url", ""), updated, desc):
+            count += 1
+    print(f"  Remote OK... {count} matched")
+except Exception as e:
+    print(f"  Remote OK... failed ({e})")
+
+USAJOBS_KEY = os.environ.get("USAJOBS_KEY", "")
+if USAJOBS_KEY:
+    print("\n[USAJobs]")
+    params = urllib.parse.urlencode({
+        "Keyword": "cybersecurity information security IT support help desk",
+        "ResultsPerPage": 500,
+        "JobCategoryCode": "2210;0080",  # IT Management + Security Administration
+    })
+    req = urllib.request.Request(
+        f"https://data.usajobs.gov/api/search?{params}",
+        headers={"User-Agent": USAJOBS_KEY, "Host": "data.usajobs.gov", "Authorization-Key": USAJOBS_KEY}
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            usa_data = json.loads(r.read().decode())
+        count = 0
+        for item in usa_data["SearchResult"]["SearchResultItems"]:
+            j = item["MatchedObjectDescriptor"]
+            title = j.get("PositionTitle", "")
+            loc = j.get("PositionLocationDisplay", "")
+            url = j.get("PositionURI", "")
+            updated = (j.get("PublicationStartDate", "") or "")[:16].replace("T", " ")
+            org = j.get("OrganizationName", "")
+            desc = j.get("UserArea", {}).get("Details", {}).get("JobSummary", "") or ""
+            low_grade = j.get("UserArea", {}).get("Details", {}).get("LowGrade", "")
+            # Treat GS-5 through GS-9 as entry-level signal in description
+            if low_grade and int(low_grade) <= 9:
+                desc = desc + " entry level 0-2 years recent graduate"
+            if add_result(results, f"USAJobs – {org}", title, loc, url, updated, desc):
+                count += 1
+        print(f"  USAJobs... {count} matched")
+    except Exception as e:
+        print(f"  USAJobs... failed ({e})")
+else:
+    print("\n[USAJobs] skipped — set USAJOBS_KEY env var to enable")
+
+# Sort: cyber first, entry "Yes" before "Yes (desc)" before "Maybe", then company
+ENTRY_ORDER = {"Yes": 0, "Yes (desc)": 1, "Maybe": 2}
 results.sort(key=lambda r: (r["category"] != "Cybersecurity",
-                            r["entry_level"] != "Yes",
+                            ENTRY_ORDER.get(r["entry_level"], 2),
                             r["company"],
                             r["states"]))
 
@@ -426,7 +522,8 @@ function applyFilters(cat,state){{
 function entryOnly(){{
   document.querySelectorAll('#t tbody tr').forEach(r=>{{
     var stateOk = !activeState||r.dataset.states.includes(activeState);
-    r.style.display=(r.dataset.entry==='Yes'&&stateOk)?'':'none';
+    var isEntry = r.dataset.entry==='Yes'||r.dataset.entry==='Yes (desc)';
+    r.style.display=(isEntry&&stateOk)?'':'none';
   }});
 }}
 function reset(){{

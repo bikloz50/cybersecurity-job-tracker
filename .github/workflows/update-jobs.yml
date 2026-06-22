@@ -18,6 +18,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run aggregator
+        env:
+          USAJOBS_KEY: ${{ secrets.USAJOBS_KEY }}
         run: python3 cyberjobs.py
 
       - name: Commit updated outputs
