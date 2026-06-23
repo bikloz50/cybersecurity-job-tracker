@@ -145,6 +145,20 @@ COMPANIES = {
     "Veriff": "veriff",
     "Jumio": "jumio",
     "Trace3": "trace3",
+    # --- Healthcare IT (large security/compliance teams) ---
+    "Inovalon": "inovalon",
+    # --- Fintech (SOC + AppSec heavy) ---
+    "Marqeta": "marqeta",
+    "Brex": "brex",
+    "Chime": "chime",
+    "Carta": "carta",
+    "Adyen": "adyen",
+    # --- Cloud / SaaS (large security teams) ---
+    "MongoDB": "mongodb",
+    "PagerDuty": "pagerduty",
+    "New Relic": "newrelic",
+    "Fastly": "fastly",
+    "Amplitude": "amplitude",
     # --- Big tech with large security teams ---
     "Stripe": "stripe",
     "Twilio": "twilio",
@@ -205,14 +219,19 @@ INHERENT_ENTRY_RE = re.compile(
 # Deliberately tight — "bachelor" and generic "entry level" are excluded
 # because they appear in senior role descriptions too.
 ENTRY_DESC_KW = [
-    "0-2 years", "0 to 2 years", "0 - 2 years",
-    "0-1 years", "0 to 1 year", "1-2 years", "1 to 2 years",
-    "0+ years of experience", "1+ year of experience",
-    "up to 2 years",
+    # hyphen variants
+    "0-2 years", "0-1 years", "1-2 years", "0 - 2 years", "1 - 2 years",
+    # en-dash and em-dash variants (common in copy-pasted JDs)
+    "0–2 years", "0—1 years", "1–2 years",
+    "0–2 years", "1–2 years",
+    # spelled out
+    "0 to 2 years", "0 to 1 year", "1 to 2 years",
+    "up to 2 years", "0+ years of experience", "1+ year of experience",
+    "0 years of experience", "less than 1 year",
+    # explicit new-grad signals
     "no experience required", "no prior experience",
     "new grad", "new graduate", "recent grad", "recent graduate",
     "fresh graduate", "college graduate", "university graduate",
-    "0 years of experience", "less than 1 year",
 ]
 
 def strip_html(raw):
