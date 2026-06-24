@@ -1,12 +1,14 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-06-24 22:58 ET — 306 roles from 88 company boards · 4 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Verkada | Technical Support Engineer 🆕 | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-06-24 13:39 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172999007) |
-| Verkada | Technical Support Engineer - University Graduate 2026 🆕 | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-06-24 13:42 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
-| GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-16 17:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
+| Datadog | Director, Engineering - Detection Platform 🆕 | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-06-24 16:08 | [Apply](https://careers.datadoghq.com/detail/8026520/?gh_jid=8026520) |
+| Fastly | Senior Engineer - Security Products (Backend APIs) 🆕 | Cybersecurity | Maybe | California | San Francisco, CA | 2026-06-24 16:35 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8011076) |
+| Okta | Director, Product Manager - Okta Identity Threat Detection and Response Products 🆕 | Cybersecurity | Maybe | California | San Francisco, California | 2026-06-24 17:13 | [Apply](https://www.okta.com/company/careers/opportunity/7648611?gh_jid=7648611) |
+| Carta | Senior IT Support Engineer 🆕 | IT / On-Ramp | Maybe | California | San Francisco, California | 2026-06-24 16:55 | [Apply](https://job-boards.greenhouse.io/carta/jobs/7784260003) |
+| GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-24 15:24 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | UltraViolet Cyber | Cybersecurity Analyst | Cybersecurity | Yes | Oregon | Portland, OR | 2026-06-22 21:28 | [Apply](https://jobs.lever.co/uvcyber/16622099-2f92-4671-a597-cb2ffec8a1ef) |
@@ -40,11 +42,11 @@ _Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new 
 | Bridgewater Associates Referrals | Senior Security Engineer Vulnerability & Exposure Management | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-22 00:01 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258) |
 | ButterflyMX | Chief Information Security Officer | Cybersecurity | Maybe | New York | New York  | 2026-01-13 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-chief-information-security-officer-butterflymx-1129549) |
 | Chime | Data Governance Engineer | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8525098002?gh_jid=8525098002) |
-| Chime | Director, Associate General Counsel, Privacy, Cybersecurity, and AI | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002) |
 | Chime | Manager, Product Security | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002) |
 | Chime | Physical Security Lead | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8509309002?gh_jid=8509309002) |
 | Chime | Product Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002) |
 | Chime | Senior Offensive Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8121830002?gh_jid=8121830002) |
+| Chime | Director, Associate General Counsel, Privacy, Cybersecurity, and AI | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-24 17:43 | [Apply](https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002) |
 | Chime | Senior Security Engineer | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-22 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8575572002?gh_jid=8575572002) |
 | Cloudflare | Incident Response Analyst | Cybersecurity | Maybe | Indiana | In-Office | 2026-06-24 08:29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
 | Cloudflare | Threat Detection and Incident Response Intern (Summer 2026) | Cybersecurity | Maybe | Indiana | In-Office | 2026-06-19 14:39 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) |
@@ -179,16 +181,16 @@ _Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new 
 | Ping Identity | Senior IAM Architect | Cybersecurity | Maybe | Remote (US) | USA - Remote | 2026-06-11 16:40 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8582934002) |
 | Reddit | Senior Machine Learning Engineer, GenAI Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-05-14 13:35 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7891887) |
 | Reddit | Staff Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-05-14 13:35 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7868511) |
-| Robinhood | Security Engineer, AI Vulnerability Management | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-22 16:47 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
-| Robinhood | Security Engineer, Detection & Response | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) |
-| Robinhood | Senior Security Analyst, Threat Intelligence | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697786?t=gh_src=&gh_jid=7697786) |
-| Robinhood | Senior Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
-| Robinhood | Staff Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299) |
-| Robinhood | Senior Cloud Security Engineer | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-12 15:47 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427) |
-| Robinhood | Senior Penetration Tester | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
-| Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-16 13:08 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
-| Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
-| Robinhood | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461) |
+| Robinhood | Security Engineer, AI Vulnerability Management | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
+| Robinhood | Security Engineer, Detection & Response | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) |
+| Robinhood | Senior Security Analyst, Threat Intelligence | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697786?t=gh_src=&gh_jid=7697786) |
+| Robinhood | Senior Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
+| Robinhood | Staff Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299) |
+| Robinhood | Senior Cloud Security Engineer | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427) |
+| Robinhood | Senior Penetration Tester | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
+| Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
+| Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
+| Robinhood | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461) |
 | Rubrik | Director, Product Management- Data Threat Analytics | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-17 14:00 | [Apply](https://www.rubrik.com/company/careers/departments/job.7508544?gh_jid=7508544) |
 | Rubrik | Senior IAM Engineer - FedRAMP | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-17 16:56 | [Apply](https://www.rubrik.com/company/careers/departments/job.7391657?gh_jid=7391657) |
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-17 14:00 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
@@ -222,7 +224,7 @@ _Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new 
 | Trace3 | Network Security Engineer (26-212) | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8016438) |
 | Trace3 | Senior Solution Architect | Security Generalist (Minnesota) | Cybersecurity | Maybe | Illinois | Chicago, IL | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7736048) |
 | Trace3 | Manager, Data Governance (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7985471) |
-| Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-06-23 11:08 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
+| Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-06-24 15:24 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
 | UltraViolet Cyber | Associate Principal Red Team Consultant | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-18 17:31 | [Apply](https://jobs.lever.co/uvcyber/c7507339-ccd9-4b7d-9341-c725b7cc0f26) |
 | UltraViolet Cyber | Cloud Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-05-12 15:08 | [Apply](https://jobs.lever.co/uvcyber/1f3dea26-c96b-44d4-9a8f-e4bb2135a27a) |
 | UltraViolet Cyber | Sales Executive, Offensive Security Services Consulting | Southeast | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-15 14:10 | [Apply](https://jobs.lever.co/uvcyber/59593739-b33f-4dcd-9ddc-2f28359f06ae) |
@@ -239,17 +241,17 @@ _Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new 
 | UltraViolet Cyber | Security Analyst II (SOC Analyst) | Cybersecurity | Maybe | Washington | Camas, WA | 2026-06-10 16:19 | [Apply](https://jobs.lever.co/uvcyber/38eff83a-0162-4b7a-8188-96fce21c2c63) |
 | Valon Tech | Staff Product Security Engineer Customer Platform | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-02-12 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-staff-product-security-engineer-customer-platform-valon-tech-1130220) |
 | Veeam Software | Senior Sales Engineer Data & AI Security | Cybersecurity | Maybe | Missouri | Saint Louis, MO, USA | 2026-03-15 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-data-ai-security-veeam-software-1130787) |
-| Verkada | Compliance TPM - Device Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-17 19:38 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167243007) |
-| Verkada | Director of Global Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5155848007) |
-| Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
-| Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5147165007) |
-| Verkada | Lead Product Manager, Security Trailers | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5062987007) |
-| Verkada | Product Marketing Manager, Privacy and Video Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5150337007) |
-| Verkada | Security Engineer, Core Command | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-18 17:52 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167601007) |
-| Verkada | Staff Backend Engineer - Device Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5154370007) |
-| Verkada | Staff+ Security Engineer, Developer Tools | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-18 17:49 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167607007) |
-| Verkada | Staff Software Engineer - Detection and Response Platform | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
-| Verkada | Staff+ Software Engineer, Security Infrastructure | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144160007) |
+| Verkada | Compliance TPM - Device Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167243007) |
+| Verkada | Director of Global Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5155848007) |
+| Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
+| Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5147165007) |
+| Verkada | Lead Product Manager, Security Trailers | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5062987007) |
+| Verkada | Product Marketing Manager, Privacy and Video Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5150337007) |
+| Verkada | Security Engineer, Core Command | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167601007) |
+| Verkada | Staff Backend Engineer - Device Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5154370007) |
+| Verkada | Staff+ Security Engineer, Developer Tools | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167607007) |
+| Verkada | Staff Software Engineer - Detection and Response Platform | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
+| Verkada | Staff+ Software Engineer, Security Infrastructure | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144160007) |
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | New York, Remote (US) | New York City; Remote - USA | 2026-05-28 06:26 | [Apply](https://www.wiz.io/careers/job/4625139006/:title?gh_jid=4625139006) |
 | Wiz | AI Security Researcher | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-05-14 14:09 | [Apply](https://www.wiz.io/careers/job/4626148006/:title?gh_jid=4626148006) |
 | Wiz | Software Security Engineer - Corporate Platforms | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-06-22 14:11 | [Apply](https://www.wiz.io/careers/job/4675321006/:title?gh_jid=4675321006) |
@@ -289,7 +291,7 @@ _Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new 
 | Datadog | Technical Support Engineer 2, Premier - Denver | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-06-15 13:00 | [Apply](https://careers.datadoghq.com/detail/7997872/?gh_jid=7997872) |
 | Keeper Security | Technical Consumer Support Specialist (Weekend Shift, Tues - Sat 8:30am - 5pm) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-06-22 17:53 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4267804009) |
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
-| Robinhood | Support Engineer | IT / On-Ramp | Maybe | Texas | Westlake, TX | 2026-06-12 13:46 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847491?t=gh_src=&gh_jid=7847491) |
+| Robinhood | Support Engineer | IT / On-Ramp | Maybe | Texas | Westlake, TX | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847491?t=gh_src=&gh_jid=7847491) |
 | Samsara | Business Operations Manager, Technical Support Ops | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-06-11 11:30 | [Apply](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103) |
 | Samsara | L1 Senior Bilingual Technical Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-06-18 12:49 | [Apply](https://www.samsara.com/company/careers/roles/7834003?gh_jid=7834003) |
 | Samsara | L1 Senior Technical Support | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-06-19 11:03 | [Apply](https://www.samsara.com/company/careers/roles/8004063?gh_jid=8004063) |
@@ -298,11 +300,13 @@ _Last updated 2026-06-24 18:52 ET — 302 roles from 88 company boards · 2 new 
 | Tenable | Technical Support Engineer (Remote/West Coast) | IT / On-Ramp | Maybe | Remote (US) | US - Remote - Washington, US - Remote - Oregon , US - Remote - California | 2026-06-22 08:05 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5271457008) |
 | Tenable | Technical Support Manager - West Coast/Pacific Time Zone | IT / On-Ramp | Maybe | Remote (US) | US - Remote - Washington, US - Remote - Oregon, US - Remote - California , US - Remote - Arizona | 2026-05-28 09:04 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5117126008) |
 | Veriff | Senior Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | USA (Remote)  | 2026-06-01 13:13 | [Apply](https://www.veriff.com/careers/position/8564900002?gh_jid=8564900002) |
-| Verkada | Senior Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4997665007) |
-| Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 13:40 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
-| Verkada | Technical Support Engineering Intern - Fall 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
-| Verkada | Technical Support Engineering Manager | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-16 13:06 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144834007) |
-| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 13:41 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
+| Verkada | Senior Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4997665007) |
+| Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
+| Verkada | Technical Support Engineering Intern - Fall 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
+| Verkada | Technical Support Engineering Manager | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144834007) |
+| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
+| Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172999007) |
+| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-06-24 17:45 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
 | Wiz | Manager, Solutions Support Engineering - East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-06-08 10:44 | [Apply](https://www.wiz.io/careers/job/4678144006/:title?gh_jid=4678144006) |
 | Wiz | Solutions Support Engineer - East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-06-04 11:22 | [Apply](https://www.wiz.io/careers/job/4666317006/:title?gh_jid=4666317006) |
 | Wiz | Solutions Support Engineer - West | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-06-04 11:22 | [Apply](https://www.wiz.io/careers/job/4666326006/:title?gh_jid=4666326006) |
