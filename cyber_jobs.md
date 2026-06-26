@@ -1,11 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-06-25 23:06 ET — 303 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-06-26 15:28 ET — 303 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Okta | Staff Security Engineer, TDI 🆕 | Cybersecurity | Maybe | California | San Francisco, California | 2026-06-25 17:08 | [Apply](https://www.okta.com/company/careers/opportunity/8015013?gh_jid=8015013) |
-| Okta | Staff Software Engineer, Security Engineering 🆕 | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-06-25 16:31 | [Apply](https://www.okta.com/company/careers/opportunity/7714159?gh_jid=7714159) |
+| Datadog | Group Product Manager, Cloud Security 🆕 | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-06-26 10:34 | [Apply](https://careers.datadoghq.com/detail/8029539/?gh_jid=8029539) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-24 15:24 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -145,6 +144,7 @@ _Last updated 2026-06-25 23:06 ET — 303 roles from 88 company boards · 2 new 
 | Obsidian Security | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-05-20 17:42 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/4914022008) |
 | Obsidian Security | Staff Product Manager, AI Governance & Supply Chain Integration Risk | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-06-17 21:22 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5268845008) |
 | Okta | Director, Product Manager - Okta Identity Threat Detection and Response Products | Cybersecurity | Maybe | California | San Francisco, California | 2026-06-24 17:13 | [Apply](https://www.okta.com/company/careers/opportunity/7648611?gh_jid=7648611) |
+| Okta | Staff Security Engineer, TDI | Cybersecurity | Maybe | California | San Francisco, California | 2026-06-25 17:08 | [Apply](https://www.okta.com/company/careers/opportunity/8015013?gh_jid=8015013) |
 | Okta | Product Manager - Identity Threat Protection | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-24 14:05 | [Apply](https://www.okta.com/company/careers/opportunity/7603685?gh_jid=7603685) |
 | Okta | Staff Product Security Engineer | Cybersecurity | Maybe | California, Illinois, New York, Washington | Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-06-24 14:06 | [Apply](https://www.okta.com/company/careers/opportunity/7976658?gh_jid=7976658) |
 | Okta | Staff Product Security Engineer, Reviews | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-24 14:06 | [Apply](https://www.okta.com/company/careers/opportunity/7976665?gh_jid=7976665) |
@@ -152,6 +152,7 @@ _Last updated 2026-06-25 23:06 ET — 303 roles from 88 company boards · 2 new 
 | Okta | Staff Product Marketing Manager, Security | Cybersecurity | Maybe | California, Illinois, Washington | Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 2026-06-24 14:05 | [Apply](https://www.okta.com/company/careers/opportunity/7559020?gh_jid=7559020) |
 | Okta | Director, Okta Threat Intelligence | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-06-24 14:05 | [Apply](https://www.okta.com/company/careers/opportunity/7923358?gh_jid=7923358) |
 | Okta | Senior Product Manager, Privileged Access Management | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-06-24 14:05 | [Apply](https://www.okta.com/company/careers/opportunity/7839344?gh_jid=7839344) |
+| Okta | Staff Software Engineer, Security Engineering | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-06-25 16:31 | [Apply](https://www.okta.com/company/careers/opportunity/7714159?gh_jid=7714159) |
 | OpenRouter | Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-01-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-security-engineer-openrouter-1129851) |
 | Palantir | Administrative Business Partner - Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-05-12 21:48 | [Apply](https://jobs.lever.co/palantir/0bbfd4f4-41ff-4ec6-b73f-5200efd5d4d3) |
 | Palantir | Senior Identity Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-05-28 21:17 | [Apply](https://jobs.lever.co/palantir/bb7af139-064c-4a59-a784-9ba8c4324d21) |
@@ -252,7 +253,6 @@ _Last updated 2026-06-25 23:06 ET — 303 roles from 88 company boards · 2 new 
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | New York, Remote (US) | New York City; Remote - USA | 2026-05-28 06:26 | [Apply](https://www.wiz.io/careers/job/4625139006/:title?gh_jid=4625139006) |
 | Wiz | AI Security Researcher | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-05-14 14:09 | [Apply](https://www.wiz.io/careers/job/4626148006/:title?gh_jid=4626148006) |
 | Wiz | Software Security Engineer - Corporate Platforms | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-06-22 14:11 | [Apply](https://www.wiz.io/careers/job/4675321006/:title?gh_jid=4675321006) |
-| Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-05-28 05:05 | [Apply](https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006) |
 | Workwize | Security Specialist | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-02-19 00:04 | [Apply](https://remoteOK.com/remote-jobs/remote-security-specialist-workwize-1130423) |
 | Zscaler | Senior Information Systems Engineer (Endpoint Systems) | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-06-23 15:27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5165140007) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust Branch | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-06-23 15:27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5155234007) |
