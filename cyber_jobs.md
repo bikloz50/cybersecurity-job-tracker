@@ -1,12 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-01 15:48 ET — 308 roles from 88 company boards · 3 new since last run_
+_Last updated 2026-07-01 19:00 ET — 309 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Brex | Senior GRC Lead 🆕 | Cybersecurity | Maybe | California | San Francisco, California, United States | 2026-06-30 19:11 | [Apply](https://www.brex.com/careers/8378792002?gh_jid=8378792002) |
-| Brex | Senior GRC Lead 🆕 | Cybersecurity | Maybe | New York | New York, New York, United States | 2026-06-30 19:11 | [Apply](https://www.brex.com/careers/8378840002?gh_jid=8378840002) |
-| Brex | Senior GRC Lead 🆕 | Cybersecurity | Maybe | Washington | Seattle, Washington, United States | 2026-06-30 19:11 | [Apply](https://www.brex.com/careers/8541244002?gh_jid=8541244002) |
+| GuidePoint Security | Security Analyst (East Coast)- Mid-Atlantic region 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-01 14:45 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6106576004?gh_jid=6106576004) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-29 15:10 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -29,8 +27,11 @@ _Last updated 2026-07-01 15:48 ET — 308 roles from 88 company boards · 3 new 
 | Armis | Enterprise Account Executive, AppSec (Bay Area) | Cybersecurity | Maybe | California | San Francisco, California, United States | 2026-06-01 09:03 | [Apply](https://job-boards.greenhouse.io/armissecurity/jobs/5981649004) |
 | BeyondTrust | Product Security Architect | Cybersecurity | Maybe | Remote (US) | Remote United States  | 2026-06-02 11:28 | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/7966559) |
 | BeyondTrust | Sr Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote United States  | 2026-06-23 08:56 | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/7966569) |
+| Brex | Senior GRC Lead | Cybersecurity | Maybe | California | San Francisco, California, United States | 2026-06-30 19:11 | [Apply](https://www.brex.com/careers/8378792002?gh_jid=8378792002) |
 | Brex | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, California, United States | 2026-06-10 13:59 | [Apply](https://www.brex.com/careers/8339252002?gh_jid=8339252002) |
+| Brex | Senior GRC Lead | Cybersecurity | Maybe | New York | New York, New York, United States | 2026-06-30 19:11 | [Apply](https://www.brex.com/careers/8378840002?gh_jid=8378840002) |
 | Brex | Senior Security Operations Engineer | Cybersecurity | Maybe | New York | New York, New York, United States | 2026-06-10 13:59 | [Apply](https://www.brex.com/careers/8339277002?gh_jid=8339277002) |
+| Brex | Senior GRC Lead | Cybersecurity | Maybe | Washington | Seattle, Washington, United States | 2026-06-30 19:11 | [Apply](https://www.brex.com/careers/8541244002?gh_jid=8541244002) |
 | Brex | Senior Security Operations Engineer | Cybersecurity | Maybe | Washington | Seattle, Washington, United States | 2026-06-10 13:59 | [Apply](https://www.brex.com/careers/8339283002?gh_jid=8339283002) |
 | Bridgewater Associates | Senior Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-04-23 00:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280) |
 | Bridgewater Associates Referrals | Senior Security Engineer Vulnerability & Exposure Management | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-22 00:01 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258) |
@@ -134,9 +135,9 @@ _Last updated 2026-07-01 15:48 ET — 308 roles from 88 company boards · 3 new 
 | Keeper Security | Senior Technical Product Manager, Privileged Access Management (PAM) | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-01-27 13:24 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4106538009) |
 | Keeper Security | Senior Vulnerability Engineer | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-04-15 12:12 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4222114009) |
 | Marqeta | Principal Security Engineer, Product & AI | Cybersecurity | Maybe | Remote (US) | Remote, USA | 2026-06-25 15:29 | [Apply](https://job-boards.greenhouse.io/marqeta/jobs/7868953) |
-| MongoDB | Security Software Engineer, Infrastructure Security (Staff or Senior) | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-06-30 14:01 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7727896) |
-| MongoDB | Senior Software Engineer, Server Security | Cybersecurity | Maybe | New York | New York City | 2026-06-30 14:01 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815677) |
-| MongoDB | Site Reliability Engineer (Senior or Staff), Infrastructure Security | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-06-30 14:01 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7758610) |
+| MongoDB | Security Software Engineer, Infrastructure Security (Staff or Senior) | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-07-01 12:52 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7727896) |
+| MongoDB | Senior Software Engineer, Server Security | Cybersecurity | Maybe | New York | New York City | 2026-07-01 12:52 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815677) |
+| MongoDB | Site Reliability Engineer (Senior or Staff), Infrastructure Security | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-07-01 12:52 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7758610) |
 | MoonPay | Product Security Manager | Cybersecurity | Maybe | Remote (US) | United States (East Coast Time Zone) - Remote | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-product-security-manager-moonpay-1130926) |
 | MoonPay | Cloud Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-cloud-security-engineer-moonpay-1130923) |
 | MoonPay | Senior Security Engineer Automation | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-security-engineer-automation-moonpay-1130921) |
@@ -182,7 +183,7 @@ _Last updated 2026-07-01 15:48 ET — 308 roles from 88 company boards · 3 new 
 | Reddit | Staff Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-05-14 13:35 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7868511) |
 | Robinhood | Security Engineer, AI Vulnerability Management | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
 | Robinhood | Security Engineer, Detection & Response | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-30 12:03 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) |
-| Robinhood | Senior Security Analyst, Threat Intelligence | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-30 12:03 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697786?t=gh_src=&gh_jid=7697786) |
+| Robinhood | Senior Security Analyst, Threat Intelligence | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-07-01 12:08 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697786?t=gh_src=&gh_jid=7697786) |
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-06-30 16:45 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Senior Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
 | Robinhood | Staff Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299) |
@@ -203,8 +204,8 @@ _Last updated 2026-07-01 15:48 ET — 308 roles from 88 company boards · 3 new 
 | Smartsheet | Director Field Security | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360) |
 | Sophos | Senior Advisor, Incident Response | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-06-23 18:43 | [Apply](https://jobs.lever.co/sophos/e72ab168-4317-4c6f-abf1-378409c84628) |
 | Stripe | Mobile Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-06-30 13:09 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
-| Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US-REMOTE | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7966641) |
 | Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7917252) |
+| Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US-REMOTE | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7966641) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | South San Francisco, CA and US-Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7923191) |
 | Stripe | Software Engineer, Security Analytics Infrastructure | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7826761) |
 | Stripe | Technical Program Manager,  Identity and Access Management Programs | Cybersecurity | Maybe | Remote (US) | Remote in the US, Chicago, Atlanta | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7417090) |
