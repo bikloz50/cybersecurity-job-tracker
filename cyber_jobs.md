@@ -1,9 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-02 15:23 ET — 307 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-07-02 18:26 ET — 308 roles from 88 company boards · 2 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
+| Inovalon | Data Governance & AI Strategy Advisor 🆕 | Cybersecurity | Maybe | Maryland | Bowie, MD | 2026-07-02 13:45 | [Apply](https://www.inovalon.com/careers/job/?gh_jid=7788898003) |
+| Inovalon | Data Governance & AI Strategy Advisor 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-02 13:48 | [Apply](https://www.inovalon.com/careers/job/?gh_jid=7792794003) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-29 15:10 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -67,7 +69,7 @@ _Last updated 2026-07-02 15:23 ET — 307 roles from 88 company boards · 0 new 
 | Databricks | Staff Product Manager, Security | Cybersecurity | Maybe | Washington | Seattle, Washington | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002) |
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) |
 | Databricks | Staff Security Assurance Engineer | Cybersecurity | Maybe | Washington, Washington DC | Remote - Washington D.C.; Washington, D.C. | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8430837002) |
-| Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | California, Illinois | Chicago, Illinois, USA; San Francisco, California, USA | 2026-05-15 08:44 | [Apply](https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428) |
+| Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | California, Illinois | Chicago, Illinois, USA; San Francisco, California, USA | 2026-07-02 13:28 | [Apply](https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428) |
 | Datadog | Area Vice President, Enterprise Security Sales | Cybersecurity | Maybe | California, New York | New York, New York, USA; San Francisco, California, USA | 2026-05-15 08:44 | [Apply](https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990) |
 | Datadog | Senior Technical Product Marketing Manager - Security | Cybersecurity | Maybe | California, New York | New York, New York, USA; San Francisco, California, USA | 2026-06-11 03:24 | [Apply](https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546) |
 | Datadog | Director, Security Channels (North America) | Cybersecurity | Maybe | California, New York, Remote (US) | Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote | 2026-06-25 11:13 | [Apply](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985) |
@@ -88,8 +90,8 @@ _Last updated 2026-07-02 15:23 ET — 307 roles from 88 company boards · 0 new 
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-06-26 13:34 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
 | Datadog | Senior Software Engineer - Source Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-07-01 16:13 | [Apply](https://careers.datadoghq.com/detail/8042240/?gh_jid=8042240) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-06-24 11:28 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
-| Dropbox | Senior Governance, Risk, & Compliance Program Manager | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-06-30 09:30 | [Apply](https://jobs.dropbox.com/listing/7773721?gh_jid=7773721) |
-| Dropbox | Senior Infrastructure Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-06-30 09:30 | [Apply](https://jobs.dropbox.com/listing/7967465?gh_jid=7967465) |
+| Dropbox | Senior Governance, Risk, & Compliance Program Manager | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-07-02 13:48 | [Apply](https://jobs.dropbox.com/listing/7773721?gh_jid=7773721) |
+| Dropbox | Senior Infrastructure Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-07-02 13:48 | [Apply](https://jobs.dropbox.com/listing/7967465?gh_jid=7967465) |
 | Faire | Senior Staff Engineer Product Security | Cybersecurity | Maybe | California | San Francisco, CA | 2026-03-19 00:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-staff-engineer-product-security-faire-1130828) |
 | Fastly | Senior Engineer - Security Products (Backend APIs) | Cybersecurity | Maybe | California | San Francisco, CA | 2026-06-25 16:58 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8011076) |
 | Fastly | Security Risk Lead | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-06-22 13:34 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=7615779) |
@@ -212,7 +214,6 @@ _Last updated 2026-07-02 15:23 ET — 307 roles from 88 company boards · 0 new 
 | Tanium | Director of Product Management - Endpoint Management Partner Integrations | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-06-30 13:08 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/7944552) |
 | Tanium | IT Security Engineer | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-06-30 15:46 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/7874958) |
 | Tenable | Channel Sales Engineer - Security, AI | Cybersecurity | Maybe | Remote (US) | US - Remote - Atlanta - Georgia , US - Headquarters - Maryland - Columbia | 2026-06-15 11:24 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5262487008) |
-| Tenable | Professional Services Principal Security Consultant (US NorthEast) | Cybersecurity | Maybe | Remote (US) | US - Remote - California | 2026-06-30 15:54 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5240195008) |
 | Tenable | Security Sales Engineer - Chicago, Pre-sales | Cybersecurity | Maybe | Remote (US) | US - Remote - Illinois | 2026-06-25 15:15 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5237863008) |
 | Tenable | Senior Software Engineer – Low-Latency, Async & Systems Programming | Cloud Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-06-23 18:32 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5277490008) |
 | ThreatLocker | Cybersecurity Community Champion | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-06-16 15:22 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5784564004) |
