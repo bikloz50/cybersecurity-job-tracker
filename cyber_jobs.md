@@ -1,10 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-01 23:01 ET — 308 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-07-02 15:23 ET — 307 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Datadog | Senior Software Engineer - Source Security 🆕 | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-07-01 16:13 | [Apply](https://careers.datadoghq.com/detail/8042240/?gh_jid=8042240) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-29 15:10 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -43,10 +42,10 @@ _Last updated 2026-07-01 23:01 ET — 308 roles from 88 company boards · 1 new 
 | Chime | Director, Associate General Counsel, Privacy, Cybersecurity, and AI | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-29 18:23 | [Apply](https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002) |
 | Chime | Senior Security Engineer | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-29 18:23 | [Apply](https://boards.greenhouse.io/chime/jobs/8575572002?gh_jid=8575572002) |
 | Cloudflare | Incident Response Analyst - React | Cybersecurity | Maybe | Indiana | In-Office | 2026-06-30 01:53 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
-| Cloudflare | Senior Global Physical Security Specialist | Cybersecurity | Maybe | Indiana | In-Office | 2026-06-29 10:34 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025514?gh_jid=8025514) |
+| Cloudflare | Senior Global Physical Security Specialist | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-02 10:07 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025514?gh_jid=8025514) |
 | Cloudflare | Threat Detection and Incident Response Intern (Summer 2026) | Cybersecurity | Maybe | Indiana | In-Office | 2026-06-19 14:39 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) |
-| Coinbase | Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-01 03:05 | [Apply](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336) |
-| Coinbase | Senior Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-01 03:05 | [Apply](https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333) |
+| Coinbase | Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-02 00:17 | [Apply](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336) |
+| Coinbase | Senior Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-02 00:17 | [Apply](https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333) |
 | Copia Automation | Lead Security Engineer | Cybersecurity | Maybe | New York | New York City | 2026-03-25 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876) |
 | Databricks | Engineering Manager - Identity and Access Management (IAM) | Cybersecurity | Maybe | California | Mountain View, California | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002) |
 | Databricks | Senior Engineering Manager - Trust and Safety | Cybersecurity | Maybe | California | Mountain View, California | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002) |
@@ -87,6 +86,7 @@ _Last updated 2026-07-01 23:01 ET — 308 roles from 88 company boards · 1 new 
 | Datadog | Senior PM - Managed Security Service Provider (Cloud SIEM) | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-05-20 17:14 | [Apply](https://careers.datadoghq.com/detail/7947732/?gh_jid=7947732) |
 | Datadog | Senior Security Engineer, Offensive Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-06-10 08:01 | [Apply](https://careers.datadoghq.com/detail/7871543/?gh_jid=7871543) |
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-06-26 13:34 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
+| Datadog | Senior Software Engineer - Source Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-07-01 16:13 | [Apply](https://careers.datadoghq.com/detail/8042240/?gh_jid=8042240) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-06-24 11:28 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Dropbox | Senior Governance, Risk, & Compliance Program Manager | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-06-30 09:30 | [Apply](https://jobs.dropbox.com/listing/7773721?gh_jid=7773721) |
 | Dropbox | Senior Infrastructure Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-06-30 09:30 | [Apply](https://jobs.dropbox.com/listing/7967465?gh_jid=7967465) |
@@ -120,7 +120,6 @@ _Last updated 2026-07-01 23:01 ET — 308 roles from 88 company boards · 1 new 
 | GuidePoint Security | Senior Network Security Engineer | Cybersecurity | Maybe | Virginia | Chantilly, VA | 2026-06-03 11:57 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6012414004?gh_jid=6012414004) |
 | GuidePoint Security | Senior Security Architect (Northern Virginia) - Mid-Atlantic region | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-06-16 16:36 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5743554004?gh_jid=5743554004) |
 | GuidePoint Security | CNAPP Security Engineer Mid Atlantic region | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-04-16 00:00 | [Apply](https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144) |
-| Huntress | Senior Offensive Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote US; United States of America | 2026-05-26 10:52 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7731434003) |
 | Huntress | Staff Product Manager, Endpoint Security Posture Management | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-05-21 14:11 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7574100003) |
 | IonQ | Senior IAM Engineer | Cybersecurity | Maybe | Colorado, Maryland, Remote (US), Washington | Bothell, Washington, United States; Boulder, Colorado, United States; College Park, Maryland, United States; Remote, US | 2026-04-11 00:01 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-iam-engineer-ionq-1131083) |
 | Keeper Security | Senior Software Engineer, Cryptography & Secrets Management | Cybersecurity | Maybe | California | El Dorado Hills, California, United States | 2026-03-12 19:29 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4091113009) |
@@ -181,7 +180,7 @@ _Last updated 2026-07-01 23:01 ET — 308 roles from 88 company boards · 1 new 
 | Reddit | Senior Security Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-06-30 14:50 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8039261) |
 | Reddit | Staff Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-05-14 13:35 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7868511) |
 | Robinhood | Security Engineer, AI Vulnerability Management | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
-| Robinhood | Security Engineer, Detection & Response | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-06-30 12:03 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) |
+| Robinhood | Security Engineer, Detection & Response | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-07-02 09:28 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) |
 | Robinhood | Senior Security Analyst, Threat Intelligence | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-07-01 12:08 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697786?t=gh_src=&gh_jid=7697786) |
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-06-30 16:45 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Senior Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |

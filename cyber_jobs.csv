@@ -1,5 +1,4 @@
 company,title,category,entry_level,states,location,updated,url,is_new
-Datadog,Senior Software Engineer - Source Security,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-07-01 16:13,https://careers.datadoghq.com/detail/8042240/?gh_jid=8042240,True
 GuidePoint Security,GPSU Cybersecurity Fall Internship,Cybersecurity,Yes,Remote (US),Remote,2026-06-29 15:10,https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004,False
 Keyrock,SOC Analyst,Cybersecurity,Yes,Remote (US),Remote (US),2026-02-12 16:01,https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231,False
 ThreatLocker,Jr Cyber Hero Intern,Cybersecurity,Yes,Florida,"Orlando, FL",2026-04-29 16:23,https://job-boards.greenhouse.io/threatlocker/jobs/5744483004,False
@@ -38,10 +37,10 @@ Chime,Senior Offensive Security Engineer,Cybersecurity,Maybe,California,"San Fra
 Chime,"Director, Associate General Counsel, Privacy, Cybersecurity, and AI",Cybersecurity,Maybe,"California, New York","New York, NY, USA; San Francisco, CA, USA",2026-06-29 18:23,https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002,False
 Chime,Senior Security Engineer,Cybersecurity,Maybe,"California, New York","New York, NY, USA; San Francisco, CA, USA",2026-06-29 18:23,https://boards.greenhouse.io/chime/jobs/8575572002?gh_jid=8575572002,False
 Cloudflare,Incident Response Analyst - React,Cybersecurity,Maybe,Indiana,In-Office,2026-06-30 01:53,https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650,False
-Cloudflare,Senior Global Physical Security Specialist,Cybersecurity,Maybe,Indiana,In-Office,2026-06-29 10:34,https://boards.greenhouse.io/cloudflare/jobs/8025514?gh_jid=8025514,False
+Cloudflare,Senior Global Physical Security Specialist,Cybersecurity,Maybe,Indiana,In-Office,2026-07-02 10:07,https://boards.greenhouse.io/cloudflare/jobs/8025514?gh_jid=8025514,False
 Cloudflare,Threat Detection and Incident Response Intern (Summer 2026),Cybersecurity,Maybe,Indiana,In-Office,2026-06-19 14:39,https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205,False
-Coinbase,Insider Threat Analyst,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-07-01 03:05,https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336,False
-Coinbase,Senior Insider Threat Analyst,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-07-01 03:05,https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333,False
+Coinbase,Insider Threat Analyst,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-07-02 00:17,https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336,False
+Coinbase,Senior Insider Threat Analyst,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-07-02 00:17,https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333,False
 Copia Automation,Lead Security Engineer,Cybersecurity,Maybe,New York,New York City,2026-03-25 16:00,https://remoteOK.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876,False
 Databricks,Engineering Manager - Identity and Access Management (IAM),Cybersecurity,Maybe,California,"Mountain View, California",2026-07-01 18:31,https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002,False
 Databricks,Senior Engineering Manager - Trust and Safety,Cybersecurity,Maybe,California,"Mountain View, California",2026-07-01 18:31,https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002,False
@@ -82,6 +81,7 @@ Datadog,Senior Cloud Security Engineer - K8s,Cybersecurity,Maybe,New York,"New Y
 Datadog,Senior PM - Managed Security Service Provider (Cloud SIEM),Cybersecurity,Maybe,New York,"New York, New York, USA",2026-05-20 17:14,https://careers.datadoghq.com/detail/7947732/?gh_jid=7947732,False
 Datadog,"Senior Security Engineer, Offensive Security",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-06-10 08:01,https://careers.datadoghq.com/detail/7871543/?gh_jid=7871543,False
 Datadog,"Senior Services Architect, Security-Cloud SIEM",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-06-26 13:34,https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907,False
+Datadog,Senior Software Engineer - Source Security,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-07-01 16:13,https://careers.datadoghq.com/detail/8042240/?gh_jid=8042240,False
 Datadog,Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",2026-06-24 11:28,https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877,False
 Dropbox,"Senior Governance, Risk, & Compliance Program Manager",Cybersecurity,Maybe,Remote (US),Remote - US: Select locations,2026-06-30 09:30,https://jobs.dropbox.com/listing/7773721?gh_jid=7773721,False
 Dropbox,Senior Infrastructure Security Engineer,Cybersecurity,Maybe,Remote (US),Remote - US: Select locations,2026-06-30 09:30,https://jobs.dropbox.com/listing/7967465?gh_jid=7967465,False
@@ -115,7 +115,6 @@ GuidePoint Security,Senior Cyber Security Engineer,Cybersecurity,Maybe,Virginia,
 GuidePoint Security,Senior Network Security Engineer,Cybersecurity,Maybe,Virginia,"Chantilly, VA",2026-06-03 11:57,https://boards.greenhouse.io/guidepointsecurity/jobs/6012414004?gh_jid=6012414004,False
 GuidePoint Security,Senior Security Architect (Northern Virginia) - Mid-Atlantic region,Cybersecurity,Maybe,Virginia,"Reston, VA",2026-06-16 16:36,https://boards.greenhouse.io/guidepointsecurity/jobs/5743554004?gh_jid=5743554004,False
 GuidePoint Security,CNAPP Security Engineer Mid Atlantic region,Cybersecurity,Maybe,Virginia,"Reston, VA",2026-04-16 00:00,https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144,False
-Huntress,Senior Offensive Security Engineer,Cybersecurity,Maybe,Remote (US),Remote US; United States of America,2026-05-26 10:52,https://job-boards.greenhouse.io/huntress/jobs/7731434003,False
 Huntress,"Staff Product Manager, Endpoint Security Posture Management",Cybersecurity,Maybe,Remote (US),Remote US,2026-05-21 14:11,https://job-boards.greenhouse.io/huntress/jobs/7574100003,False
 IonQ,Senior IAM Engineer,Cybersecurity,Maybe,"Colorado, Maryland, Remote (US), Washington","Bothell, Washington, United States; Boulder, Colorado, United States; College Park, Maryland, United States; Remote, US",2026-04-11 00:01,https://remoteOK.com/remote-jobs/remote-senior-iam-engineer-ionq-1131083,False
 Keeper Security,"Senior Software Engineer, Cryptography & Secrets Management",Cybersecurity,Maybe,California,"El Dorado Hills, California, United States",2026-03-12 19:29,https://job-boards.greenhouse.io/keepersecurity/jobs/4091113009,False
@@ -176,7 +175,7 @@ Reddit,"Senior Machine Learning Engineer, GenAI Security",Cybersecurity,Maybe,Re
 Reddit,"Senior Security Engineer, AI Security",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-06-30 14:50,https://job-boards.greenhouse.io/reddit/jobs/8039261,False
 Reddit,Staff Product Security Engineer,Cybersecurity,Maybe,Remote (US),Remote - United States,2026-05-14 13:35,https://job-boards.greenhouse.io/reddit/jobs/7868511,False
 Robinhood,"Security Engineer, AI Vulnerability Management",Cybersecurity,Maybe,California,"Menlo Park, CA",2026-06-24 16:17,https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818,False
-Robinhood,"Security Engineer, Detection & Response",Cybersecurity,Maybe,California,"Menlo Park, CA",2026-06-30 12:03,https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725,False
+Robinhood,"Security Engineer, Detection & Response",Cybersecurity,Maybe,California,"Menlo Park, CA",2026-07-02 09:28,https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725,False
 Robinhood,"Senior Security Analyst, Threat Intelligence",Cybersecurity,Maybe,California,"Menlo Park, CA",2026-07-01 12:08,https://boards.greenhouse.io/robinhood/jobs/7697786?t=gh_src=&gh_jid=7697786,False
 Robinhood,Staff Offensive Security Engineer,Cybersecurity,Maybe,"California, New York, Washington","Bellevue, WA; Menlo Park, CA; New York, NY",2026-06-30 16:45,https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167,False
 Robinhood,"Senior Security Engineer, Application Security",Cybersecurity,Maybe,"California, Washington","Bellevue, WA; Menlo Park, CA",2026-06-24 16:17,https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258,False
