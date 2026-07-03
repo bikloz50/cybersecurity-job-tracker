@@ -1,6 +1,6 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-03 18:13 ET — 313 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-07-03 22:53 ET — 313 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -282,7 +282,7 @@ _Last updated 2026-07-03 18:13 ET — 313 roles from 88 company boards · 0 new 
 | Zscaler | Specialty Sales Account Executive - Data Security SLED/Healthcare | Cybersecurity | Maybe | Remote (US) | Remote - Texas, USA | 2026-06-23 15:27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5124291007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-06-28 16:17 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-06-23 15:27 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
-| Elastic | IT Support Technician | IT / On-Ramp | Yes | Texas | Austin, TX | 2026-07-02 17:21 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7922458&gh_jid=7922458) |
+| Elastic | IT Support Technician | IT / On-Ramp | Yes | Texas | Austin, TX | 2026-07-03 15:10 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7922458&gh_jid=7922458) |
 | Fastly | Global IT Support Supervisor | IT / On-Ramp | Yes | Colorado | Denver, CO | 2026-06-22 13:34 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=7858957) |
 | Abnormal Security | L1 Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-06-18 20:43 | [Apply](https://abnormal.ai/careers/jobs/7764157003?gh_jid=7764157003) |
 | Amplitude | Technical Support Engineer (Statsig) | IT / On-Ramp | Maybe | New York | New York, NY | 2026-06-18 18:38 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8583053002) |
