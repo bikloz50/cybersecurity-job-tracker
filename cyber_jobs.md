@@ -1,12 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-03 15:17 ET — 313 roles from 88 company boards · 3 new since last run_
+_Last updated 2026-07-03 18:13 ET — 313 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Obsidian Security | AI Security Engineer 🆕 | Cybersecurity | Maybe | California | Palo Alto, California, USA | 2026-07-03 02:01 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) |
-| Okta | Senior Product Manager - Okta Identity Governance 🆕 | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-07-02 19:45 | [Apply](https://www.okta.com/company/careers/opportunity/6593004?gh_jid=6593004) |
-| Cloudflare | Technical Support Engineer Intern (Fall 2026) 🆕 | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-07-03 08:44 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-06-29 15:10 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -145,11 +142,13 @@ _Last updated 2026-07-03 15:17 ET — 313 roles from 88 company boards · 3 new 
 | MoonPay | Cloud Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-cloud-security-engineer-moonpay-1130923) |
 | MoonPay | Senior Security Engineer Automation | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-security-engineer-automation-moonpay-1130921) |
 | NerdWallet | Security Engineer II Canada | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-03-22 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860) |
+| Obsidian Security | AI Security Engineer | Cybersecurity | Maybe | California | Palo Alto, California, USA | 2026-07-03 02:01 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) |
 | Obsidian Security | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-05-20 17:42 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/4914022008) |
 | Obsidian Security | Staff Product Manager, AI Governance & Supply Chain Integration Risk | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-06-17 21:22 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5268845008) |
 | Okta | Staff Security Engineer, TDI | Cybersecurity | Maybe | California | San Francisco, California | 2026-06-30 12:41 | [Apply](https://www.okta.com/company/careers/opportunity/8015013?gh_jid=8015013) |
 | Okta | Director, Product Manager - Okta Identity Threat Detection and Response Products | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-29 12:07 | [Apply](https://www.okta.com/company/careers/opportunity/7648611?gh_jid=7648611) |
 | Okta | Product Manager - Identity Threat Protection | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-24 14:05 | [Apply](https://www.okta.com/company/careers/opportunity/7603685?gh_jid=7603685) |
+| Okta | Senior Product Manager - Okta Identity Governance | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-07-02 19:45 | [Apply](https://www.okta.com/company/careers/opportunity/6593004?gh_jid=6593004) |
 | Okta | Staff Product Security Engineer | Cybersecurity | Maybe | California, Illinois, New York, Washington | Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-06-24 14:06 | [Apply](https://www.okta.com/company/careers/opportunity/7976658?gh_jid=7976658) |
 | Okta | Staff Product Security Engineer, Reviews | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-24 14:06 | [Apply](https://www.okta.com/company/careers/opportunity/7976665?gh_jid=7976665) |
 | Okta | Principal Product Manager, IAM Security & Agentic Identity | Cybersecurity | Maybe | California, Illinois, Washington | Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC | 2026-06-24 14:06 | [Apply](https://www.okta.com/company/careers/opportunity/8009100?gh_jid=8009100) |
@@ -227,7 +226,7 @@ _Last updated 2026-07-03 15:17 ET — 313 roles from 88 company boards · 3 new 
 | Trace3 | Network Security Engineer (26-212) | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8016438) |
 | Trace3 | Senior Solution Architect | Security Generalist (Minnesota) | Cybersecurity | Maybe | Illinois | Chicago, IL | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7736048) |
 | Trace3 | Manager, Data Governance (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7985471) |
-| Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-06-24 15:24 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
+| Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-07-03 11:19 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
 | UltraViolet Cyber | Associate Principal Red Team Consultant | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-18 17:31 | [Apply](https://jobs.lever.co/uvcyber/c7507339-ccd9-4b7d-9341-c725b7cc0f26) |
 | UltraViolet Cyber | Sales Executive, Offensive Security Services Consulting | Southeast | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-15 14:10 | [Apply](https://jobs.lever.co/uvcyber/59593739-b33f-4dcd-9ddc-2f28359f06ae) |
 | UltraViolet Cyber | AWS Cloud Governance & Compliance Advisor (Top Secret) | Cybersecurity | Maybe | Virginia | Springfield, VA | 2026-06-16 18:11 | [Apply](https://jobs.lever.co/uvcyber/4c7a7dcb-b75a-49fc-a174-da21131499e4) |
@@ -288,6 +287,7 @@ _Last updated 2026-07-03 15:17 ET — 313 roles from 88 company boards · 3 new 
 | Abnormal Security | L1 Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-06-18 20:43 | [Apply](https://abnormal.ai/careers/jobs/7764157003?gh_jid=7764157003) |
 | Amplitude | Technical Support Engineer (Statsig) | IT / On-Ramp | Maybe | New York | New York, NY | 2026-06-18 18:38 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8583053002) |
 | Carta | Senior IT Support Engineer | IT / On-Ramp | Maybe | California | San Francisco, California | 2026-06-24 16:55 | [Apply](https://job-boards.greenhouse.io/carta/jobs/7784260003) |
+| Cloudflare | Technical Support Engineer Intern (Fall 2026) | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-07-03 08:44 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) |
 | Databricks | Staff Designated Support Engineer | IT / On-Ramp | Maybe | California | San Francisco, California | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-07-01 18:31 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
 | Datadog | Technical Support Engineer 2, Premier - San Francisco | IT / On-Ramp | Maybe | California | San Francisco, California, USA | 2026-06-11 03:24 | [Apply](https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072) |
