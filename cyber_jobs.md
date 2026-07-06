@@ -1,6 +1,6 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-06 18:56 ET — 309 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-07-06 22:56 ET — 309 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -122,13 +122,13 @@ _Last updated 2026-07-06 18:56 ET — 309 roles from 88 company boards · 0 new 
 | GuidePoint Security | CNAPP Security Engineer Mid Atlantic region | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-04-16 00:00 | [Apply](https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144) |
 | Huntress | Staff Product Manager, Endpoint Security Posture Management | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-05-21 14:11 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7574100003) |
 | Inovalon | Data Governance & AI Strategy Advisor | Cybersecurity | Maybe | Maryland | Bowie, MD | 2026-07-03 09:39 | [Apply](https://www.inovalon.com/careers/job/?gh_jid=7788898003) |
-| Inovalon | Data Governance & AI Strategy Advisor | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-03 09:39 | [Apply](https://www.inovalon.com/careers/job/?gh_jid=7792794003) |
+| Inovalon | Data Governance & AI Strategy Advisor | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-06 15:27 | [Apply](https://www.inovalon.com/careers/job/?gh_jid=7792794003) |
 | IonQ | Senior IAM Engineer | Cybersecurity | Maybe | Colorado, Maryland, Remote (US), Washington | Bothell, Washington, United States; Boulder, Colorado, United States; College Park, Maryland, United States; Remote, US | 2026-04-11 00:01 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-iam-engineer-ionq-1131083) |
 | Keeper Security | Senior Software Engineer, Cryptography & Secrets Management | Cybersecurity | Maybe | California | El Dorado Hills, California, United States | 2026-03-12 19:29 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4091113009) |
 | Keeper Security | Information Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-05-27 13:35 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4139678009) |
 | Keeper Security | Senior Detection Engineer (SIEM / Security Observability) | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-04-16 13:00 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4105389009) |
 | Keeper Security | Senior Machine Learning Engineer, Cybersecurity / Threat Detection | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-01-27 14:19 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4105214009) |
-| Keeper Security | Senior QA Analyst, Privileged Access Management | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-05-12 16:59 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4090651009) |
+| Keeper Security | Senior QA Analyst, Privileged Access Management | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-07-06 17:30 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4090651009) |
 | Keeper Security | Senior SDET, API / Security | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-03-16 12:17 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4183460009) |
 | Keeper Security | Senior Software Engineer, Endpoint Agent (MacOS) | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-03-13 14:23 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4183415009) |
 | Keeper Security | Senior Software Engineer, Endpoint Agent (Windows) | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-03-13 14:19 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4183410009) |
@@ -146,7 +146,7 @@ _Last updated 2026-07-06 18:56 ET — 309 roles from 88 company boards · 0 new 
 | Obsidian Security | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-05-20 17:42 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/4914022008) |
 | Obsidian Security | Staff Product Manager, AI Governance & Supply Chain Integration Risk | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-06-17 21:22 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5268845008) |
 | Okta | Staff Security Engineer, TDI | Cybersecurity | Maybe | California | San Francisco, California | 2026-06-30 12:41 | [Apply](https://www.okta.com/company/careers/opportunity/8015013?gh_jid=8015013) |
-| Okta | Director, Product Manager - Okta Identity Threat Detection and Response Products | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-29 12:07 | [Apply](https://www.okta.com/company/careers/opportunity/7648611?gh_jid=7648611) |
+| Okta | Director, Product Manager - Okta Identity Threat Detection and Response Products | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-07-06 18:02 | [Apply](https://www.okta.com/company/careers/opportunity/7648611?gh_jid=7648611) |
 | Okta | Product Manager - Identity Threat Protection | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-06-24 14:05 | [Apply](https://www.okta.com/company/careers/opportunity/7603685?gh_jid=7603685) |
 | Okta | Senior Product Manager - Okta Identity Governance | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-07-02 19:45 | [Apply](https://www.okta.com/company/careers/opportunity/6593004?gh_jid=6593004) |
 | Okta | Staff Product Security Engineer | Cybersecurity | Maybe | California, Illinois, New York, Washington | Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-06-24 14:06 | [Apply](https://www.okta.com/company/careers/opportunity/7976658?gh_jid=7976658) |
@@ -192,13 +192,13 @@ _Last updated 2026-07-06 18:56 ET — 309 roles from 88 company boards · 0 new 
 | Robinhood | Senior Penetration Tester | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813) |
 | Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
 | Robinhood | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-06-24 16:17 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461) |
-| Rubrik | Director, Product Management- Data Threat Analytics | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-25 14:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7508544?gh_jid=7508544) |
-| Rubrik | Senior IAM Engineer - FedRAMP | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-25 14:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7391657?gh_jid=7391657) |
-| Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-25 14:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
-| Rubrik | Staff Product Manager, Rubrik Security Cloud AI Platform | Cybersecurity | Maybe | California | Palo Altp, CA | 2026-06-25 14:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7891325?gh_jid=7891325) |
-| Rubrik | Staff/Sr Information Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-06-25 14:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7972422?gh_jid=7972422) |
-| Rubrik | Application Security Engineer | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:50 | [Apply](https://www.rubrik.com/company/careers/departments/job.7616016?gh_jid=7616016) |
-| Rubrik | SOC Security Analyst - FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-25 14:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7977005?gh_jid=7977005) |
+| Rubrik | Director, Product Management- Data Threat Analytics | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7508544?gh_jid=7508544) |
+| Rubrik | Senior IAM Engineer - FedRAMP | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7391657?gh_jid=7391657) |
+| Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
+| Rubrik | Staff Product Manager, Rubrik Security Cloud AI Platform | Cybersecurity | Maybe | California | Palo Altp, CA | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7891325?gh_jid=7891325) |
+| Rubrik | Staff/Sr Information Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7972422?gh_jid=7972422) |
+| Rubrik | Application Security Engineer | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7616016?gh_jid=7616016) |
+| Rubrik | SOC Security Analyst - FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-06 17:24 | [Apply](https://www.rubrik.com/company/careers/departments/job.7977005?gh_jid=7977005) |
 | Samsara | Sr. Security Engineer - Enterprise Security | Cybersecurity | Maybe | California | Remote - CA | 2026-06-11 11:29 | [Apply](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492) |
 | Samsara | Director, GTM Data Governance & Strategy | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-06-25 14:49 | [Apply](https://www.samsara.com/company/careers/roles/7847218?gh_jid=7847218) |
 | Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-07-01 18:03 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
