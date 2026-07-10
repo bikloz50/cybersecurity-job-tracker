@@ -1,11 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-10 15:37 ET — 302 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-07-10 18:24 ET — 304 roles from 88 company boards · 2 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Cloudflare | Product Security Engineer 🆕 | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-09 23:39 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8053116?gh_jid=8053116) |
-| ThreatLocker | Detection Engineer 🆕 | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-07-10 08:10 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/6113576004) |
+| Twilio | Security Compliance & Regulatory Affairs Analyst 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-07-10 14:16 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7599044) |
+| New Relic | Technical Support Engineer - Java/.NET (PST) 🆕 | IT / On-Ramp | Yes (desc) | Arizona, Colorado, Idaho, Nevada, Oregon, Utah | Boise, Idaho, USA; Denver, Colorado, USA; Las Vegas, Nevada, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Reno, Nevada, USA; Salt Lake City, Utah, USA; Vancouver, Washington, USA | 2026-07-10 12:10 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5267396008) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-07-09 12:39 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -42,6 +42,7 @@ _Last updated 2026-07-10 15:37 ET — 302 roles from 88 company boards · 2 new 
 | Cloudflare | Incident Response Analyst - React | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-06 08:18 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
 | Cloudflare | Incident Response Engineer - CMDC | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-08 10:51 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8037628?gh_jid=8037628) |
 | Cloudflare | Incident Response Engineer - PhishGuard | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-08 10:50 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8037643?gh_jid=8037643) |
+| Cloudflare | Product Security Engineer | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-09 23:39 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8053116?gh_jid=8053116) |
 | Cloudflare | Senior Global Physical Security Specialist | Cybersecurity | Maybe | Indiana | In-Office | 2026-07-06 11:11 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025514?gh_jid=8025514) |
 | Coinbase | Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-02 00:17 | [Apply](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336) |
 | Coinbase | Senior Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-02 00:17 | [Apply](https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333) |
@@ -200,8 +201,8 @@ _Last updated 2026-07-10 15:37 ET — 302 roles from 88 company boards · 2 new 
 | Smartsheet | Director Field Security | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360) |
 | Sophos | Senior Advisor, Incident Response | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-06-23 18:43 | [Apply](https://jobs.lever.co/sophos/e72ab168-4317-4c6f-abf1-378409c84628) |
 | Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-07-09 14:12 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
-| Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7917252) |
 | Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US-REMOTE | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7966641) |
+| Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7917252) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | South San Francisco, CA and US-Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7923191) |
 | Stripe | Software Engineer, Security Analytics Infrastructure | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7826761) |
 | Stripe | Technical Program Manager,  Identity and Access Management Programs | Cybersecurity | Maybe | Remote (US) | Remote in the US, Chicago, Atlanta | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7417090) |
@@ -213,6 +214,7 @@ _Last updated 2026-07-10 15:37 ET — 302 roles from 88 company boards · 2 new 
 | Tenable | Senior Software Engineer - Cloud Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-07-08 13:17 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5277490008) |
 | ThreatLocker | Cybersecurity Community Champion | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-06-16 15:22 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5784564004) |
 | ThreatLocker | Cyber Threat Intelligence Research Analyst | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-03-31 09:04 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5710154004) |
+| ThreatLocker | Detection Engineer | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-07-10 08:10 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/6113576004) |
 | ThreatLocker | Software Developer – Security Code Review | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-05-22 10:28 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5698273004) |
 | Trace3 | Sr. Solutions Architect | Security (Northern California) | Cybersecurity | Maybe | California | Sacramento, CA | 2026-06-27 01:04 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7826160) |
 | Trace3 | Senior Solution Architect | Security Generalist (Minnesota) | Cybersecurity | Maybe | Illinois | Chicago, IL | 2026-06-23 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7736048) |
