@@ -1,10 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-17 14:49 ET — 290 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-07-17 18:06 ET — 292 roles from 88 company boards · 2 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Okta | Staff Product Marketing Manager, Privileged Access Management 🆕 | Cybersecurity | Maybe | California, Illinois, Washington | Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 2026-07-16 19:36 | [Apply](https://www.okta.com/company/careers/opportunity/8070608?gh_jid=8070608) |
+| GuidePoint Security | Microsoft Security Engineer- Remote (Anywhere in the U.S.) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-17 12:22 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115602004?gh_jid=6115602004) |
+| Trace3 | Cybersecurity Engineer III 🆕 | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-07-17 12:48 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8072162) |
 | GuidePoint Security | GPSU Cybersecurity Fall Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-07-16 15:49 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6014518004?gh_jid=6014518004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -92,7 +93,7 @@ _Last updated 2026-07-17 14:49 ET — 290 roles from 88 company boards · 1 new 
 | Dropbox | Senior Governance, Risk, & Compliance Program Manager | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-07-02 13:48 | [Apply](https://jobs.dropbox.com/listing/7773721?gh_jid=7773721) |
 | Dropbox | Senior Infrastructure Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-07-15 01:20 | [Apply](https://jobs.dropbox.com/listing/7967465?gh_jid=7967465) |
 | Faire | Senior Staff Engineer Product Security | Cybersecurity | Maybe | California | San Francisco, CA | 2026-03-19 00:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-staff-engineer-product-security-faire-1130828) |
-| Fastly | Senior Engineer - Security Products (Backend APIs) | Cybersecurity | Maybe | California | San Francisco, CA | 2026-07-16 17:50 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8011076) |
+| Fastly | Senior Engineer - Security Products (Backend APIs) | Cybersecurity | Maybe | California | San Francisco, CA | 2026-07-17 11:16 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8011076) |
 | Fastly | Security Risk Lead | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-07-16 17:47 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=7615779) |
 | Fastly | Senior Manager, Engineering - Platform Security | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-07-16 17:49 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=7901940) |
 | GuidePoint Security | Senior Cyber Security Analyst - Aurora, CO | Cybersecurity | Maybe | Colorado | Aurora, CO | 2026-06-24 14:24 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6081714004?gh_jid=6081714004) |
@@ -151,6 +152,7 @@ _Last updated 2026-07-17 14:49 ET — 290 roles from 88 company boards · 1 new 
 | Okta | Staff Product Security Engineer | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-07-13 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/7976658?gh_jid=7976658) |
 | Okta | Staff Product Security Engineer, Reviews | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-07-13 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/7976665?gh_jid=7976665) |
 | Okta | Principal Product Manager, IAM Security & Agentic Identity | Cybersecurity | Maybe | California, Illinois, Washington | Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC | 2026-07-13 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/8009100?gh_jid=8009100) |
+| Okta | Staff Product Marketing Manager, Privileged Access Management | Cybersecurity | Maybe | California, Illinois, Washington | Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 2026-07-16 19:36 | [Apply](https://www.okta.com/company/careers/opportunity/8070608?gh_jid=8070608) |
 | Okta | Staff Product Marketing Manager, Security | Cybersecurity | Maybe | California, Illinois, Washington | Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada | 2026-07-13 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/7559020?gh_jid=7559020) |
 | Okta | Sr. Product Manager - Agentic Security | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-07-13 16:54 | [Apply](https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929) |
 | Okta | Staff Software Engineer, Security Engineering | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-07-13 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/7714159?gh_jid=7714159) |
@@ -192,7 +194,7 @@ _Last updated 2026-07-17 14:49 ET — 290 roles from 88 company boards · 1 new 
 | Samsara | Director, GTM Data Governance & Strategy | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-06-25 14:49 | [Apply](https://www.samsara.com/company/careers/roles/7847218?gh_jid=7847218) |
 | Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-07-14 19:22 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
 | Smartsheet | Director Field Security | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360) |
-| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-07-09 14:12 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
+| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-07-17 12:38 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
 | Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US-REMOTE | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7966641) |
 | Stripe | Program Manager, Security Business Enablement | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7917252) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | South San Francisco, CA and US-Remote | 2026-06-26 17:05 | [Apply](https://stripe.com/jobs/search?gh_jid=7923191) |
@@ -292,5 +294,5 @@ _Last updated 2026-07-17 14:49 ET — 290 roles from 88 company boards · 1 new 
 | Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172999007) |
 | Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
 | Wiz | Manager, Solutions Support Engineering - East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-07-15 17:30 | [Apply](https://www.wiz.io/careers/job/4695082006/:title?gh_jid=4695082006) |
-| Wiz | Senior Solutions Support Engineer - US East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-07-16 15:06 | [Apply](https://www.wiz.io/careers/job/4683505006/:title?gh_jid=4683505006) |
+| Wiz | Senior Solutions Support Engineer - US East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-07-17 11:16 | [Apply](https://www.wiz.io/careers/job/4683505006/:title?gh_jid=4683505006) |
 | Wiz | Solutions Support Engineer - West | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-07-15 17:29 | [Apply](https://www.wiz.io/careers/job/4666326006/:title?gh_jid=4666326006) |
