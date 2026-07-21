@@ -1,4 +1,5 @@
 company,title,category,entry_level,states,location,updated,url,is_new
+Robinhood,"Staff Security Engineer, Detection & Response",Cybersecurity,Maybe,"California, Washington","Bellevue, WA; Menlo Park, CA",2026-07-21 13:09,https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818,True
 Keyrock,SOC Analyst,Cybersecurity,Yes,Remote (US),Remote (US),2026-02-12 16:01,https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231,False
 ThreatLocker,Jr Cyber Hero Intern,Cybersecurity,Yes,Florida,"Orlando, FL",2026-04-29 16:23,https://job-boards.greenhouse.io/threatlocker/jobs/5744483004,False
 Zscaler,Detection Engineer- SkillBridge Intern,Cybersecurity,Yes,Remote (US),Remote - USA,2026-07-21 10:12,https://job-boards.greenhouse.io/zscaler/jobs/5114254007,False
@@ -63,10 +64,10 @@ Databricks,Sr. Staff Software Engineer - Unity Catalog Data Governance,Cybersecu
 Databricks,"Staff Product Manager, Security",Cybersecurity,Maybe,Washington,"Seattle, Washington",2026-07-17 16:19,https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002,False
 Databricks,Staff Software Engineer - Security Infrastructure,Cybersecurity,Maybe,Washington,"Bellevue, Washington",2026-07-17 16:19,https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002,False
 Databricks,Staff Security Assurance Engineer,Cybersecurity,Maybe,"Washington, Washington DC","Remote - Washington D.C.; Washington, D.C.",2026-07-17 16:19,https://databricks.com/company/careers/open-positions/job?gh_jid=8430837002,False
-Datadog,Enterprise Security Sales Specialist,Cybersecurity,Maybe,"California, Illinois","Chicago, Illinois, USA; San Francisco, California, USA",2026-07-02 13:28,https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428,False
+Datadog,Enterprise Security Sales Specialist,Cybersecurity,Maybe,"California, Illinois","Chicago, Illinois, USA; San Francisco, California, USA",2026-07-21 14:04,https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428,False
 Datadog,"Area Vice President, Enterprise Security Sales",Cybersecurity,Maybe,"California, New York","New York, New York, USA; San Francisco, California, USA",2026-05-15 08:44,https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990,False
 Datadog,Senior Technical Product Marketing Manager - Security,Cybersecurity,Maybe,"California, New York","New York, New York, USA; San Francisco, California, USA",2026-07-15 17:07,https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546,False
-Datadog,"Director, Security Channels (North America)",Cybersecurity,Maybe,"California, New York, Remote (US)","Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote",2026-06-25 11:13,https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985,False
+Datadog,"Director, Security Channels (North America)",Cybersecurity,Maybe,"California, New York, Remote (US)","Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote",2026-07-21 13:53,https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985,False
 Datadog,"Product Manager II, AI & Data Security",Cybersecurity,Maybe,"Massachusetts, New York","Boston, Massachusetts, USA; New York, New York, USA",2026-06-16 09:53,https://careers.datadoghq.com/detail/7982288/?gh_jid=7982288,False
 Datadog,Product Manager II - Security Graph Experience,Cybersecurity,Maybe,"Massachusetts, New York","Boston, Massachusetts, USA; New York, New York, USA",2026-07-09 07:00,https://careers.datadoghq.com/detail/8052135/?gh_jid=8052135,False
 Datadog,Staff Application Security Engineer,Cybersecurity,Maybe,"Massachusetts, New York","Boston, Massachusetts, USA; New York, New York, USA",2026-07-07 13:58,https://careers.datadoghq.com/detail/7777798/?gh_jid=7777798,False
@@ -79,8 +80,8 @@ Datadog,Security Engineer 2 - Cyber Threat Intelligence,Cybersecurity,Maybe,New 
 Datadog,Senior Cloud Security Engineer - K8s,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-05-15 08:44,https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616,False
 Datadog,Senior PM - Managed Security Service Provider (Cloud SIEM),Cybersecurity,Maybe,New York,"New York, New York, USA",2026-05-20 17:14,https://careers.datadoghq.com/detail/7947732/?gh_jid=7947732,False
 Datadog,"Senior Security Engineer, Offensive Security",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-06-10 08:01,https://careers.datadoghq.com/detail/7871543/?gh_jid=7871543,False
-Datadog,"Senior Services Architect, Security-Cloud SIEM",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-06-26 13:34,https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907,False
-Datadog,Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",2026-06-24 11:28,https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877,False
+Datadog,"Senior Services Architect, Security-Cloud SIEM",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-07-21 13:54,https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907,False
+Datadog,Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",2026-07-21 13:44,https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877,False
 Deepwatch,Lead SOC Analyst,Cybersecurity,Maybe,Florida,"Tampa, FL Hybrid",2026-07-15 16:16,https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005,False
 Dropbox,"Senior Governance, Risk, & Compliance Program Manager",Cybersecurity,Maybe,Remote (US),Remote - US: Select locations,2026-07-02 13:48,https://jobs.dropbox.com/listing/7773721?gh_jid=7773721,False
 Faire,Senior Staff Engineer Product Security,Cybersecurity,Maybe,California,"San Francisco, CA",2026-03-19 00:00,https://remoteOK.com/remote-jobs/remote-senior-staff-engineer-product-security-faire-1130828,False
@@ -194,7 +195,7 @@ Samsara,Sr. Security Engineer - Enterprise Security,Cybersecurity,Maybe,Californ
 Samsara,"Director, GTM Data Governance & Strategy",Cybersecurity,Maybe,Remote (US),Remote - US,2026-06-25 14:49,https://www.samsara.com/company/careers/roles/7847218?gh_jid=7847218,False
 Samsara,Senior Security Operations Engineer I,Cybersecurity,Maybe,Remote (US),Remote - US,2026-07-14 19:22,https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105,False
 Smartsheet,Director Field Security,Cybersecurity,Maybe,Remote (US),Remote (US),2026-04-28 08:00,https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360,False
-Stripe,Client Platform Security Engineer,Cybersecurity,Maybe,New York,"New York, New York ",2026-07-17 12:38,https://stripe.com/jobs/search?gh_jid=7982720,False
+Stripe,Client Platform Security Engineer,Cybersecurity,Maybe,New York,"New York, New York ",2026-07-21 13:51,https://stripe.com/jobs/search?gh_jid=7982720,False
 Stripe,"Program Manager, Security Business Enablement",Cybersecurity,Maybe,Remote (US),US - Remote,2026-06-26 17:05,https://stripe.com/jobs/search?gh_jid=7917252,False
 Stripe,"Program Manager, Security Business Enablement",Cybersecurity,Maybe,Remote (US),US-REMOTE,2026-06-26 17:05,https://stripe.com/jobs/search?gh_jid=7966641,False
 Stripe,Security Engineer,Cybersecurity,Maybe,Remote (US),"South San Francisco, CA and US-Remote",2026-06-26 17:05,https://stripe.com/jobs/search?gh_jid=7923191,False
@@ -263,16 +264,15 @@ Zscaler,Specialty Sales Account Executive - Data Security SLED/Healthcare,Cybers
 Zscaler,Threat Response & Remediation Engineer,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-07-21 10:12,https://job-boards.greenhouse.io/zscaler/jobs/5189374007,False
 Zscaler,Principal AI Security Specialist - Federal,Cybersecurity,Maybe,"Remote (US), Virginia","McLean, Virginia, USA; Remote - D.C., USA",2026-07-21 10:12,https://job-boards.greenhouse.io/zscaler/jobs/5174765007,False
 Zscaler,"Sr. Staff Site Reliability Engineer-Federal, Security Clearance",Cybersecurity,Maybe,Virginia,"Crystal City, Virginia, USA",2026-07-21 10:12,https://job-boards.greenhouse.io/zscaler/jobs/5128580007,False
-Fastly,Global IT Support Supervisor,IT / On-Ramp,Yes,Colorado,"Denver, CO",2026-07-16 17:49,https://www.fastly.com/about/jobs/apply?gh_jid=7858957,False
 Samsara,Technical Support Engineer,IT / On-Ramp,Yes (desc),Remote (US),Remote - US,2026-07-07 19:31,https://www.samsara.com/company/careers/roles/8017146?gh_jid=8017146,False
 Amplitude,Technical Support Engineer (Statsig),IT / On-Ramp,Maybe,New York,"New York, NY",2026-06-18 18:38,https://job-boards.greenhouse.io/amplitude/jobs/8583053002,False
 Cloudflare,Technical Support Engineer Intern (Fall 2026),IT / On-Ramp,Maybe,Indiana,In-Office,2026-07-08 10:44,https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135,False
 Databricks,Staff Designated Support Engineer,IT / On-Ramp,Maybe,California,"San Francisco, California",2026-07-17 16:19,https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002,False
 Databricks,Sr. Manager – Data & AI Support Engineering,IT / On-Ramp,Maybe,Texas,"Plano, Texas",2026-07-17 16:19,https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002,False
-Datadog,"Technical Support Engineer 2, Premier - San Francisco",IT / On-Ramp,Maybe,California,"San Francisco, California, USA",2026-07-07 15:47,https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072,False
-Datadog,"Technical Support Engineer 3, Premier - San Francisco",IT / On-Ramp,Maybe,California,"San Francisco, California, USA",2026-07-07 15:57,https://careers.datadoghq.com/detail/7758574/?gh_jid=7758574,False
-Datadog,Federal Support Engineer 3,IT / On-Ramp,Maybe,Colorado,"Denver, Colorado, USA",2026-06-15 12:12,https://careers.datadoghq.com/detail/7997846/?gh_jid=7997846,False
-Datadog,"Technical Support Engineer 2, Premier - Denver",IT / On-Ramp,Maybe,Colorado,"Denver, Colorado, USA",2026-06-15 13:00,https://careers.datadoghq.com/detail/7997872/?gh_jid=7997872,False
+Datadog,"Technical Support Engineer 2, Premier - San Francisco",IT / On-Ramp,Maybe,California,"San Francisco, California, USA",2026-07-21 13:48,https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072,False
+Datadog,"Technical Support Engineer 3, Premier - San Francisco",IT / On-Ramp,Maybe,California,"San Francisco, California, USA",2026-07-21 13:47,https://careers.datadoghq.com/detail/7758574/?gh_jid=7758574,False
+Datadog,Federal Support Engineer 3,IT / On-Ramp,Maybe,Colorado,"Denver, Colorado, USA",2026-07-21 13:55,https://careers.datadoghq.com/detail/7997846/?gh_jid=7997846,False
+Datadog,"Technical Support Engineer 2, Premier - Denver",IT / On-Ramp,Maybe,Colorado,"Denver, Colorado, USA",2026-07-21 14:01,https://careers.datadoghq.com/detail/7997872/?gh_jid=7997872,False
 Expel,"Manager, Technical Support Engineering",IT / On-Ramp,Maybe,Remote (US),Remote,2026-07-07 08:41,https://expel.com/about/career-listing/8621616002?gh_jid=8621616002,False
 Obsidian Security,Senior Support Engineer,IT / On-Ramp,Maybe,Remote (US),US Remote (East/Central),2026-07-20 17:29,https://job-boards.greenhouse.io/obsidiansecurity/jobs/5365008008,False
 Palantir,Support Engineer,IT / On-Ramp,Maybe,New York,"New York, NY",2026-05-19 18:25,https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131,False
