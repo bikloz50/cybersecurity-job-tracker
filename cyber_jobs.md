@@ -1,10 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-23 18:13 ET — 303 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-07-23 22:45 ET — 302 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Zscaler | Director, Threat Research Engagement 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 14:07 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5183764007) |
+| Abnormal Security | Solutions Architect, Identity Threat Protection 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 16:25 | [Apply](https://abnormal.ai/careers/jobs/7813713003?gh_jid=7813713003) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -48,7 +48,6 @@ _Last updated 2026-07-23 18:13 ET — 303 roles from 88 company boards · 1 new 
 | Databricks | Senior Engineering Manager - Trust and Safety | Cybersecurity | Maybe | California | Mountain View, California | 2026-07-17 16:19 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002) |
 | Databricks | Senior Software Engineer - Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-07-17 16:19 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002) |
 | Databricks | Senior Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-07-17 16:19 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
-| Databricks | Sr. Partner Engineer - Security Partners | Cybersecurity | Maybe | California | San Francisco, California | 2026-07-22 02:51 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8643452002) |
 | Databricks | Sr. Product Manager, Data Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-07-17 23:44 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002) |
 | Databricks | Sr. Staff Security Assurance Engineer | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-07-17 23:54 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026640002) |
 | Databricks | Sr. Staff Software Engineer — Observability, Insights & Governance | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-07-17 23:39 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002) |
@@ -101,7 +100,6 @@ _Last updated 2026-07-23 18:13 ET — 303 roles from 88 company boards · 1 new 
 | GuidePoint Security | AI Security Engineer - Mid-Atlantic region (Remote in VA, MD, PA, NC, DE, NJ, or DC) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-16 16:30 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6030474004?gh_jid=6030474004) |
 | GuidePoint Security | Application Security Engineer - Mid-Atlantic region (Remote in VA, MD, PA, NC, DE, NJ, or DC) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-18 13:41 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6094965004?gh_jid=6094965004) |
 | GuidePoint Security | Application Security Engineer (Remote in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-19 07:22 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6009383004?gh_jid=6009383004) |
-| GuidePoint Security | IAM Delivery Lead (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-20 09:39 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6119418004?gh_jid=6119418004) |
 | GuidePoint Security | Microsoft Security Engineer- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-21 09:28 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115602004?gh_jid=6115602004) |
 | GuidePoint Security | Network Security Engineer (Zscaler) - Mid-Atlantic region (Remote - EST preferred) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-16 16:34 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5835641004?gh_jid=5835641004) |
 | GuidePoint Security | SecOps Security Architect (Presales) - Northeast region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-11 09:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6103717004?gh_jid=6103717004) |
@@ -109,7 +107,7 @@ _Last updated 2026-07-23 18:13 ET — 303 roles from 88 company boards · 1 new 
 | GuidePoint Security | Security Consultant, Compliance- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-16 16:32 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6008482004?gh_jid=6008482004) |
 | GuidePoint Security | Security Consultant-Threat & Attack Simulation- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-10 14:55 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6111144004?gh_jid=6111144004) |
 | GuidePoint Security | Senior Application Security Consultant, Strategic Services- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-23 09:14 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099423004?gh_jid=6099423004) |
-| GuidePoint Security | Senior Application Security Engineer - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-10 17:30 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099749004?gh_jid=6099749004) |
+| GuidePoint Security | Senior Application Security Engineer - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-23 15:40 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099749004?gh_jid=6099749004) |
 | GuidePoint Security | Senior Cyber Security Consultant- Compliance (Remote- Anywhere in the Continental U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-06-16 16:33 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6006055004?gh_jid=6006055004) |
 | GuidePoint Security | Senior PAM Engineer - CyberArk (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-09 16:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099961004?gh_jid=6099961004) |
 | GuidePoint Security | Senior Security Advisor - IAM (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-16 10:37 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099503004?gh_jid=6099503004) |
@@ -264,6 +262,7 @@ _Last updated 2026-07-23 18:13 ET — 303 roles from 88 company boards · 1 new 
 | Zscaler | Sr. Staff Software Development Engineer-AI Security (Network, Security, LLM) | Cybersecurity | Maybe | California, Washington | Bellevue, Washington, USA; San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5146138007) |
 | Zscaler | Director, AI Security Specialist | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174757007) |
 | Zscaler | Director, Product Management, Customer Security Outcomes | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5149191007) |
+| Zscaler | Director, Threat Research Engagement | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 14:07 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5183764007) |
 | Zscaler | Principal AI Security Specialist - East | Cybersecurity | Maybe | Remote (US) | Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Pennsylvania, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174759007) |
 | Zscaler | Principal AI Security Specialist - South | Cybersecurity | Maybe | Remote (US) | Remote - Florida, USA; Remote - Georgia, USA; Remote - Tennessee, USA; Remote - Texas, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174761007) |
 | Zscaler | Principal Specialist Sales Engineer - Data Security - West/South | Cybersecurity | Maybe | Remote (US) | Remote - Alabama, USA; Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Florida, USA; Remote - Louisiana, USA; Remote - Nevada, USA; Remote - New Mexico, USA; Remote - Oregon, USA; Remote - Tennessee, USA; Remote - Utah, USA; Remote - Washington, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132564007) |
