@@ -1,12 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-24 15:01 ET — 305 roles from 88 company boards · 3 new since last run_
+_Last updated 2026-07-24 18:19 ET — 304 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| GuidePoint Security | Associate Vulnerability Engineer - Mid-Atlantic region (Remote) 🆕 | Cybersecurity | Yes | Delaware, Indiana, Maryland, New Jersey, North Carolina, Oregon, Pennsylvania, Virginia, Washington DC | Remote in VA, MD, PA, NC, DE, NJ, or DC | 2026-07-24 08:06 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6125345004?gh_jid=6125345004) |
-| Abnormal Security | Specialist Sales Engineer, Identity Threat Protection 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-24 00:27 | [Apply](https://abnormal.ai/careers/jobs/7814041003?gh_jid=7814041003) |
-| Keeper Security | IT Support Specialist 🆕 | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-07-24 10:50 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
+| Coinbase | Social Support Specialist III 🆕 | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-07-24 14:16 | [Apply](https://www.coinbase.com/careers/positions/8083917?gh_jid=8083917) |
+| GuidePoint Security | Associate Vulnerability Engineer - Mid-Atlantic region (Remote) | Cybersecurity | Yes | Delaware, Indiana, Maryland, New Jersey, North Carolina, Oregon, Pennsylvania, Virginia, Washington DC | Remote in VA, MD, PA, NC, DE, NJ, or DC | 2026-07-24 08:06 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6125345004?gh_jid=6125345004) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -17,6 +16,7 @@ _Last updated 2026-07-24 15:01 ET — 305 roles from 88 company boards · 3 new 
 | GuidePoint Security | Forescout Cyber Security Engineer | Cybersecurity | Yes (desc) | Virginia | Reston, VA | 2026-07-14 16:19 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115800004?gh_jid=6115800004) |
 | Abnormal Security | Senior Security Engineer, FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-15 21:53 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
 | Abnormal Security | Senior Solutions Architect, Identity Threat Protection | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-24 00:43 | [Apply](https://abnormal.ai/careers/jobs/7813713003?gh_jid=7813713003) |
+| Abnormal Security | Specialist Sales Engineer, Identity Threat Protection | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-24 00:27 | [Apply](https://abnormal.ai/careers/jobs/7814041003?gh_jid=7814041003) |
 | Abnormal Security | Staff Software Engineer, Security & Privacy | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-15 21:53 | [Apply](https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003) |
 | Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-07-14 11:09 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
 | Affirm | Security Risk Management Lead | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-06-18 11:27 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7718808003) |
@@ -275,6 +275,7 @@ _Last updated 2026-07-24 15:01 ET — 305 roles from 88 company boards · 3 new 
 | Zscaler | Threat Response & Remediation Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5189374007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
+| Keeper Security | IT Support Specialist | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-07-24 10:50 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
 | Samsara | Technical Support Engineer | IT / On-Ramp | Yes (desc) | Remote (US) | Remote - US | 2026-07-07 19:31 | [Apply](https://www.samsara.com/company/careers/roles/8017146?gh_jid=8017146) |
 | Amplitude | Technical Support Engineer (Statsig) | IT / On-Ramp | Maybe | New York | New York, NY | 2026-06-18 18:38 | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8583053002) |
 | Cloudflare | Technical Support Engineer Intern (Fall 2026) | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-07-08 10:44 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) |
@@ -289,8 +290,6 @@ _Last updated 2026-07-24 15:01 ET — 305 roles from 88 company boards · 3 new 
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
 | Samsara | Bilingual Customer Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-07-22 13:26 | [Apply](https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873) |
 | Samsara | Business Operations Manager, Technical Support Ops | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-07-22 13:05 | [Apply](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103) |
-| Samsara | L1 Senior Bilingual Technical Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-07-02 16:17 | [Apply](https://www.samsara.com/company/careers/roles/7834003?gh_jid=7834003) |
-| Samsara | L1 Senior Technical Support | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-06-19 11:03 | [Apply](https://www.samsara.com/company/careers/roles/8004063?gh_jid=8004063) |
 | Samsara | Product Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-07-08 03:03 | [Apply](https://www.samsara.com/company/careers/roles/8016952?gh_jid=8016952) |
 | Stripe | Technical Support Engineer | IT / On-Ramp | Maybe | California | San Francisco, CA | 2026-07-22 13:25 | [Apply](https://stripe.com/jobs/search?gh_jid=7733725) |
 | Tenable | Technical Support Engineer (Hybrid/Columbia MD) | IT / On-Ramp | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-06-08 13:20 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5240071008) |
