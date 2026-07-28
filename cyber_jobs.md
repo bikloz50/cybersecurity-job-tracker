@@ -1,6 +1,6 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-07-28 18:15 ET — 301 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-07-28 22:50 ET — 299 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -71,7 +71,6 @@ _Last updated 2026-07-28 18:15 ET — 301 roles from 88 company boards · 0 new 
 | Datadog | Senior Technical Product Marketing Manager - Security | Cybersecurity | Maybe | California, New York | New York, New York, USA; San Francisco, California, USA | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546) |
 | Datadog | Director, Security Channels (North America) | Cybersecurity | Maybe | California, New York, Remote (US) | Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985) |
 | Datadog | Product Manager II, AI & Data Security | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/7982288/?gh_jid=7982288) |
-| Datadog | Product Manager II - Security Graph Experience | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/8052135/?gh_jid=8052135) |
 | Datadog | Staff Application Security Engineer | Cybersecurity | Maybe | Massachusetts, New York, Remote (US) | Boston, Massachusetts, USA; Connecticut, USA, Remote; Delaware, USA, Remote; District of Columbia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; New York, USA, Remote; Rhode Island, USA, Remote | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/7777798/?gh_jid=7777798) |
 | Datadog | Director, Engineering - Detection Platform | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/8026520/?gh_jid=8026520) |
 | Datadog | Engineering Manager I, Threat Detection | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-07-28 05:41 | [Apply](https://careers.datadoghq.com/detail/7958663/?gh_jid=7958663) |
@@ -255,7 +254,7 @@ _Last updated 2026-07-28 18:15 ET — 301 roles from 88 company boards · 0 new 
 | Workwize | Security Specialist | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-02-19 00:04 | [Apply](https://remoteOK.com/remote-jobs/remote-security-specialist-workwize-1130423) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust Cloud | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5155237007) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust for Agentic AI | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5169428007) |
-| Zscaler | Staff Machine Learning Engineer - Data Lake, Anomaly Detection | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114450007) |
+| Zscaler | Staff Machine Learning Engineer - Data Lake, Anomaly Detection | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-07-28 17:46 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114450007) |
 | Zscaler | Security Compliance Architect | Cybersecurity | Maybe | California, Remote (US) | Remote - USA; San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5140589007) |
 | Zscaler | Principal AI Security Specialist - West | Cybersecurity | Maybe | California, Remote (US), Washington | Bellevue, Washington, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Oregon, USA; Remote - Washington, USA; San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174763007) |
 | Zscaler | Senior Software Development Engineer-Network, Security, LLM (AI Security) | Cybersecurity | Maybe | California, Washington | Bellevue, Washington, USA; San Jose, California, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5146136007) |
@@ -269,7 +268,6 @@ _Last updated 2026-07-28 18:15 ET — 301 roles from 88 company boards · 0 new 
 | Zscaler | Principal Specialist Sales Engineer - Data Security - West/South | Cybersecurity | Maybe | Remote (US) | Remote - Alabama, USA; Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Florida, USA; Remote - Louisiana, USA; Remote - Nevada, USA; Remote - New Mexico, USA; Remote - Oregon, USA; Remote - Tennessee, USA; Remote - Utah, USA; Remote - Washington, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132564007) |
 | Zscaler | Security Architect, Agentic AI | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132492007) |
 | Zscaler | Specialist Account Executive, Data Security - Enterprise | Cybersecurity | Maybe | Remote (US) | Remote - New York, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5179466007) |
-| Zscaler | Specialty Sales Account Executive - Data Security SLED/Healthcare | Cybersecurity | Maybe | Remote (US) | Remote - Texas, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5124291007) |
 | Zscaler | Threat Response & Remediation Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5189374007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-07-23 13:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
