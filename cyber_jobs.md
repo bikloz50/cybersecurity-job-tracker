@@ -1,12 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-07 01:27 ET — 301 roles from 88 company boards · 3 new since last run_
+_Last updated 2026-08-07 14:16 ET — 301 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Abnormal Security | Senior Software Engineer - Product Engineering (Identity Security) 🆕 | Cybersecurity | Maybe | California | Hybrid - San Francisco, CA, USA | 2026-08-06 19:23 | [Apply](https://abnormal.ai/careers/jobs/7733721003?gh_jid=7733721003) |
-| Coinbase | Senior Manager, Security Audit 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-06 16:46 | [Apply](https://www.coinbase.com/careers/positions/7997926?gh_jid=7997926) |
-| Stripe | Software Engineer, Vulnerability Management 🆕 | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-08-06 15:22 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -15,6 +12,7 @@ _Last updated 2026-08-07 01:27 ET — 301 roles from 88 company boards · 3 new 
 | GuidePoint Security | Strategic Security Advisor (New England) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-05 16:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020620004?gh_jid=6020620004) |
 | GuidePoint Security | Strategic Security Advisor (New York Metro) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-05 16:06 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020603004?gh_jid=6020603004) |
 | GuidePoint Security | Forescout Cyber Security Engineer | Cybersecurity | Yes (desc) | Virginia | Reston, VA | 2026-08-05 13:19 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115800004?gh_jid=6115800004) |
+| Abnormal Security | Senior Software Engineer - Product Engineering (Identity Security) | Cybersecurity | Maybe | California | Hybrid - San Francisco, CA, USA | 2026-08-06 19:23 | [Apply](https://abnormal.ai/careers/jobs/7733721003?gh_jid=7733721003) |
 | Abnormal Security | Senior Security Engineer, FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-04 16:12 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
 | Abnormal Security | Staff Software Engineer, Security & Privacy | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-15 21:53 | [Apply](https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003) |
 | Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-07-14 11:09 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
@@ -48,6 +46,7 @@ _Last updated 2026-08-07 01:27 ET — 301 roles from 88 company boards · 3 new 
 | Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-01 04:09 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
 | Coinbase | Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-14 19:59 | [Apply](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336) |
 | Coinbase | Senior Insider Threat Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-06 12:04 | [Apply](https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333) |
+| Coinbase | Senior Manager, Security Audit | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-06 16:46 | [Apply](https://www.coinbase.com/careers/positions/7997926?gh_jid=7997926) |
 | Cyware | Threat Intelligence Engineer (REMOTE) | Cybersecurity | Maybe | Remote (US) | United States, Remote | 2026-08-04 13:07 | [Apply](https://boards.greenhouse.io/cyware/jobs/5610533003?gh_jid=5610533003) |
 | Databricks | Engineering Manager - Identity and Access Management (IAM) | Cybersecurity | Maybe | California | Mountain View, California | 2026-07-24 19:28 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002) |
 | Databricks | Principal Product Marketing Manager, AI Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-07-24 19:28 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493724002) |
@@ -188,9 +187,9 @@ _Last updated 2026-08-07 01:27 ET — 301 roles from 88 company boards · 3 new 
 | Ping Identity | Staff Software Engineer, Data Engineering – Identity & AI Agent Governance | Cybersecurity | Maybe | Texas | USA - Austin, TX | 2026-08-06 11:02 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8649958002) |
 | Reddit | Senior Machine Learning Engineer, GenAI Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-07-28 21:05 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7891887) |
 | Reddit | Senior Security Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-07-08 12:15 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8039261) |
-| Reddit | Staff Product Manager, Ads Trust and Safety | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-08-06 20:32 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8070669) |
+| Reddit | Staff Product Manager, Ads Trust and Safety | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-08-07 08:26 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8070669) |
 | Reddit | Staff Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-07-08 12:15 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7868511) |
-| Robinhood | Manager of Response, Automation, Intelligence & Detection Engineering | Cybersecurity | Maybe | California, Colorado | Denver, CO; Menlo Park, CA | 2026-08-02 03:06 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8055526?t=gh_src=&gh_jid=8055526) |
+| Robinhood | Manager of Response, Automation, Intelligence & Detection Engineering | Cybersecurity | Maybe | California, Colorado | Denver, CO; Menlo Park, CA | 2026-08-07 10:13 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8055526?t=gh_src=&gh_jid=8055526) |
 | Robinhood | Senior Cloud Security Engineer | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-08-06 12:19 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427) |
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-08-04 14:04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-05 15:47 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
@@ -204,6 +203,7 @@ _Last updated 2026-08-07 01:27 ET — 301 roles from 88 company boards · 3 new 
 | Smartsheet | Director Field Security | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360) |
 | Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
 | Stripe | Program Manager, Security GRC | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=8078131) |
+| Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-08-06 15:22 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Washington | Seattle, WA | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=7923209) |
 | Tenable | Security Sales Engineer - Chicago, Pre-sales | Cybersecurity | Maybe | Remote (US) | US - Remote - Illinois | 2026-07-30 14:18 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5237863008) |
 | Tenable | Senior Software Engineer - Cloud Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-07-30 14:14 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5277490008) |
