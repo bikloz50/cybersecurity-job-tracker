@@ -1,10 +1,14 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-07 17:50 ET — 301 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-08-07 22:23 ET — 306 roles from 88 company boards · 5 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Abnormal Security | Application Security Engineer II 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-07 11:58 | [Apply](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003) |
+| Databricks | Staff Technical Program Manager - Cleared/Security 🆕 | Cybersecurity | Maybe | Virginia, Washington | McLean, Virginia; Washington, D.C. | 2026-08-07 16:48 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493148002) |
+| GuidePoint Security | Managing Security Consultant - Access Management (Remote in the U.S.) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-07 15:56 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6138974004?gh_jid=6138974004) |
+| ThreatLocker | Threat Analyst 🆕 | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-08-07 16:18 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/6139157004) |
+| Trace3 | Information Systems Security Engineer III - (W2PE) 🆕 | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-08-07 15:20 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7871083) |
+| Zscaler | Product Specialist, Browser Security 🆕 | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-08-07 16:34 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5206589007) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -14,6 +18,7 @@ _Last updated 2026-08-07 17:50 ET — 301 roles from 88 company boards · 1 new 
 | GuidePoint Security | Strategic Security Advisor (New York Metro) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-05 16:06 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020603004?gh_jid=6020603004) |
 | GuidePoint Security | Forescout Cyber Security Engineer | Cybersecurity | Yes (desc) | Virginia | Reston, VA | 2026-08-05 13:19 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115800004?gh_jid=6115800004) |
 | Abnormal Security | Senior Software Engineer - Product Engineering (Identity Security) | Cybersecurity | Maybe | California | Hybrid - San Francisco, CA, USA | 2026-08-06 19:23 | [Apply](https://abnormal.ai/careers/jobs/7733721003?gh_jid=7733721003) |
+| Abnormal Security | Application Security Engineer II | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-07 14:41 | [Apply](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003) |
 | Abnormal Security | Senior Security Engineer, FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-04 16:12 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
 | Abnormal Security | Staff Software Engineer, Security & Privacy | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-07-15 21:53 | [Apply](https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003) |
 | Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-07-14 11:09 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
@@ -105,12 +110,12 @@ _Last updated 2026-08-07 17:50 ET — 301 roles from 88 company boards · 1 new 
 | GuidePoint Security | Security Architect (Exposure Management Presales) - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 15:25 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6134623004?gh_jid=6134623004) |
 | GuidePoint Security | Security Consultant, Compliance- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:07 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6008482004?gh_jid=6008482004) |
 | GuidePoint Security | Security Consultant-Threat & Attack Simulation- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:12 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6111144004?gh_jid=6111144004) |
+| GuidePoint Security | Security Engineer (SOAR) - Mid-Atlantic region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-07 16:55 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6017633004?gh_jid=6017633004) |
 | GuidePoint Security | Senior Application Security Consultant, Strategic Services- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:13 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099423004?gh_jid=6099423004) |
 | GuidePoint Security | Senior Application Security Engineer - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 15:59 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099749004?gh_jid=6099749004) |
 | GuidePoint Security | Senior Cyber Security Consultant- Compliance (Remote- Anywhere in the Continental U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:14 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6006055004?gh_jid=6006055004) |
 | GuidePoint Security | Senior Security Advisor - Access Management (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:00 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6129885004?gh_jid=6129885004) |
 | GuidePoint Security | Senior Security Advisor - IAM (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:01 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099503004?gh_jid=6099503004) |
-| GuidePoint Security | Senior Security Automation Engineer (SOAR) - Mid-Atlantic region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:04 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6017633004?gh_jid=6017633004) |
 | GuidePoint Security | Senior Security Engineer (Firewall) - Mid-Atlantic region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5843886004?gh_jid=5843886004) |
 | GuidePoint Security | Team Lead, Data Security - Northeast region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:07 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5837957004?gh_jid=5837957004) |
 | GuidePoint Security | Senior Security Architect (Salt Lake City, UT) - Southwest region | Cybersecurity | Maybe | Utah | Salt Lake City, UT | 2026-08-05 16:03 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6122413004?gh_jid=6122413004) |
