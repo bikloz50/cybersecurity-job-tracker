@@ -1,9 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-07 14:16 ET — 301 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-08-07 17:50 ET — 301 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
+| Abnormal Security | Application Security Engineer II 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-07 11:58 | [Apply](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003) |
 | Keyrock | SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote (US) | 2026-02-12 16:01 | [Apply](https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -101,7 +102,6 @@ _Last updated 2026-08-07 14:16 ET — 301 roles from 88 company boards · 0 new 
 | GuidePoint Security | Application Security Engineer (Remote in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 15:17 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6009383004?gh_jid=6009383004) |
 | GuidePoint Security | IAM Engineer - PAM (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 16:49 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099961004?gh_jid=6099961004) |
 | GuidePoint Security | Microsoft Security Engineer- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:03 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115602004?gh_jid=6115602004) |
-| GuidePoint Security | Network Security Engineer (Zscaler) - Mid-Atlantic region (Remote - EST preferred) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 15:24 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5835641004?gh_jid=5835641004) |
 | GuidePoint Security | Security Architect (Exposure Management Presales) - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 15:25 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6134623004?gh_jid=6134623004) |
 | GuidePoint Security | Security Consultant, Compliance- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:07 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6008482004?gh_jid=6008482004) |
 | GuidePoint Security | Security Consultant-Threat & Attack Simulation- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 13:12 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6111144004?gh_jid=6111144004) |
@@ -201,7 +201,7 @@ _Last updated 2026-08-07 14:16 ET — 301 roles from 88 company boards · 0 new 
 | Samsara | Sr. Security Engineer - Enterprise Security | Cybersecurity | Maybe | California | Remote - CA | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492) |
 | Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
 | Smartsheet | Director Field Security | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360) |
-| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
+| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-08-07 12:17 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
 | Stripe | Program Manager, Security GRC | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=8078131) |
 | Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-08-06 15:22 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Washington | Seattle, WA | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=7923209) |
@@ -266,7 +266,7 @@ _Last updated 2026-08-07 14:16 ET — 301 roles from 88 company boards · 0 new 
 | Zscaler | Principal Specialist Sales Engineer, Zero Trust Branch - Healthcare | Cybersecurity | Maybe | Remote (US) | Remote - Alabama, USA; Remote - Arkansas, USA; Remote - Delaware, USA; Remote - Florida, USA; Remote - Georgia, USA; Remote - Louisiana, USA; Remote - Maine, USA; Remote - Massachusetts, USA; Remote - Mississippi, USA; Remote - New Hampshire, USA; Remote - New York, USA; Remote - North Carolina, USA; Remote - Oklahoma, USA; Remote - Pennsylvania, USA; Remote - South Carolina, USA; Remote - Texas, USA; Remote - Vermont, USA; Remote - Virginia, USA; Remote - West Virginia, USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5199283007) |
 | Zscaler | Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West | Cybersecurity | Maybe | Remote (US) | Remote - Arizona, USA; Remote - California, USA; Remote - Colorado, USA; Remote - Idaho, USA; Remote - Iowa, USA; Remote - Minnesota, USA; Remote - Montana, USA; Remote - Nebraska, USA; Remote - Nevada, USA; Remote - New Mexico, USA; Remote - North Dakota, USA; Remote - Oregon, USA; Remote - South Dakota, USA; Remote - Utah, USA; Remote - Washington, USA; Remote - Wisconsin, USA; Remote - Wyoming, USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5196219007) |
 | Zscaler | Security Architect, Agentic AI | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132492007) |
-| Zscaler | Specialist Account Executive, Data Security - Enterprise | Cybersecurity | Maybe | Remote (US) | Remote - New York, USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5179466007) |
+| Zscaler | Specialist Account Executive, Data Security - Enterprise, East | Cybersecurity | Maybe | Remote (US) | Remote - Massachusetts, USA; Remote - New York, USA | 2026-08-07 13:18 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5179466007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Brex | Support Specialist I | IT / On-Ramp | Yes | Utah | Salt Lake City, Utah, United States | 2026-08-06 14:39 | [Apply](https://www.brex.com/careers/8656548002?gh_jid=8656548002) |
