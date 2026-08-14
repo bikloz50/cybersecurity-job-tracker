@@ -1,14 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new since last run_
+_Last updated 2026-08-14 14:18 ET — 299 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Coinbase | Security Analyst 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-13 18:21 | [Apply](https://www.coinbase.com/careers/positions/8122166?gh_jid=8122166) |
-| GuidePoint Security | Senior Security Architect - Northeast region 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-13 17:21 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6143482004?gh_jid=6143482004) |
-| Robinhood | Software Engineer, Cryptography 🆕 | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-13 15:14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
-| Tanium | Director, Product Management - Endpoint Policy and Configuration Management 🆕 | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-08-13 14:40 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8127094) |
-| Tanium | IT Operations Engineer 🆕 | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-08-13 16:46 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8128878) |
+| Recorded Future | Associate Threat Intelligence Analyst 🆕 | Cybersecurity | Yes | Washington | Washington, DC | 2026-08-14 05:26 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8694161002) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
 | Zscaler | Federal Security Operations - SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5069684007) |
@@ -25,7 +21,7 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | Affirm | Quantitative Analytics Manager, Affirm Bank Model Governance | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819441003) |
 | Affirm | Security Risk Management Lead | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7718808003) |
 | Affirm | Senior CIAM Software Engineer | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7671388003) |
-| Affirm | Staff CIAM Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819449003) |
+| Affirm | Staff CIAM Software Engineer | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-14 03:00 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819449003) |
 | Altium | Cloud Security Architect | Cybersecurity | Maybe | Louisiana | La Jolla | 2026-03-13 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-cloud-security-architect-altium-1130757) |
 | Armis | Technical Customer Success Manager - Cyber Security | Cybersecurity | Maybe | Colorado, Texas, Washington, Washington DC | Dallas, Texas, United States; Denver, Colorado, United States; Washington DC - Baltimore Metro Area | 2026-07-23 11:06 | [Apply](https://job-boards.greenhouse.io/armissecurity/jobs/4959359004) |
 | BeyondTrust | Principal Software Security Architect | Cybersecurity | Maybe | Remote (US) | Remote United States | 2026-08-12 09:46 | [Apply](https://job-boards.greenhouse.io/beyondtrust/jobs/7885501) |
@@ -93,7 +89,6 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-08-12 15:59 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-08-12 18:00 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Principal Security Program Manager | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-08-04 22:15 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4716677005) |
-| Expel | Senior Threat Intelligence Analyst | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 13:01 | [Apply](https://expel.com/about/career-listing/8683365002?gh_jid=8683365002) |
 | Fastly | Senior Data Security Architect | Cybersecurity | Maybe | California | San Francisco, CA | 2026-08-12 15:08 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8089506) |
 | Fastly | Senior Engineer - Security Products (Backend APIs) | Cybersecurity | Maybe | California, Colorado | Denver, CO; San Francisco, CA | 2026-08-11 13:01 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8011076) |
 | Fastly | Director, Product Marketing – Security, AI and Emerging Technology | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-08-11 19:38 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8119740) |
@@ -117,6 +112,7 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | GuidePoint Security | Senior IAM Advisor - Okta/Ping Identity Presales (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-10 16:38 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6129885004?gh_jid=6129885004) |
 | GuidePoint Security | Senior Microsoft Security Entra Engineer- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-10 11:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6139750004?gh_jid=6139750004) |
 | GuidePoint Security | Senior Security Advisor - IAM (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:01 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6099503004?gh_jid=6099503004) |
+| GuidePoint Security | Senior Security Architect - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-14 09:58 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6143482004?gh_jid=6143482004) |
 | GuidePoint Security | Senior Security Engineer (Firewall) - Mid-Atlantic region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5843886004?gh_jid=5843886004) |
 | GuidePoint Security | Team Lead, Data Security - Northeast region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-05 16:07 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5837957004?gh_jid=5837957004) |
 | GuidePoint Security | Senior Security Architect (Salt Lake City, UT) - Southwest region | Cybersecurity | Maybe | Utah | Salt Lake City, UT | 2026-08-05 16:03 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6122413004?gh_jid=6122413004) |
@@ -137,7 +133,7 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | Keeper Security | Senior QA Analyst, Privileged Access Management | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-07-06 17:30 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4090651009) |
 | Keeper Security | Senior SDET, API / Security | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-03-16 12:17 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4183460009) |
 | Keeper Security | Senior Solutions Architect, Identity Security | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-07-27 14:51 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4332348009) |
-| Marqeta | Risk and Compliance Manager - Marketing | Cybersecurity | Maybe | Remote (US) | Remote, USA | 2026-08-06 05:47 | [Apply](https://job-boards.greenhouse.io/marqeta/jobs/8023420) |
+| Marqeta | Risk and Compliance Manager (Marketing Compliance) | Cybersecurity | Maybe | Remote (US) | Remote, USA | 2026-08-14 07:12 | [Apply](https://job-boards.greenhouse.io/marqeta/jobs/8023420) |
 | MongoDB | Product Security Engineer, Server | Cybersecurity | Maybe | New York | New York City; Seattle; United States | 2026-08-13 14:02 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8098695) |
 | MongoDB | Security Software Engineer, Infrastructure Security (Staff or Senior) | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-08-12 11:27 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7727896) |
 | MongoDB | Senior Software Engineer, Server Security | Cybersecurity | Maybe | New York | New York City | 2026-08-12 11:27 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815677) |
@@ -196,16 +192,17 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | Robinhood | Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-12 14:33 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
 | Robinhood | Senior Corporate Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-13 12:32 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485) |
 | Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-06 12:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
+| Robinhood | Software Engineer, Cryptography | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-13 15:14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
 | Robinhood | Staff Security Engineer, Detection & Response | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-02 03:06 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
 | Rubrik | Director, Product Management, Threat Analytics Platform | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-08-10 17:25 | [Apply](https://www.rubrik.com/company/careers/departments/job.7508544?gh_jid=7508544) |
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-08-10 17:25 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
-| Rubrik | Staff Product Manager, Rubrik Security Cloud AI Platform | Cybersecurity | Maybe | California | Palo Altp, CA | 2026-08-10 17:25 | [Apply](https://www.rubrik.com/company/careers/departments/job.7891325?gh_jid=7891325) |
-| Samsara | Sr. Security Engineer - Enterprise Security | Cybersecurity | Maybe | California | Remote - CA | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492) |
-| Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
+| Samsara | Sr. Security Engineer - Enterprise Security | Cybersecurity | Maybe | California | Remote - CA | 2026-08-14 09:12 | [Apply](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492) |
+| Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-08-14 09:12 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
 | Smartsheet | Director Field Security | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-04-28 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-director-field-security-smartsheet-1131360) |
 | Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-08-13 14:20 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
 | Stripe | Program Manager, Security GRC | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=8078131) |
 | Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-08-06 15:22 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
+| Tanium | Director, Product Management - Endpoint Policy and Configuration Management | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-08-13 14:40 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8127094) |
 | Tenable | Security Sales Engineer - Chicago, Pre-sales | Cybersecurity | Maybe | Remote (US) | US - Remote - Illinois | 2026-08-11 12:22 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5237863008) |
 | Tenable | Senior Software Engineer - Cloud Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-08-11 12:22 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5277490008) |
 | ThreatLocker | Cybersecurity Community Champion | Cybersecurity | Maybe | Florida | Orlando, FL | 2026-06-16 15:22 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5784564004) |
@@ -277,7 +274,7 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | Coinbase | IT Service Desk Engineer | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-07-31 15:09 | [Apply](https://www.coinbase.com/careers/positions/8097880?gh_jid=8097880) |
 | Keeper Security | IT Support Specialist | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-07-24 10:50 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
 | Netskope | IT Support Analyst | IT / On-Ramp | Yes | Missouri | Saint Louis, Missouri, United States | 2026-07-30 12:22 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8064456) |
-| Samsara | Technical Support Engineer | IT / On-Ramp | Yes (desc) | Remote (US) | Remote - US | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/8017146?gh_jid=8017146) |
+| Samsara | Technical Support Engineer | IT / On-Ramp | Yes (desc) | Remote (US) | Remote - US | 2026-08-14 09:12 | [Apply](https://www.samsara.com/company/careers/roles/8017146?gh_jid=8017146) |
 | Abnormal Security | L1 Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-08-11 16:17 | [Apply](https://abnormal.ai/careers/jobs/7801478003?gh_jid=7801478003) |
 | Databricks | Staff Designated Support Engineer | IT / On-Ramp | Maybe | California | San Francisco, California | 2026-08-11 14:54 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-08-11 14:54 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
@@ -290,18 +287,19 @@ _Last updated 2026-08-13 22:29 ET — 301 roles from 88 company boards · 5 new 
 | Obsidian Security | Senior Support Engineer | IT / On-Ramp | Maybe | Remote (US) | US Remote (East/Central) | 2026-08-05 16:51 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5365008008) |
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
 | Ping Identity | Senior Technical Support Engineer - Shifted Workweek | IT / On-Ramp | Maybe | Remote (US) | USA - Remote | 2026-07-27 13:54 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8635125002) |
-| Samsara | Bilingual Customer Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873) |
-| Samsara | Business Operations Manager, Technical Support Ops | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103) |
-| Samsara | Product Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-04 16:38 | [Apply](https://www.samsara.com/company/careers/roles/8016952?gh_jid=8016952) |
+| Samsara | Bilingual Customer Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-14 09:12 | [Apply](https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873) |
+| Samsara | Business Operations Manager, Technical Support Ops | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-14 09:12 | [Apply](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103) |
+| Samsara | Product Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-14 09:12 | [Apply](https://www.samsara.com/company/careers/roles/8016952?gh_jid=8016952) |
 | Stripe | Technical Support Engineer, Metronome | IT / On-Ramp | Maybe | California | San Francisco, CA | 2026-08-06 12:10 | [Apply](https://stripe.com/jobs/search?gh_jid=7733725) |
+| Tanium | IT Operations Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-08-14 10:07 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8128878) |
 | Tenable | Technical Support Engineer (Hybrid/Columbia MD) | IT / On-Ramp | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-08-11 12:22 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5271455008) |
 | Tenable | Technical Support Engineer (Remote/West Coast) | IT / On-Ramp | Maybe | Remote (US) | US - Remote - Washington, US - Remote - Oregon , US - Remote - California | 2026-08-11 12:22 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5271457008) |
 | ThreatLocker | Tax & Financial Support Specialist | IT / On-Ramp | Maybe | Florida | Orlando, FL | 2026-07-30 10:12 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/6130637004) |
 | Verkada | Senior Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-07-30 15:53 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4997665007) |
 | Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
 | Verkada | Technical Support Engineering Manager | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144834007) |
-| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-08-07 18:44 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
+| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-08-13 19:07 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 | Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172999007) |
-| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-08-07 18:44 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
+| Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | New York | New York City, NY United States | 2026-08-13 19:07 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
 | Wiz | Manager, Solutions Support Engineering - East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-08-13 11:25 | [Apply](https://www.wiz.io/careers/job/4678144006/:title?gh_jid=4678144006) |
 | Wiz | Solutions Support Engineer, Weekend 2nd shift, US | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-08-12 16:35 | [Apply](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006) |
