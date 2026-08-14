@@ -1,10 +1,13 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-14 14:18 ET — 299 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-08-14 17:55 ET — 302 roles from 88 company boards · 3 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Recorded Future | Associate Threat Intelligence Analyst 🆕 | Cybersecurity | Yes | Washington | Washington, DC | 2026-08-14 05:26 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8694161002) |
+| Palantir | Offensive Security Engineer 🆕 | Cybersecurity | Maybe | New York | New York, NY | 2025-07-28 14:02 | [Apply](https://jobs.lever.co/palantir/5b1eac37-708b-4eb2-94f0-d2abe7945989) |
+| Palantir | Offensive Security Engineer 🆕 | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-08-14 15:54 | [Apply](https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad) |
+| Verkada | Product Manager, Perimeter & Intrusion Security 🆕 | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-14 11:25 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5205130007) |
+| Recorded Future | Associate Threat Intelligence Analyst | Cybersecurity | Yes | Washington | Washington, DC | 2026-08-14 05:26 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8694161002) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
 | Zscaler | Federal Security Operations - SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5069684007) |
@@ -190,7 +193,7 @@ _Last updated 2026-08-14 14:18 ET — 299 roles from 88 company boards · 1 new 
 | Robinhood | Senior Cloud Security Engineer | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-08-06 12:19 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427) |
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-08-11 16:03 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-12 14:33 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
-| Robinhood | Senior Corporate Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-13 12:32 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485) |
+| Robinhood | Senior Corporate Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-14 12:32 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485) |
 | Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-06 12:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
 | Robinhood | Software Engineer, Cryptography | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-13 15:14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
 | Robinhood | Staff Security Engineer, Detection & Response | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-02 03:06 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
