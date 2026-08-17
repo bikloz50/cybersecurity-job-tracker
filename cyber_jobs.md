@@ -1,13 +1,12 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-17 13:44 ET — 301 roles from 88 company boards · 4 new since last run_
+_Last updated 2026-08-17 17:27 ET — 301 roles from 88 company boards · 3 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Cloudflare | GRC Team Intern (Fall 2026) 🆕 | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-17 03:31 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796) |
-| GuidePoint Security | Security Analyst (East Coast) - Mid-Atlantic region 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-17 07:04 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6145109004?gh_jid=6145109004) |
-| Wiz | Cyber Threat Intel Analyst 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-17 05:57 | [Apply](https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006) |
-| Affirm | IT Support Administrator I 🆕 | IT / On-Ramp | Yes | New York | New York, New York, United States | 2026-08-14 18:24 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7860016003) |
+| Expel | Managed SIEM Detection Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-17 11:57 | [Apply](https://expel.com/about/career-listing/8718734002?gh_jid=8718734002) |
+| Zscaler | Senior Threat Response Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-17 11:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5211273007) |
+| Trace3 | Service Desk Technician (Remote) 🆕 | IT / On-Ramp | Yes | Kentucky | Louisville, KY | 2026-08-17 13:18 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8096524) |
 | Recorded Future | Associate Threat Intelligence Analyst | Cybersecurity | Yes | Washington | Washington, DC | 2026-08-14 05:26 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8694161002) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -41,6 +40,7 @@ _Last updated 2026-08-17 13:44 ET — 301 roles from 88 company boards · 4 new 
 | Chime | Senior Software Engineer, Data Governance | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-08-12 20:17 | [Apply](https://boards.greenhouse.io/chime/jobs/8525098002?gh_jid=8525098002) |
 | Chime | Director, Associate General Counsel, Privacy, Cybersecurity, and AI | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-29 18:23 | [Apply](https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002) |
 | Chime | Senior Security Engineer | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-29 18:23 | [Apply](https://boards.greenhouse.io/chime/jobs/8575572002?gh_jid=8575572002) |
+| Cloudflare | GRC Team Intern (Fall 2026) | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-17 03:31 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796) |
 | Cloudflare | Incident Response Analyst - React | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-06 15:17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
 | Cloudflare | Product Security Engineer | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-06 15:17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8053116?gh_jid=8053116) |
 | Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-13 11:18 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
@@ -248,6 +248,7 @@ _Last updated 2026-08-17 13:44 ET — 301 roles from 88 company boards · 4 new 
 | Verkada | Staff Software Engineer - Detection and Response Platform | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
 | Verkada | Staff+ Software Engineer, Security Infrastructure | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-07-16 19:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144160007) |
 | Wiz | Threat Detection Researcher (Windows/Linux/MacOS) | Cybersecurity | Maybe | New York | New York City | 2026-07-07 04:48 | [Apply](https://www.wiz.io/careers/job/4693950006/:title?gh_jid=4693950006) |
+| Wiz | Cyber Threat Intel Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-17 05:57 | [Apply](https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006) |
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-04 11:15 | [Apply](https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006) |
 | Workwize | Security Specialist | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-02-19 00:04 | [Apply](https://remoteOK.com/remote-jobs/remote-security-specialist-workwize-1130423) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust Cloud | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5155237007) |
@@ -273,6 +274,7 @@ _Last updated 2026-08-17 13:44 ET — 301 roles from 88 company boards · 4 new 
 | Zscaler | Specialist Account Executive, Data Security - Enterprise, East | Cybersecurity | Maybe | Remote (US) | Remote - Massachusetts, USA; Remote - New York, USA | 2026-08-13 18:10 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5179466007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-08-05 11:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
+| Affirm | IT Support Administrator I | IT / On-Ramp | Yes | New York | New York, New York, United States | 2026-08-14 18:24 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7860016003) |
 | Brex | Support Specialist I | IT / On-Ramp | Yes | Utah | Salt Lake City, Utah, United States | 2026-08-06 14:39 | [Apply](https://www.brex.com/careers/8656548002?gh_jid=8656548002) |
 | Coinbase | IT Service Desk Engineer | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-07-31 15:09 | [Apply](https://www.coinbase.com/careers/positions/8097880?gh_jid=8097880) |
 | Keeper Security | IT Support Specialist | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-07-24 10:50 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
@@ -282,8 +284,6 @@ _Last updated 2026-08-17 13:44 ET — 301 roles from 88 company boards · 4 new 
 | Databricks | Staff Designated Support Engineer | IT / On-Ramp | Maybe | California | San Francisco, California | 2026-08-11 14:54 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-08-11 14:54 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
 | Datadog | Technical Support Engineer 3, Premier - US-West | IT / On-Ramp | Maybe | California, Colorado | Denver, Colorado, USA; San Francisco, California, USA | 2026-08-12 15:59 | [Apply](https://careers.datadoghq.com/detail/7758574/?gh_jid=7758574) |
-| Datadog | Technical Support Engineer 1, Premier - USA | IT / On-Ramp | Maybe | California, Colorado, New York | Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | 2026-08-12 15:59 | [Apply](https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072) |
-| Datadog | Technical Support Engineer 2, Premier - USA | IT / On-Ramp | Maybe | California, Colorado, New York | Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | 2026-08-12 15:59 | [Apply](https://careers.datadoghq.com/detail/7997872/?gh_jid=7997872) |
 | Datadog | Federal Support Engineer 3 | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-08-12 15:59 | [Apply](https://careers.datadoghq.com/detail/7997846/?gh_jid=7997846) |
 | Datadog | Manager 1, Premier Support Engineering - Denver | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-08-12 15:59 | [Apply](https://careers.datadoghq.com/detail/8083563/?gh_jid=8083563) |
 | Marqeta | Senior Production Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote, USA | 2026-07-28 19:23 | [Apply](https://job-boards.greenhouse.io/marqeta/jobs/8077189) |
