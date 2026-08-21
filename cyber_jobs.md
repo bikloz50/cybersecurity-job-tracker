@@ -1,6 +1,6 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-20 22:14 ET — 291 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-08-21 13:51 ET — 290 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -43,8 +43,7 @@ _Last updated 2026-08-20 22:14 ET — 291 roles from 88 company boards · 0 new 
 | Cloudflare | Incident Response Analyst - React | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-06 15:17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
 | Cloudflare | Product Security Engineer | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-06 15:17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8053116?gh_jid=8053116) |
 | Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-13 11:18 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
-| Cloudflare | Senior Global Physical Security Specialist | Cybersecurity | Maybe | Indiana | In-Office | 2026-08-06 15:17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025514?gh_jid=8025514) |
-| Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-15 00:41 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
+| Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-21 06:19 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
 | Coinbase | Senior Manager, Security Audit | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-06 16:46 | [Apply](https://www.coinbase.com/careers/positions/7997926?gh_jid=7997926) |
 | Cyware | Threat Intelligence Engineer (REMOTE) | Cybersecurity | Maybe | Remote (US) | United States, Remote | 2026-08-04 13:07 | [Apply](https://boards.greenhouse.io/cyware/jobs/5610533003?gh_jid=5610533003) |
 | Databricks | Engineering Manager - Identity and Access Management (IAM) | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002) |
@@ -72,7 +71,7 @@ _Last updated 2026-08-20 22:14 ET — 291 roles from 88 company boards · 0 new 
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) |
 | Databricks | Staff Security Assurance Engineer | Cybersecurity | Maybe | Washington, Washington DC | Remote - Washington D.C.; Washington, D.C. | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8430837002) |
 | Datadog | Senior Technical Product Marketing Manager - Security | Cybersecurity | Maybe | California, New York | New York, New York, USA; San Francisco, California, USA | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546) |
-| Datadog | Director, Security Channels (North America) | Cybersecurity | Maybe | California, New York, Remote (US) | Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985) |
+| Datadog | Director, Security Channels (North America) | Cybersecurity | Maybe | California, New York, Remote (US) | Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote | 2026-08-21 09:33 | [Apply](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985) |
 | Datadog | Product Manager II, AI & Data Security | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7982288/?gh_jid=7982288) |
 | Datadog | Staff Application Security Engineer | Cybersecurity | Maybe | Massachusetts, New York, Remote (US) | Boston, Massachusetts, USA; Connecticut, USA, Remote; Delaware, USA, Remote; District of Columbia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; New York, USA, Remote; Rhode Island, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7777798/?gh_jid=7777798) |
 | Datadog | Director, Engineering - Detection Platform | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/8026520/?gh_jid=8026520) |
@@ -86,8 +85,8 @@ _Last updated 2026-08-20 22:14 ET — 291 roles from 88 company boards · 0 new 
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
 | Datadog | Regional Manager, Sales Engineering - Security (NORAM) | Cybersecurity | Maybe | New York, Remote (US) | Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; Virginia, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/8016279/?gh_jid=8016279) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
-| Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
+| Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-08-20 09:01 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-08-18 22:02 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Principal Security Program Manager | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-08-18 21:39 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4716677005) |
@@ -283,7 +282,7 @@ _Last updated 2026-08-20 22:14 ET — 291 roles from 88 company boards · 0 new 
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
 | Ping Identity | Senior Technical Support Engineer - Shifted Workweek | IT / On-Ramp | Maybe | Remote (US) | USA - Remote | 2026-07-27 13:54 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8635125002) |
 | Samsara | Bilingual Customer Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-20 14:53 | [Apply](https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873) |
-| Samsara | Business Operations Manager, Technical Support Ops | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-20 14:53 | [Apply](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103) |
+| Samsara | Business Operations Manager, Technical Support Ops | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-21 04:47 | [Apply](https://www.samsara.com/company/careers/roles/7761103?gh_jid=7761103) |
 | Stripe | Technical Support Engineer, Metronome | IT / On-Ramp | Maybe | California | San Francisco, CA | 2026-08-18 17:38 | [Apply](https://stripe.com/jobs/search?gh_jid=7733725) |
 | Tanium | IT Operations Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-08-14 10:07 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8128878) |
 | Tenable | Technical Support Engineer (Hybrid/Columbia MD) | IT / On-Ramp | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-08-20 15:12 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5271455008) |
