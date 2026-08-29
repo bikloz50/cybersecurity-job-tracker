@@ -1,18 +1,16 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-28 22:59 ET — 295 roles from 88 company boards · 4 new since last run_
+_Last updated 2026-08-29 00:53 ET — 295 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| GuidePoint Security | GPSU Cybersecurity Spring Internship 🆕 | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-28 08:59 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
-| GuidePoint Security | Data Governance Analyst 🆕 | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-28 11:21 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6173548004?gh_jid=6173548004) |
-| Wiz | Cyber Threat Intel Analyst 🆕 | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-08-28 08:33 | [Apply](https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006) |
-| Trace3 | System Administrator II 🆕 | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-28 16:41 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8165150) |
+| GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-28 08:59 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
 | Zscaler | Federal Security Operations - SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5069684007) |
 | Zscaler | Phishing Analyst-SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5065302007) |
+| GuidePoint Security | Data Governance Analyst | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-28 11:21 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6173548004?gh_jid=6173548004) |
 | GuidePoint Security | Strategic Security Advisor (New England) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-05 16:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020620004?gh_jid=6020620004) |
 | GuidePoint Security | Strategic Security Advisor (New York Metro) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-08-05 16:06 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020603004?gh_jid=6020603004) |
 | Abnormal Security | Senior Software Engineer - Product Engineering (Identity Security) | Cybersecurity | Maybe | California | Hybrid - San Francisco, CA, USA | 2026-08-26 11:03 | [Apply](https://abnormal.ai/careers/jobs/7733721003?gh_jid=7733721003) |
@@ -245,6 +243,7 @@ _Last updated 2026-08-28 22:59 ET — 295 roles from 88 company boards · 4 new 
 | Verkada | Staff Software Engineer - Detection and Response Platform | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
 | Wiz | Threat Detection Researcher (Windows/Linux/MacOS) | Cybersecurity | Maybe | New York | New York City | 2026-08-20 12:29 | [Apply](https://www.wiz.io/careers/job/4693950006/:title?gh_jid=4693950006) |
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-20 11:04 | [Apply](https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006) |
+| Wiz | Cyber Threat Intel Analyst | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-08-28 08:33 | [Apply](https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust Cloud | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5155237007) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust for Agentic AI | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5169428007) |
 | Zscaler | Staff Machine Learning Engineer - Data Lake, Anomaly Detection | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114450007) |
@@ -293,6 +292,7 @@ _Last updated 2026-08-28 22:59 ET — 295 roles from 88 company boards · 4 new 
 | Tenable | Technical Support Engineer (Remote/West Coast) | IT / On-Ramp | Maybe | Remote (US) | US - Remote - Washington, US - Remote - Oregon , US - Remote - California | 2026-08-26 07:05 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5271457008) |
 | ThreatLocker | Tax & Financial Support Specialist | IT / On-Ramp | Maybe | Florida | Orlando, FL | 2026-07-30 10:12 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/6130637004) |
 | Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-24 18:44 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8155504) |
+| Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-28 16:41 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8165150) |
 | Twilio | Sales Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-08-28 18:58 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157166) |
 | Verkada | Senior Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4997665007) |
 | Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
