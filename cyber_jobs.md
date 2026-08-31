@@ -1,11 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-08-31 19:28 ET — 290 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-08-31 21:45 ET — 288 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Abnormal Security | Software Engineer II - Data Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 14:18 | [Apply](https://abnormal.ai/careers/jobs/7981482003?gh_jid=7981482003) |
-| Verkada | Staff+ Software Engineer, Agentic Software Security 🆕 | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-30 18:56 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5226046007) |
+| GuidePoint Security | Security Engineer (SOAR) - Mid-Atlantic region (Remote) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-31 16:10 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6017633004?gh_jid=6017633004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | ThreatLocker | Jr Cyber Hero Intern | Cybersecurity | Yes | Florida | Orlando, FL | 2026-04-29 16:23 | [Apply](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004) |
@@ -18,10 +17,10 @@ _Last updated 2026-08-31 19:28 ET — 290 roles from 88 company boards · 2 new 
 | Abnormal Security | Application Security Engineer II | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003) |
 | Abnormal Security | Senior Cloud Security Engineer (AWS) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 12:20 | [Apply](https://abnormal.ai/careers/jobs/7896108003?gh_jid=7896108003) |
 | Abnormal Security | Senior Security Engineer, FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
+| Abnormal Security | Software Engineer II - Data Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 14:18 | [Apply](https://abnormal.ai/careers/jobs/7981482003?gh_jid=7981482003) |
 | Abnormal Security | Staff Software Engineer, Security & Privacy | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003) |
 | Adyen | Senior AI Governance Counsel | Cybersecurity | Maybe | New York | New York | 2026-08-24 15:49 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8107347) |
 | Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
-| Affirm | Product Security Engineer II | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-31 13:55 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7796534003) |
 | Affirm | Quantitative Analytics Manager, Affirm Bank Model Governance | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819441003) |
 | Affirm | Security Risk Management Lead | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7718808003) |
 | Affirm | Security Risk Management Specialist II | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-18 16:24 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7832333003) |
@@ -49,7 +48,6 @@ _Last updated 2026-08-31 19:28 ET — 290 roles from 88 company boards · 2 new 
 | Databricks | Engineering Manager - Identity and Access Management (IAM) | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002) |
 | Databricks | Principal Product Marketing Manager, AI Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-18 14:07 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493724002) |
 | Databricks | Principal Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-08-18 14:30 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612863002) |
-| Databricks | Senior Engineering Manager - Trust and Safety | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002) |
 | Databricks | Senior Software Engineer - Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002) |
 | Databricks | Senior Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
 | Databricks | Sr. Product Manager, Data Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-18 13:48 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002) |
@@ -58,7 +56,6 @@ _Last updated 2026-08-31 19:28 ET — 290 roles from 88 company boards · 2 new 
 | Databricks | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-08-18 14:05 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002) |
 | Databricks | Staff Product Manager, Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002) |
 | Databricks | Staff Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-08-18 14:30 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612870002) |
-| Databricks | Staff Security Software Engineer, AI Security | Cybersecurity | Maybe | California | Remote - California | 2026-08-27 16:18 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002) |
 | Databricks | Staff Security Software Engineer, AI Security Engineering | Cybersecurity | Maybe | California | Remote - California | 2026-08-18 13:48 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
 | Databricks | Sr. Forward Deployed Engineer - National Security | Cybersecurity | Maybe | California, Delaware, Maryland, Massachusetts, New York, Virginia, Washington, Washington DC, West Virginia | Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia | 2026-08-27 14:41 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) |
@@ -240,6 +237,7 @@ _Last updated 2026-08-31 19:28 ET — 290 roles from 88 company boards · 2 new 
 | Verkada | Staff Backend Engineer - Device Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5154370007) |
 | Verkada | Staff+ Security Engineer, Core Command | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167601007) |
 | Verkada | Staff+ Security Engineer, Developer Tools | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5167607007) |
+| Verkada | Staff+ Software Engineer, Agentic Software Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-30 18:56 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5226046007) |
 | Verkada | Staff Software Engineer - Detection and Response Platform | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
 | Wiz | Threat Detection Researcher (Windows/Linux/MacOS) | Cybersecurity | Maybe | New York | New York City | 2026-08-20 12:29 | [Apply](https://www.wiz.io/careers/job/4693950006/:title?gh_jid=4693950006) |
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-20 11:04 | [Apply](https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006) |
