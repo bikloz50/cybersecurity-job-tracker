@@ -1,10 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-01 17:17 ET — 278 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-09-01 19:46 ET — 278 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Wiz | Chief of Staff, Security Customer Engineering 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-01 12:59 | [Apply](https://www.wiz.io/careers/job/4710111006/:title?gh_jid=4710111006) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -82,8 +81,8 @@ _Last updated 2026-09-01 17:17 ET — 278 roles from 88 company boards · 1 new 
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
 | Datadog | Regional Manager, Sales Engineering - Security (NORAM) | Cybersecurity | Maybe | New York, Remote (US) | Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; Virginia, USA, Remote | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/8016279/?gh_jid=8016279) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
-| Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-08-18 22:02 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Dragos | Associate Principal Cyber Threat Intelligence Analyst | Cybersecurity | Maybe | Virginia | Norfolk, VA | 2026-08-27 15:43 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5389909008) |
@@ -233,6 +232,7 @@ _Last updated 2026-09-01 17:17 ET — 278 roles from 88 company boards · 1 new 
 | Verkada | Staff+ Software Engineer, Agentic Software Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-30 18:56 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5226046007) |
 | Verkada | Staff Software Engineer - Detection and Response Platform | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5143766007) |
 | Wiz | Threat Detection Researcher (Windows/Linux/MacOS) | Cybersecurity | Maybe | New York | New York City | 2026-08-20 12:29 | [Apply](https://www.wiz.io/careers/job/4693950006/:title?gh_jid=4693950006) |
+| Wiz | Chief of Staff, Security Customer Engineering | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-01 12:59 | [Apply](https://www.wiz.io/careers/job/4710111006/:title?gh_jid=4710111006) |
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-20 11:04 | [Apply](https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006) |
 | Wiz | Cyber Threat Intel Analyst | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-08-28 08:33 | [Apply](https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006) |
 | Zscaler | Senior Product Marketing Manager, Zero Trust Cloud | Cybersecurity | Maybe | California | San Jose, California, USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5155237007) |
@@ -261,7 +261,7 @@ _Last updated 2026-09-01 17:17 ET — 278 roles from 88 company boards · 1 new 
 | Coinbase | IT Service Desk Engineer | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-08-25 20:02 | [Apply](https://www.coinbase.com/careers/positions/8097880?gh_jid=8097880) |
 | Keeper Security | IT Support Specialist | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-08-24 11:13 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
 | Netskope | IT Support Analyst | IT / On-Ramp | Yes | Missouri | Saint Louis, Missouri, United States | 2026-08-19 13:52 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8064456) |
-| Robinhood | Investment Accounts Associate, Help Desk | IT / On-Ramp | Yes | Texas | Westlake, TX | 2026-08-31 19:24 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
+| Robinhood | Investment Accounts Associate, Help Desk | IT / On-Ramp | Yes | Texas | Westlake, TX | 2026-09-01 14:48 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
 | Abnormal Security | L1 Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7801478003?gh_jid=7801478003) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
 | Datadog | Technical Support Engineer 3, Premier - US-West | IT / On-Ramp | Maybe | California, Colorado | Denver, Colorado, USA; San Francisco, California, USA | 2026-08-27 16:40 | [Apply](https://careers.datadoghq.com/detail/7758574/?gh_jid=7758574) |
