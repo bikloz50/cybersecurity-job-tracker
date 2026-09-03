@@ -1,12 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new since last run_
+_Last updated 2026-09-03 23:39 ET — 276 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Coinbase | Threat Intelligence Platform Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-03 14:02 | [Apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
-| GuidePoint Security | Cybersecurity Solutions Architect/Engineer 🆕 | Cybersecurity | Maybe | Virginia | Falls Church, VA | 2026-09-03 14:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6181209004?gh_jid=6181209004) |
-| GuidePoint Security | Endpoint Security Engineer 🆕 | Cybersecurity | Maybe | Virginia | Falls Church, VA | 2026-09-03 14:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6181141004?gh_jid=6181141004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -46,6 +43,7 @@ _Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new 
 | Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-01 20:49 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
 | Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-21 06:19 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
 | Coinbase | Senior Manager, Security Audit | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-06 16:46 | [Apply](https://www.coinbase.com/careers/positions/7997926?gh_jid=7997926) |
+| Coinbase | Threat Intelligence Platform Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-03 14:02 | [Apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
 | Databricks | Engineering Manager - Identity and Access Management (IAM) | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002) |
 | Databricks | Principal Product Marketing Manager, AI Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-09-02 00:24 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493724002) |
 | Databricks | Principal Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-09-02 00:42 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612863002) |
@@ -118,6 +116,8 @@ _Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new 
 | GuidePoint Security | Team Lead, Data Security - Northeast region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-03 09:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5837957004?gh_jid=5837957004) |
 | GuidePoint Security | Senior Security Architect (Salt Lake City, UT) - Southwest region | Cybersecurity | Maybe | Utah | Salt Lake City, UT | 2026-09-03 09:51 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6122413004?gh_jid=6122413004) |
 | GuidePoint Security | Cloud Security Engineer | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-08-11 13:34 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6111621004?gh_jid=6111621004) |
+| GuidePoint Security | Cybersecurity Solutions Architect/Engineer | Cybersecurity | Maybe | Virginia | Falls Church, VA | 2026-09-03 14:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6181209004?gh_jid=6181209004) |
+| GuidePoint Security | Endpoint Security Engineer | Cybersecurity | Maybe | Virginia | Falls Church, VA | 2026-09-03 14:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6181141004?gh_jid=6181141004) |
 | GuidePoint Security | Security Architect (Northern Virginia) - Mid-Atlantic region | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-09-03 09:47 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6129622004?gh_jid=6129622004) |
 | GuidePoint Security | Vectra Detection Engineer | Cybersecurity | Maybe | Virginia | Chantilly, VA | 2026-08-12 10:37 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6141997004?gh_jid=6141997004) |
 | GuidePoint Security | CNAPP Security Engineer Mid Atlantic region | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-04-16 00:00 | [Apply](https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144) |
@@ -138,7 +138,7 @@ _Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new 
 | MongoDB | Software Engineer 3, Atlas Identity and Access Management | Cybersecurity | Maybe | New York | New York City | 2026-09-01 03:40 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
 | MoonPay | Product Security Manager | Cybersecurity | Maybe | Remote (US) | United States (East Coast Time Zone) - Remote | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-product-security-manager-moonpay-1130926) |
 | NerdWallet | Security Engineer II Canada | Cybersecurity | Maybe | Remote (US) | Remote (US) | 2026-03-22 08:00 | [Apply](https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860) |
-| Netskope | Sr. Engineering Manager, Data Security | Cybersecurity | Maybe | California | Santa Clara, California, United States | 2026-09-02 19:06 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8095510) |
+| Netskope | Sr. Engineering Manager, Data Security | Cybersecurity | Maybe | California | Santa Clara, California, United States | 2026-09-03 16:37 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8095510) |
 | Obsidian Security | Software Engineer - AI Security Product | Cybersecurity | Maybe | California | Palo Alto, California, USA | 2026-08-05 16:51 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) |
 | Obsidian Security | Threat Intelligence Lead | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-08-25 15:49 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5405912008) |
 | Okta | Staff Backend Engineer, Identity Threat Protection | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-24 12:51 | [Apply](https://www.okta.com/company/careers/opportunity/8053199?gh_jid=8053199) |
@@ -186,8 +186,8 @@ _Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new 
 | Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-25 14:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
 | Robinhood | Senior Staff Software Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-09-02 03:06 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8167616?t=gh_src=&gh_jid=8167616) |
 | Robinhood | Software Engineer, Cryptography | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-25 14:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
-| Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-09-03 14:19 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
-| Samsara | Sr. Security Engineer - Enterprise Security | Cybersecurity | Maybe | California | Remote - CA | 2026-08-26 15:20 | [Apply](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492) |
+| Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-09-03 16:28 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
+| Samsara | Sr. Security Engineer - Enterprise Security | Cybersecurity | Maybe | California | Remote - CA | 2026-09-03 18:32 | [Apply](https://www.samsara.com/company/careers/roles/7752492?gh_jid=7752492) |
 | Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-08-20 14:53 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
 | Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-09-01 16:42 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
 | Stripe | Program Manager, Security GRC | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-18 17:38 | [Apply](https://stripe.com/jobs/search?gh_jid=8078131) |
@@ -199,7 +199,6 @@ _Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new 
 | Tenable | Director of Product Marketing -  Cloud & OT Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-09-02 08:40 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5413733008) |
 | Tenable | Security Sales Engineer - SLED/Public Sector | Cybersecurity | Maybe | Remote (US) | US - Remote - Austin - Texas | 2026-09-02 16:23 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5414481008) |
 | Trace3 | Regional Principal Security Solutions Architect | Wiz/PAN/CrowdStrike (Remote) | Cybersecurity | Maybe | California | Irvine, CA, United States | 2026-08-26 19:09 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8160798) |
-| Trace3 | Information Systems Security Engineer III - (W2PE) | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-08-07 15:20 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7871083) |
 | Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-08-28 18:58 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
 | Twilio | Senior Security Engineer, Incident Response | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-02 12:08 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8065040) |
 | Twilio | Sr Architect - Emerging Technologies (Fraud Detection and Governance) | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-02 12:08 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7960476) |
@@ -223,9 +222,7 @@ _Last updated 2026-09-03 19:40 ET — 279 roles from 88 company boards · 3 new 
 | Verkada | Director of Global Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-19 01:02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5155848007) |
 | Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
 | Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-23 15:50 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219548007) |
-| Verkada | Head of Operations, Security Trailers & Edge Products | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5214221007) |
 | Verkada | Lead Product Manager, Edge Products (Gateways & Security Trailers) | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5209567007) |
-| Verkada | Product Manager, Perimeter & Intrusion Devices | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5209547007) |
 | Verkada | Product Manager, Perimeter & Intrusion Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-24 14:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5205130007) |
 | Verkada | Product Marketing Manager, Privacy and Video Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-02 18:08 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5150337007) |
 | Verkada | Security Software Engineering Intern 2027 | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-25 14:12 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
