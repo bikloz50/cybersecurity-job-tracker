@@ -1,9 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-03 23:39 ET — 276 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-09-04 16:50 ET — 277 roles from 88 company boards · 2 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
+| Palantir | Industrial Security Specialist 🆕 | Cybersecurity | Maybe | New York | New York, NY | 2026-02-05 00:02 | [Apply](https://jobs.lever.co/palantir/12d13a31-5764-4678-8835-809f0deae49b) |
+| Twilio | Staff Security Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-04 11:25 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157344) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Zscaler | Detection Engineer- SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
@@ -37,10 +39,10 @@ _Last updated 2026-09-03 23:39 ET — 276 roles from 88 company boards · 0 new 
 | Chime | Director, Associate General Counsel, Privacy, Cybersecurity, and AI | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-08-28 14:33 | [Apply](https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002) |
 | Chime | Senior Security Engineer | Cybersecurity | Maybe | California, New York | New York, NY, USA; San Francisco, CA, USA | 2026-06-29 18:23 | [Apply](https://boards.greenhouse.io/chime/jobs/8575572002?gh_jid=8575572002) |
 | Chime | Sr. Analyst, AML Governance | Cybersecurity | Maybe | Illinois | Chicago, IL, USA | 2026-08-28 14:34 | [Apply](https://boards.greenhouse.io/chime/jobs/8726050002?gh_jid=8726050002) |
-| Cloudflare | EIAM Business Enablement & Operations Intern (Fall 2026) | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-01 20:49 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479) |
-| Cloudflare | Global Physical Security Intelligence Specialist | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-01 20:49 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7816547?gh_jid=7816547) |
-| Cloudflare | Incident Response Analyst - React | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-01 20:49 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
-| Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-01 20:49 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
+| Cloudflare | EIAM Business Enablement & Operations Intern (Fall 2026) | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-04 10:59 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479) |
+| Cloudflare | Global Physical Security Intelligence Specialist | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-04 10:59 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7816547?gh_jid=7816547) |
+| Cloudflare | Incident Response Analyst - React | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-04 10:59 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650) |
+| Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-09-04 10:59 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
 | Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-21 06:19 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
 | Coinbase | Senior Manager, Security Audit | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-06 16:46 | [Apply](https://www.coinbase.com/careers/positions/7997926?gh_jid=7997926) |
 | Coinbase | Threat Intelligence Platform Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-03 14:02 | [Apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
@@ -82,9 +84,9 @@ _Last updated 2026-09-03 23:39 ET — 276 roles from 88 company boards · 0 new 
 | Datadog | Senior Security Engineer, Offensive Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/7871543/?gh_jid=7871543) |
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
-| Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
+| Datadog | Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-09-02 10:22 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-08-18 22:02 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Dragos | Associate Principal Cyber Threat Intelligence Analyst | Cybersecurity | Maybe | Virginia | Norfolk, VA | 2026-08-27 15:43 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5389909008) |
 | Expel | Managed SIEM Detection Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-17 11:57 | [Apply](https://expel.com/about/career-listing/8718734002?gh_jid=8718734002) |
@@ -157,7 +159,6 @@ _Last updated 2026-09-03 23:39 ET — 276 roles from 88 company boards · 0 new 
 | Palantir | Information Security Engineer - Infrastructure Security | Cybersecurity | Maybe | New York | New York, NY | 2026-04-16 00:16 | [Apply](https://jobs.lever.co/palantir/1e77a5e8-9843-4516-a186-7c24f0ff07a0) |
 | Palantir | Information Security Engineer - Insider Risk | Cybersecurity | Maybe | New York | New York, NY | 2026-04-14 14:31 | [Apply](https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166) |
 | Palantir | Offensive Security Engineer | Cybersecurity | Maybe | New York | New York, NY | 2025-07-28 14:02 | [Apply](https://jobs.lever.co/palantir/5b1eac37-708b-4eb2-94f0-d2abe7945989) |
-| Palantir | Operations Analyst - US Government Security | Cybersecurity | Maybe | New York | New York, NY | 2026-06-09 16:29 | [Apply](https://jobs.lever.co/palantir/2df67493-ffb3-4b34-bf3b-88b6750c3ea7) |
 | Palantir | Senior Identity Security Engineer | Cybersecurity | Maybe | New York | New York, NY | 2026-05-28 21:15 | [Apply](https://jobs.lever.co/palantir/144f32bc-21e5-42bd-9710-7165a22d51e1) |
 | Palantir | Technical Program Manager - Security | Cybersecurity | Maybe | New York | New York, NY | 2026-07-20 14:50 | [Apply](https://jobs.lever.co/palantir/b5362bc1-8a07-44e2-9ddc-cb4236aa0f20) |
 | Palantir | Defensive Security Analyst | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-01-08 11:51 | [Apply](https://jobs.lever.co/palantir/bc803bd5-7793-452d-9ae5-9301ee24615a) |
@@ -257,7 +258,7 @@ _Last updated 2026-09-03 23:39 ET — 276 roles from 88 company boards · 0 new 
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Affirm | IT Support Administrator I | IT / On-Ramp | Yes | New York | New York, New York, United States | 2026-08-14 18:24 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7860016003) |
-| Brex | Support Specialist I | IT / On-Ramp | Yes | Utah | Salt Lake City, Utah, United States | 2026-08-06 14:39 | [Apply](https://www.brex.com/careers/8656548002?gh_jid=8656548002) |
+| Brex | Support Specialist I | IT / On-Ramp | Yes | Utah | Salt Lake City, Utah, United States | 2026-09-04 12:29 | [Apply](https://www.brex.com/careers/8656548002?gh_jid=8656548002) |
 | Keeper Security | IT Support Specialist | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-08-24 11:13 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
 | Netskope | IT Support Analyst | IT / On-Ramp | Yes | Missouri | Saint Louis, Missouri, United States | 2026-08-19 13:52 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8064456) |
 | Robinhood | Investment Accounts Associate, Help Desk | IT / On-Ramp | Yes | Texas | Westlake, TX | 2026-09-01 14:48 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
