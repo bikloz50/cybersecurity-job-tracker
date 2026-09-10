@@ -1,14 +1,12 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new since last run_
+_Last updated 2026-09-10 19:28 ET — 276 roles from 88 company boards · 3 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Datadog | Security Engineer 2 - Cyber Threat Intelligence 🆕 | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345) |
-| Samsara | Technical Program Manager - Enterprise Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-10 10:15 | [Apply](https://www.samsara.com/company/careers/roles/8164851?gh_jid=8164851) |
-| Stripe | Security Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | US Remote  | 2026-09-09 20:41 | [Apply](https://stripe.com/jobs/search?gh_jid=8174965) |
-| Trace3 | Cyber Assessment and Authorization Engineer (26-367) 🆕 | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-09-10 12:51 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8191626) |
-| Verkada | GRC Engineer 🆕 | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-09 22:26 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5234231007) |
+| Fastly | Senior Software Engineer, Edge Security 🆕 | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-09-10 14:16 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8189311) |
+| Keeper Security | Senior Technical Product Manager, Privileged Access Management (PAM) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-09-10 15:27 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4106538009) |
+| Stripe | Security Incident Response Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-09-10 14:49 | [Apply](https://stripe.com/jobs/search?gh_jid=8142302) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Trace3 | ISSE/ Cybersecurity Engineer I | Cybersecurity | Yes | Colorado | Colorado Springs, CO | 2026-09-09 13:57 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8189173) |
@@ -59,7 +57,7 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Databricks | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-09-02 00:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002) |
 | Databricks | Staff Product Manager, Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002) |
 | Databricks | Staff Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-09-02 00:42 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612870002) |
-| Databricks | Staff Security Software Engineer, AI Security Engineering | Cybersecurity | Maybe | California | Remote - California | 2026-09-02 00:05 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
+| Databricks | Staff Security Software Engineer, Agentic Security Engineering | Cybersecurity | Maybe | California | Remote - California | 2026-09-10 13:25 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
 | Databricks | Sr. Forward Deployed Engineer - National Security | Cybersecurity | Maybe | California, Delaware, Maryland, Massachusetts, New York, Virginia, Washington, Washington DC, West Virginia | Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia | 2026-09-02 00:52 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) |
 | Databricks | Cyber Security GTM Leader | Cybersecurity | Maybe | California, New York | Remote - California; Remote - New York | 2026-09-02 00:36 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8582312002) |
@@ -77,11 +75,12 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Datadog | Senior Technical Product Marketing Manager - Security | Cybersecurity | Maybe | California, New York | New York, New York, USA; San Francisco, California, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546) |
 | Datadog | Director, Security Channels (North America) | Cybersecurity | Maybe | California, New York, Remote (US) | Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; San Francisco, California, USA; Texas, USA, Remote | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985) |
 | Datadog | Product Manager II, AI & Data Security | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7982288/?gh_jid=7982288) |
-| Datadog | Senior Security Engineer, Vulnerability Management | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/8173840/?gh_jid=8173840) |
+| Datadog | Senior Security Engineer, Vulnerability Management | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-09-10 13:14 | [Apply](https://careers.datadoghq.com/detail/8173840/?gh_jid=8173840) |
 | Datadog | Staff Application Security Engineer | Cybersecurity | Maybe | Massachusetts, New York, Remote (US) | Boston, Massachusetts, USA; Connecticut, USA, Remote; Delaware, USA, Remote; District of Columbia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; New York, USA, Remote; Rhode Island, USA, Remote | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7777798/?gh_jid=7777798) |
 | Datadog | Engineering Manager I, Threat Detection | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7958663/?gh_jid=7958663) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7129425/?gh_jid=7129425) |
 | Datadog | Group Product Manager - Code Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/8023763/?gh_jid=8023763) |
+| Datadog | Security Engineer 2 - Cyber Threat Intelligence | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345) |
 | Datadog | Senior Cloud Security Engineer - K8s | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616) |
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-09-10 10:53 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
@@ -93,7 +92,7 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Expel | Managed SIEM Detection Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-17 11:57 | [Apply](https://expel.com/about/career-listing/8718734002?gh_jid=8718734002) |
 | Expel | Product Manager, Detection Pipeline | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-24 15:37 | [Apply](https://expel.com/about/career-listing/8706149002?gh_jid=8706149002) |
 | Expel | Senior Security Solutions Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-27 13:43 | [Apply](https://expel.com/about/career-listing/8756232002?gh_jid=8756232002) |
-| Fastly | Senior Data Security Architect | Cybersecurity | Maybe | California | San Francisco, CA | 2026-08-20 15:21 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8089506) |
+| Fastly | Senior Data Security Architect | Cybersecurity | Maybe | California | San Francisco, CA | 2026-09-10 14:32 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8089506) |
 | Fastly | Director, Product Marketing – Security, AI and Emerging Technology | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-08-20 15:21 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8119740) |
 | Fastly | Senior Security Technical Account Manager | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-08-22 03:52 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8114333) |
 | Fastly | Staff Product Marketing Manager – Security | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-08-20 15:21 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8120168) |
@@ -173,7 +172,6 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Reddit | Trust and Safety Policy, Ads Policy,  Lead | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-09-09 08:50 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8159077) |
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, Colorado, New York, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY | 2026-09-02 13:26 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Staff Security Engineer, Detection & Response | Cybersecurity | Maybe | California, Colorado, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA | 2026-08-30 03:05 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
-| Robinhood | Security Engineer, Application Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-09-08 09:33 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
 | Robinhood | Senior Cloud Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-31 10:25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8081776?t=gh_src=&gh_jid=8081776) |
 | Robinhood | Senior Corporate Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-25 14:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485) |
 | Robinhood | Senior Software Engineer, Security Platform | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-08-25 14:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7899482?t=gh_src=&gh_jid=7899482) |
@@ -182,10 +180,12 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-09-03 16:28 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Samsara | Senior Security Operations Engineer I | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-09 12:14 | [Apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-09 12:14 | [Apply](https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183) |
-| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-09-04 14:12 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
-| Stripe | Program Manager, Security GRC | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-04 14:12 | [Apply](https://stripe.com/jobs/search?gh_jid=8078131) |
-| Stripe | Security Incident Response Manager, Abuse Operations | Cybersecurity | Maybe | Remote (US) | Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 2026-09-09 18:07 | [Apply](https://stripe.com/jobs/search?gh_jid=8172497) |
-| Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-09-04 14:12 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
+| Samsara | Technical Program Manager - Enterprise Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-10 10:15 | [Apply](https://www.samsara.com/company/careers/roles/8164851?gh_jid=8164851) |
+| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-09-10 13:11 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
+| Stripe | Program Manager, Security GRC | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-10 13:11 | [Apply](https://stripe.com/jobs/search?gh_jid=8078131) |
+| Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | US Remote  | 2026-09-10 13:11 | [Apply](https://stripe.com/jobs/search?gh_jid=8174965) |
+| Stripe | Security Incident Response Manager, Abuse Operations | Cybersecurity | Maybe | Remote (US) | Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 2026-09-10 13:11 | [Apply](https://stripe.com/jobs/search?gh_jid=8172497) |
+| Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-09-10 13:11 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
 | Tanium | Staff Identity and Access Management Engineer | Cybersecurity | Maybe | California, North Carolina, Texas, Virginia, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | 2026-09-02 19:32 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126772) |
 | Tanium | Director, Product Management - Endpoint Policy and Configuration Management | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-08-28 16:56 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8127094) |
 | Tenable | Research Manager - Security Research/Audits & Compliance | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-09-09 15:37 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5400359008) |
@@ -193,12 +193,13 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Tenable | Security Sales Engineer - SLED/Public Sector | Cybersecurity | Maybe | Remote (US) | US - Remote - Austin - Texas | 2026-09-09 15:37 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5414481008) |
 | Trace3 | Regional Principal Security Solutions Architect | Wiz/PAN/CrowdStrike (Remote) | Cybersecurity | Maybe | California | Irvine, CA, United States | 2026-08-26 19:09 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8160798) |
 | Trace3 | Sr. Solutions Architect | Security (Northern California) | Cybersecurity | Maybe | California | Sacramento, CA | 2026-09-04 13:41 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8119730) |
+| Trace3 | Cyber Assessment and Authorization Engineer (26-367) | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-09-10 12:51 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8191626) |
 | Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
 | Twilio | Senior Security Engineer, Incident Response | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-09 07:02 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8065040) |
 | Twilio | Sr Architect - Emerging Technologies (Fraud Detection and Governance) | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7960476) |
 | Twilio | Staff Engineer - Offensive Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8048657) |
 | Twilio | Staff Enterprise Security Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8160279) |
-| Twilio | Staff Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157344) |
+| Twilio | Staff Security Engineer, Threat Hunting | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-10 14:43 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157344) |
 | Twilio | Vendor Operations & Governance Specialist | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-09 18:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8185920) |
 | UltraViolet Cyber | Principal Cyber Security Solutions Architect | Cybersecurity | Maybe | Maryland | National Harbor, MD | 2026-08-25 18:19 | [Apply](https://jobs.lever.co/uvcyber/eeac2fd9-dbc9-428c-b0c6-a81e24f8ce71) |
 | UltraViolet Cyber | Senior Security Engineer - Crowdstrike | Cybersecurity | Maybe | Maryland | National Harbor, MD | 2026-08-03 17:57 | [Apply](https://jobs.lever.co/uvcyber/496fa1b1-00d0-4991-8bf3-5e68f2187c1e) |
@@ -216,6 +217,7 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Veeam Software | Senior Sales Engineer Data & AI Security | Cybersecurity | Maybe | Missouri | Saint Louis, MO, USA | 2026-03-15 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-data-ai-security-veeam-software-1130787) |
 | Verkada | Director of Global Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-08-19 01:02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5155848007) |
 | Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-08 13:44 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
+| Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-09 22:26 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5234231007) |
 | Verkada | Lead Product Manager, Edge Products (Gateways & Security Trailers) | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-08 13:44 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5209567007) |
 | Verkada | Product Manager, Perimeter & Intrusion Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-08 13:44 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5205130007) |
 | Verkada | Product Marketing Manager, Privacy and Data Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-09 14:24 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5150337007) |
@@ -254,7 +256,6 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Brex | Support Specialist I | IT / On-Ramp | Yes | Utah | Salt Lake City, Utah, United States | 2026-09-04 12:29 | [Apply](https://www.brex.com/careers/8656548002?gh_jid=8656548002) |
 | Keeper Security | IT Support Specialist | IT / On-Ramp | Yes | Remote (US) | Remote, US | 2026-08-24 11:13 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4330623009) |
 | Netskope | IT Support Analyst | IT / On-Ramp | Yes | Missouri | Saint Louis, Missouri, United States | 2026-09-08 10:45 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8064456) |
-| Robinhood | Investment Accounts Associate, Help Desk | IT / On-Ramp | Yes | Texas | Westlake, TX | 2026-09-01 14:48 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
 | Tanium | Technical Support Engineer (TSE) Intern | IT / On-Ramp | Yes | California, Washington | Bellevue, WA (Hybrid); Emeryville, CA (Hybrid) | 2026-09-09 15:39 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8189328) |
 | Tanium | Technical Support Engineer (TSE) Intern | IT / On-Ramp | Yes | Texas | Addison, TX (Hybrid) | 2026-09-09 15:39 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
@@ -267,6 +268,7 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
 | Ping Identity | Senior Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | USA - Remote | 2026-08-27 10:26 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8743157002) |
 | Ping Identity | Senior Technical Support Engineer - Elite | IT / On-Ramp | Maybe | Remote (US) | USA - Remote | 2026-09-01 16:49 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8696471002) |
+| Robinhood | Trump Accounts Representative, Help Desk | IT / On-Ramp | Maybe | Texas | Westlake, TX | 2026-09-10 14:31 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
 | Samsara | Bilingual Customer Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-09-09 12:14 | [Apply](https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873) |
 | Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-24 18:44 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8155504) |
 | Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-31 12:59 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8165150) |
@@ -277,4 +279,4 @@ _Last updated 2026-09-10 16:57 ET — 274 roles from 88 company boards · 5 new 
 | Verkada | Technical Support Engineering Manager | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-08 13:44 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144834007) |
 | Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-08 19:38 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 | Verkada | Technical Support Engineer - University Graduate 2027 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-09 19:12 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
-| Verkada | University Recruiter - Technical Support Engineering | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-10 11:46 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5233721007) |
+| Verkada | University Recruiter - Technical Support Engineering | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-10 15:04 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5233721007) |
