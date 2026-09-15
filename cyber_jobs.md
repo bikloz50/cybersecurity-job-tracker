@@ -1,11 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-15 20:03 ET — 285 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-09-15 23:48 ET — 287 roles from 88 company boards · 2 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| GuidePoint Security | Threat Emulation Engineer - Blue/Purple Team 🆕 | Cybersecurity | Yes (desc) | Virginia | Chantilly, VA | 2026-09-15 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004) |
-| GuidePoint Security | Cybersecurity Architect 🆕 | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-09-15 15:44 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193511004?gh_jid=6193511004) |
+| Samsara | Staff Application Security Engineer 🆕 | Cybersecurity | Maybe | Washington DC | Remote - DC | 2026-09-15 16:11 | [Apply](https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139) |
+| Trace3 | Talent Acquisition Sourcer | AI/Cloud/Security/Data (Remote) 🆕 | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-09-15 17:33 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8205339) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Huntress | Security Operations Analyst | Cybersecurity | Yes | Remote (US) | Remote US | 2026-09-11 15:37 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
@@ -17,6 +17,7 @@ _Last updated 2026-09-15 20:03 ET — 285 roles from 88 company boards · 2 new 
 | Zscaler | Phishing Analyst-SkillBridge Intern | Cybersecurity | Yes | Remote (US) | Remote - USA | 2026-08-19 17:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5065302007) |
 | GuidePoint Security | Strategic Security Advisor (New England) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-09-03 09:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020620004?gh_jid=6020620004) |
 | GuidePoint Security | Strategic Security Advisor (New York Metro) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-09-03 09:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020603004?gh_jid=6020603004) |
+| GuidePoint Security | Threat Emulation Engineer - Blue/Purple Team | Cybersecurity | Yes (desc) | Virginia | Chantilly, VA | 2026-09-15 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004) |
 | Abnormal Security | Application Security Engineer II | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003) |
 | Abnormal Security | Senior Cloud Security Engineer (AWS) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 12:20 | [Apply](https://abnormal.ai/careers/jobs/7896108003?gh_jid=7896108003) |
 | Abnormal Security | Senior Security Engineer, FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
@@ -58,7 +59,7 @@ _Last updated 2026-09-15 20:03 ET — 285 roles from 88 company boards · 2 new 
 | Databricks | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-09-02 00:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002) |
 | Databricks | Staff Product Manager, Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002) |
 | Databricks | Staff Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-09-02 00:42 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612870002) |
-| Databricks | Staff Security Software Engineer, Agentic Security Engineering | Cybersecurity | Maybe | California | Remote - California | 2026-09-10 13:25 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
+| Databricks | Staff Security Software Engineer, Agentic Security Engineering | Cybersecurity | Maybe | California | Remote - California | 2026-09-15 17:27 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-08-18 13:17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
 | Databricks | Sr. Forward Deployed Engineer - National Security | Cybersecurity | Maybe | California, Delaware, Maryland, Massachusetts, New York, Virginia, Washington, Washington DC, West Virginia | Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia | 2026-09-02 00:52 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) |
 | Databricks | Cyber Security GTM Leader | Cybersecurity | Maybe | California, New York | Remote - California; Remote - New York | 2026-09-02 00:36 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8582312002) |
@@ -82,7 +83,7 @@ _Last updated 2026-09-15 20:03 ET — 285 roles from 88 company boards · 2 new 
 | Datadog | Group Product Manager - Code Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/8023763/?gh_jid=8023763) |
 | Datadog | Product Manager 2 – IaC Detection | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/8197852/?gh_jid=8197852) |
 | Datadog | Security Engineer 2 - Cyber Threat Intelligence | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345) |
-| Datadog | Senior Cloud Security Engineer - K8s | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616) |
+| Datadog | Senior Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-15 18:37 | [Apply](https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616) |
 | Datadog | Senior Services Architect, Security-Cloud SIEM | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-09-15 13:24 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
@@ -117,6 +118,7 @@ _Last updated 2026-09-15 20:03 ET — 285 roles from 88 company boards · 2 new 
 | GuidePoint Security | Senior Security Engineer (Firewall) - Mid-Atlantic region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-03 09:52 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5843886004?gh_jid=5843886004) |
 | GuidePoint Security | Team Lead, Data Security - Northeast region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-03 09:53 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/5837957004?gh_jid=5837957004) |
 | GuidePoint Security | Cloud Security Engineer | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-09-15 15:24 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6111621004?gh_jid=6111621004) |
+| GuidePoint Security | Cybersecurity Architect | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-09-15 15:44 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193511004?gh_jid=6193511004) |
 | GuidePoint Security | Network Security Engineer | Cybersecurity | Maybe | Virginia | Falls Church, VA | 2026-09-15 13:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193368004?gh_jid=6193368004) |
 | GuidePoint Security | Security Architect (Northern Virginia) - Mid-Atlantic region | Cybersecurity | Maybe | Virginia | Reston, VA | 2026-09-03 09:47 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6129622004?gh_jid=6129622004) |
 | GuidePoint Security | Vectra Detection Engineer | Cybersecurity | Maybe | Virginia | Chantilly, VA | 2026-08-12 10:37 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6141997004?gh_jid=6141997004) |
@@ -130,7 +132,7 @@ _Last updated 2026-09-15 20:03 ET — 285 roles from 88 company boards · 2 new 
 | Keeper Security | Senior Solutions Architect, Identity Security | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-07-27 14:51 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4332348009) |
 | Keeper Security | Senior Technical Product Manager, Privileged Access Management (PAM) | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-09-10 15:27 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4106538009) |
 | Keeper Security | Senior Technical Program Manager, Privileged Access Management | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-08-27 15:47 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4385755009) |
-| MongoDB | Product Security Engineer, Server | Cybersecurity | Maybe | New York | New York City; Seattle; United States | 2026-09-15 09:05 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8098695) |
+| MongoDB | Product Security Engineer, Server | Cybersecurity | Maybe | New York | New York City; Seattle; United States | 2026-09-15 17:31 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8098695) |
 | MongoDB | Security Software Engineer, Infrastructure Security (Staff or Senior) | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-09-15 09:05 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7727896) |
 | MongoDB | Senior Software Engineer, Server Security | Cybersecurity | Maybe | New York | New York City | 2026-09-15 09:05 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815677) |
 | MongoDB | Site Reliability Engineer (Senior or Staff), Infrastructure Security | Cybersecurity | Maybe | New York | Austin; New York City; San Francisco; Seattle; United States | 2026-09-15 09:05 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7758610) |
