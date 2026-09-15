@@ -1,10 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-14 20:46 ET — 280 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-09-15 00:04 ET — 278 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) 🆕 | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
+| GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Huntress | Security Operations Analyst | Cybersecurity | Yes | Remote (US) | Remote US | 2026-09-11 15:37 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
 | Huntress | Security Operations Analyst - Weekend 4x10 Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-09-11 15:37 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7992842003) |
@@ -21,7 +21,7 @@ _Last updated 2026-09-14 20:46 ET — 280 roles from 88 company boards · 1 new 
 | Abnormal Security | Senior Security Engineer, FedRAMP | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
 | Abnormal Security | Staff Software Engineer, Security & Privacy | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003) |
 | Adyen | Senior AI Governance Counsel | Cybersecurity | Maybe | New York | New York | 2026-08-24 15:49 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8107347) |
-| Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
+| Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-09-14 17:25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
 | Affirm | Quantitative Analytics Manager, Affirm Bank Model Governance | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819441003) |
 | Affirm | Security Risk Management Lead | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-12 15:12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7718808003) |
 | Affirm | Security Risk Management Specialist II | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-08-18 16:24 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7832333003) |
@@ -202,7 +202,6 @@ _Last updated 2026-09-14 20:46 ET — 280 roles from 88 company boards · 1 new 
 | Trace3 | Cyber Assessment and Authorization Engineer (26-367) | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-09-10 12:51 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8191626) |
 | Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
 | Twilio | Senior Security Engineer, Incident Response | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-09 07:02 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8065040) |
-| Twilio | Staff Engineer - Offensive Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8048657) |
 | Twilio | Staff Enterprise Security Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-08 11:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8160279) |
 | Twilio | Staff Security Engineer, Threat Hunting | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-10 14:43 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157344) |
 | Twilio | Vendor Operations & Governance Specialist | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-09-09 18:42 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8185920) |
@@ -275,7 +274,6 @@ _Last updated 2026-09-14 20:46 ET — 280 roles from 88 company boards · 1 new 
 | Robinhood | Trump Accounts Representative, Help Desk | IT / On-Ramp | Maybe | Texas | Westlake, TX | 2026-09-10 14:31 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
 | Samsara | Bilingual Customer Support Specialist | IT / On-Ramp | Maybe | Remote (US) | Remote - US | 2026-09-14 11:35 | [Apply](https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873) |
 | Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-24 18:44 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8155504) |
-| Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-08-31 12:59 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8165150) |
 | Verkada | Senior Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-10 17:49 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4997665007) |
 | Verkada | Technical Support Engineer | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-11 16:31 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
 | Verkada | Technical Support Engineering Intern - Spring 2027 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-10 17:49 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
