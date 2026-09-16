@@ -1,8 +1,6 @@
 company,title,category,entry_level,states,location,updated,url,is_new
-Reddit,"Trust and Safety Policy, Ads Policy,  Lead",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-09-16 10:51,https://job-boards.greenhouse.io/reddit/jobs/8159077,True
-Robinhood,Security Risk Management Intern (Summer 2027),Cybersecurity,Maybe,California,"Menlo Park, CA",2026-09-16 11:05,https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970,True
-Robinhood,Senior Offensive Security Engineer,Cybersecurity,Maybe,"California, Colorado, New York, Washington","Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY",2026-09-16 10:39,https://boards.greenhouse.io/robinhood/jobs/8202858?t=gh_src=&gh_jid=8202858,True
-Wiz,Cyber Threat Intel Analyst,Cybersecurity,Maybe,Washington,"Washington, D.C.",2026-09-16 11:07,https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006,True
+Tanium,"Senior Security Engineer, Customer Transparency",Cybersecurity,Maybe,Remote (US),"Remote, US",2026-09-16 15:19,https://job-boards.greenhouse.io/tanium/jobs/8165481,True
+Tenable,Technical Support Engineer (Hybrid/Columbia MD),IT / On-Ramp,Maybe,Maryland,US - Headquarters - Maryland - Columbia,2026-09-16 13:50,https://job-boards.greenhouse.io/tenableinc/jobs/5426029008,True
 GuidePoint Security,Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.),Cybersecurity,Yes,Remote (US),Remote,2026-09-14 14:31,https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004,False
 GuidePoint Security,GPSU Cybersecurity Spring Internship,Cybersecurity,Yes,Remote (US),Remote,2026-08-31 15:15,https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004,False
 Huntress,Security Operations Analyst,Cybersecurity,Yes,Remote (US),Remote US,2026-09-11 15:37,https://job-boards.greenhouse.io/huntress/jobs/7743188003,False
@@ -36,7 +34,6 @@ Bridgewater Associates,Senior Security Engineer,Cybersecurity,Maybe,Remote (US),
 Bridgewater Associates Referrals,Senior Security Engineer Vulnerability & Exposure Management,Cybersecurity,Maybe,Remote (US),Remote (US),2026-04-22 00:01,https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258,False
 Chime,"Manager, Product Security",Cybersecurity,Maybe,California,"San Francisco, CA, USA",2026-09-09 17:08,https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002,False
 Chime,"Senior Software Engineer, Data Governance",Cybersecurity,Maybe,California,"San Francisco, CA, USA",2026-09-09 17:08,https://boards.greenhouse.io/chime/jobs/8525098002?gh_jid=8525098002,False
-Chime,"Director, Associate General Counsel, Privacy, Cybersecurity, and AI",Cybersecurity,Maybe,"California, New York","New York, NY, USA; San Francisco, CA, USA",2026-09-09 17:08,https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002,False
 Chime,Senior Security Engineer,Cybersecurity,Maybe,"California, New York","New York, NY, USA; San Francisco, CA, USA",2026-09-09 17:08,https://boards.greenhouse.io/chime/jobs/8575572002?gh_jid=8575572002,False
 Cloudflare,Global Physical Security Intelligence Specialist,Cybersecurity,Maybe,Indiana,In-Office,2026-09-04 10:59,https://boards.greenhouse.io/cloudflare/jobs/7816547?gh_jid=7816547,False
 Cloudflare,Incident Response Analyst - React,Cybersecurity,Maybe,Indiana,In-Office,2026-09-04 10:59,https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650,False
@@ -59,7 +56,6 @@ Databricks,Staff Security Field Engineer,Cybersecurity,Maybe,California,Remote -
 Databricks,"Staff Security Software Engineer, Agentic Security Engineering",Cybersecurity,Maybe,California,Remote - California,2026-09-15 17:27,https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002,False
 Databricks,Staff Software Engineer - Security Infrastructure,Cybersecurity,Maybe,California,"Mountain View, California",2026-08-18 13:17,https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002,False
 Databricks,Sr. Forward Deployed Engineer - National Security,Cybersecurity,Maybe,"California, Delaware, Maryland, Massachusetts, New York, Virginia, Washington, Washington DC, West Virginia","Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia",2026-09-02 00:52,https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002,False
-Databricks,Cyber Security GTM Leader,Cybersecurity,Maybe,"California, New York",Remote - California; Remote - New York,2026-09-02 00:36,https://databricks.com/company/careers/open-positions/job?gh_jid=8582312002,False
 Databricks,Staff Technical Program Manager - Cleared/Security,Cybersecurity,Maybe,"Virginia, Washington","McLean, Virginia; Washington, D.C.",2026-09-02 00:23,https://databricks.com/company/careers/open-positions/job?gh_jid=8493148002,False
 Databricks,Senior Staff Software Engineer - Security Infrastructure,Cybersecurity,Maybe,Washington,"Bellevue, Washington",2026-08-18 13:17,https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002,False
 Databricks,Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security,Cybersecurity,Maybe,Washington,"Washington, D.C.",2026-09-08 12:06,https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002,False
@@ -78,7 +74,6 @@ Datadog,Staff Application Security Engineer,Cybersecurity,Maybe,"Massachusetts, 
 Datadog,"Engineering Manager I, Threat Detection",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 13:24,https://careers.datadoghq.com/detail/7958663/?gh_jid=7958663,False
 Datadog,Enterprise Security Sales Specialist,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 13:24,https://careers.datadoghq.com/detail/7129425/?gh_jid=7129425,False
 Datadog,Group Product Manager - Code Security,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 13:24,https://careers.datadoghq.com/detail/8023763/?gh_jid=8023763,False
-Datadog,Product Manager 2 – IaC Detection,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 13:24,https://careers.datadoghq.com/detail/8197852/?gh_jid=8197852,False
 Datadog,Security Engineer 2 - Cyber Threat Intelligence,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 13:24,https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345,False
 Datadog,Senior Platform Security Engineer,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 18:37,https://careers.datadoghq.com/detail/7815616/?gh_jid=7815616,False
 Datadog,"Senior Services Architect, Security-Cloud SIEM",Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-15 13:24,https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907,False
@@ -101,7 +96,6 @@ GuidePoint Security,Director of Cybersecurity Advisory - Northeast region,Cybers
 GuidePoint Security,"AI Security Engineer - Mid-Atlantic region (Remote in VA, MD, PA, NC, DE, NJ, or DC)",Cybersecurity,Maybe,Remote (US),Remote,2026-09-03 09:36,https://boards.greenhouse.io/guidepointsecurity/jobs/6030474004?gh_jid=6030474004,False
 GuidePoint Security,Application Security Consultant- Remote (Anywhere in the U.S.),Cybersecurity,Maybe,Remote (US),Remote,2026-09-14 11:40,https://boards.greenhouse.io/guidepointsecurity/jobs/6191540004?gh_jid=6191540004,False
 GuidePoint Security,"Application Security Engineer - Mid-Atlantic region (Remote in VA, MD, PA, NC, DE, NJ, or DC)",Cybersecurity,Maybe,Remote (US),Remote,2026-09-03 09:36,https://boards.greenhouse.io/guidepointsecurity/jobs/6094965004?gh_jid=6094965004,False
-GuidePoint Security,Application Security Engineer (Remote in the U.S.),Cybersecurity,Maybe,Remote (US),Remote,2026-09-03 09:37,https://boards.greenhouse.io/guidepointsecurity/jobs/6009383004?gh_jid=6009383004,False
 GuidePoint Security,Microsoft Security Engagement Lead- Remote (Anywhere in the U.S.),Cybersecurity,Maybe,Remote (US),Remote,2026-08-24 11:36,https://boards.greenhouse.io/guidepointsecurity/jobs/6151398004?gh_jid=6151398004,False
 GuidePoint Security,SecOps Security Architect - North Central region (Remote in the U.S.),Cybersecurity,Maybe,Remote (US),Remote,2026-09-15 12:16,https://boards.greenhouse.io/guidepointsecurity/jobs/6193107004?gh_jid=6193107004,False
 GuidePoint Security,Security Architect - Exposure Management (Presales) - Northeast region,Cybersecurity,Maybe,Remote (US),Remote,2026-09-03 09:46,https://boards.greenhouse.io/guidepointsecurity/jobs/6134623004?gh_jid=6134623004,False
@@ -177,6 +171,9 @@ Palantir,Technical Program Manager - Security,Cybersecurity,Maybe,Washington,"Wa
 Reddit,"Staff Machine Learning Engineer, AI Security",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-09-15 02:07,https://job-boards.greenhouse.io/reddit/jobs/8203478,False
 Reddit,Staff Product Security Engineer,Cybersecurity,Maybe,Remote (US),Remote - United States,2026-07-08 12:15,https://job-boards.greenhouse.io/reddit/jobs/7868511,False
 Reddit,"Staff Threat Analyst, Ads Fraud",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-09-14 12:25,https://job-boards.greenhouse.io/reddit/jobs/8189395,False
+Reddit,"Trust and Safety Policy, Ads Policy,  Lead",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-09-16 10:51,https://job-boards.greenhouse.io/reddit/jobs/8159077,False
+Robinhood,Security Risk Management Intern (Summer 2027),Cybersecurity,Maybe,California,"Menlo Park, CA",2026-09-16 11:05,https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970,False
+Robinhood,Senior Offensive Security Engineer,Cybersecurity,Maybe,"California, Colorado, New York, Washington","Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY",2026-09-16 10:39,https://boards.greenhouse.io/robinhood/jobs/8202858?t=gh_src=&gh_jid=8202858,False
 Robinhood,Staff Offensive Security Engineer,Cybersecurity,Maybe,"California, Colorado, New York, Washington","Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY",2026-09-16 10:40,https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167,False
 Robinhood,"Staff Security Engineer, Detection & Response",Cybersecurity,Maybe,"California, Colorado, Washington","Bellevue, WA; Denver, CO; Menlo Park, CA",2026-08-30 03:05,https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818,False
 Robinhood,Senior Cloud Security Engineer,Cybersecurity,Maybe,"California, Washington","Bellevue, WA; Menlo Park, CA",2026-08-31 10:25,https://boards.greenhouse.io/robinhood/jobs/8081776?t=gh_src=&gh_jid=8081776,False
@@ -185,10 +182,10 @@ Robinhood,"Senior Software Engineer, Security Platform",Cybersecurity,Maybe,"Cal
 Robinhood,Senior Staff Software Security Engineer,Cybersecurity,Maybe,"California, Washington","Bellevue, WA; Menlo Park, CA",2026-09-02 03:06,https://boards.greenhouse.io/robinhood/jobs/8167616?t=gh_src=&gh_jid=8167616,False
 Robinhood,"Software Engineer, Cryptography",Cybersecurity,Maybe,"California, Washington","Bellevue, WA; Menlo Park, CA",2026-08-25 14:51,https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370,False
 Rubrik,"Staff Platform Product Manager, Platform & Cloud Security",Cybersecurity,Maybe,California,"Palo Alto, CA",2026-09-03 16:28,https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902,False
-Samsara,Senior Security Operations Engineer I,Cybersecurity,Maybe,California,"San Francisco, CA, United States",2026-09-15 11:39,https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369,False
-Samsara,Staff Application Security Engineer,Cybersecurity,Maybe,California,"San Francisco, CA, United States",2026-09-15 15:59,https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183,False
-Samsara,Technical Program Manager - Enterprise Security,Cybersecurity,Maybe,Massachusetts,Remote - MA,2026-09-15 11:44,https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376,False
-Samsara,Staff Application Security Engineer,Cybersecurity,Maybe,Washington DC,Remote - DC,2026-09-15 16:11,https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139,False
+Samsara,Senior Security Operations Engineer I,Cybersecurity,Maybe,California,"San Francisco, CA, United States",2026-09-16 14:10,https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369,False
+Samsara,Staff Application Security Engineer,Cybersecurity,Maybe,California,"San Francisco, CA, United States",2026-09-16 14:10,https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183,False
+Samsara,Technical Program Manager - Enterprise Security,Cybersecurity,Maybe,Massachusetts,Remote - MA,2026-09-16 14:10,https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376,False
+Samsara,Staff Application Security Engineer,Cybersecurity,Maybe,Washington DC,Remote - DC,2026-09-16 14:10,https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139,False
 Stripe,Client Platform Security Engineer,Cybersecurity,Maybe,New York,"New York, New York ",2026-09-10 13:11,https://stripe.com/jobs/search?gh_jid=7982720,False
 Stripe,"Program Manager, Security GRC",Cybersecurity,Maybe,Remote (US),Remote,2026-09-10 13:11,https://stripe.com/jobs/search?gh_jid=8078131,False
 Stripe,Security Engineer,Cybersecurity,Maybe,Remote (US),US Remote ,2026-09-10 13:11,https://stripe.com/jobs/search?gh_jid=8174965,False
@@ -237,6 +234,7 @@ Verkada,Staff Software Engineer - Detection and Response Platform,Cybersecurity,
 Wiz,Threat Detection Researcher (Windows/Linux/MacOS),Cybersecurity,Maybe,New York,New York City,2026-09-15 05:08,https://www.wiz.io/careers/job/4693950006/:title?gh_jid=4693950006,False
 Wiz,"Chief of Staff, Security Customer Engineering",Cybersecurity,Maybe,Remote (US),Remote - USA,2026-09-08 11:52,https://www.wiz.io/careers/job/4710111006/:title?gh_jid=4710111006,False
 Wiz,Threat Intelligence Researcher (Cloud),Cybersecurity,Maybe,Remote (US),Remote - USA,2026-08-20 11:04,https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006,False
+Wiz,Cyber Threat Intel Analyst,Cybersecurity,Maybe,Washington,"Washington, D.C.",2026-09-16 11:07,https://www.wiz.io/careers/job/4705367006/:title?gh_jid=4705367006,False
 Zscaler,"Senior Product Marketing Manager, Zero Trust Cloud",Cybersecurity,Maybe,California,"San Jose, California, USA",2026-09-16 12:42,https://job-boards.greenhouse.io/zscaler/jobs/5155237007,False
 Zscaler,"Senior Product Marketing Manager, Zero Trust for Agentic AI",Cybersecurity,Maybe,California,"San Jose, California, USA",2026-09-16 12:42,https://job-boards.greenhouse.io/zscaler/jobs/5169428007,False
 Zscaler,"Staff Machine Learning Engineer - Data Lake, Anomaly Detection",Cybersecurity,Maybe,California,"San Jose, California, USA",2026-09-16 12:42,https://job-boards.greenhouse.io/zscaler/jobs/5114450007,False
@@ -274,8 +272,8 @@ Obsidian Security,Senior Support Engineer,IT / On-Ramp,Maybe,Remote (US),US Remo
 Palantir,Support Engineer,IT / On-Ramp,Maybe,New York,"New York, NY",2026-05-19 18:25,https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131,False
 Ping Identity,Senior Technical Support Engineer,IT / On-Ramp,Maybe,Remote (US),USA - Remote,2026-08-27 10:26,https://job-boards.greenhouse.io/pingidentity/jobs/8743157002,False
 Ping Identity,Senior Technical Support Engineer - Elite,IT / On-Ramp,Maybe,Remote (US),USA - Remote,2026-09-01 16:49,https://job-boards.greenhouse.io/pingidentity/jobs/8696471002,False
-Robinhood,"Trump Accounts Representative, Help Desk",IT / On-Ramp,Maybe,Texas,"Westlake, TX",2026-09-10 14:31,https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392,False
-Samsara,Bilingual Customer Support Specialist,IT / On-Ramp,Maybe,Remote (US),Remote - US,2026-09-14 11:35,https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873,False
+Robinhood,"Trump Accounts Representative, Help Desk",IT / On-Ramp,Maybe,Texas,"Westlake, TX",2026-09-16 13:58,https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392,False
+Samsara,Bilingual Customer Support Specialist,IT / On-Ramp,Maybe,Remote (US),Remote - US,2026-09-16 14:10,https://www.samsara.com/company/careers/roles/8079873?gh_jid=8079873,False
 Trace3,System Administrator II,IT / On-Ramp,Maybe,Colorado,"Colorado Springs, CO",2026-08-24 18:44,https://job-boards.greenhouse.io/trace3/jobs/8155504,False
 Verkada,Senior Technical Support Engineer,IT / On-Ramp,Maybe,California,"San Mateo, CA United States",2026-09-10 17:49,https://job-boards.greenhouse.io/verkada/jobs/4997665007,False
 Verkada,Technical Support Engineer,IT / On-Ramp,Maybe,California,"San Mateo, CA United States",2026-09-11 16:31,https://job-boards.greenhouse.io/verkada/jobs/5063200007,False
