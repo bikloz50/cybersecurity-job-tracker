@@ -1,10 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-21 20:50 ET — 277 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-09-22 00:21 ET — 275 roles from 88 company boards · 2 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Databricks | Sr. Manager, Security — Continuous Monitoring v 2.0 🆕 | Cybersecurity | Maybe | California | Remote - California | 2026-09-21 15:08 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8470847002) |
+| GuidePoint Security | Azure Security Engineer- Remote (Anywhere in the U.S.) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-21 17:01 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6204117004?gh_jid=6204117004) |
+| Robinhood | Senior Security Engineer, Detection & Response 🆕 | Cybersecurity | Maybe | California, Colorado, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA | 2026-09-21 16:51 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8202863?t=gh_src=&gh_jid=8202863) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Huntress | Security Operations Analyst | Cybersecurity | Yes | Remote (US) | Remote US | 2026-09-18 13:23 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
@@ -47,6 +48,7 @@ _Last updated 2026-09-21 20:50 ET — 277 roles from 88 company boards · 1 new 
 | Databricks | Principal Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612863002) |
 | Databricks | Senior Software Engineer - Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002) |
 | Databricks | Senior Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
+| Databricks | Sr. Manager, Security — Continuous Monitoring v 2.0 | Cybersecurity | Maybe | California | Remote - California | 2026-09-21 15:08 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8470847002) |
 | Databricks | Sr. Product Manager, Data Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002) |
 | Databricks | Sr. Staff Software Engineer — Observability, Insights & Governance | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002) |
 | Databricks | Sr Staff Technical Program Manager- Security | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8818577002) |
@@ -121,13 +123,9 @@ _Last updated 2026-09-21 20:50 ET — 277 roles from 88 company boards · 1 new 
 | Keeper Security | Senior Solutions Architect, Identity Security | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-07-27 14:51 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4332348009) |
 | Keeper Security | Senior Technical Product Manager, Privileged Access Management (PAM) | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-09-10 15:27 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4106538009) |
 | Keeper Security | Senior Technical Program Manager, Privileged Access Management | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-08-27 15:47 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4385755009) |
-| MongoDB | Senior Software Engineer, Server Security | Cybersecurity | Maybe | New York | New York City | 2026-09-16 13:28 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815677) |
-| MongoDB | Site Reliability Engineer (Mid-Level, Senior or Staff), Infrastructure Security | Cybersecurity | Maybe | New York | Austin; New York City; United States | 2026-09-16 17:23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7758610) |
-| MongoDB | Software Engineer 3, Atlas Identity and Access Management | Cybersecurity | Maybe | New York | New York City | 2026-09-16 13:28 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
-| MongoDB | Software Engineer (Mid-Level, Senior or Staff), Infrastructure Security | Cybersecurity | Maybe | New York | Austin; New York City; United States | 2026-09-16 17:28 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7727896) |
 | MoonPay | Product Security Manager | Cybersecurity | Maybe | Remote (US) | United States (East Coast Time Zone) - Remote | 2026-03-28 16:00 | [Apply](https://remoteOK.com/remote-jobs/remote-product-security-manager-moonpay-1130926) |
 | Netskope | Sr. Engineering Manager, Data Security | Cybersecurity | Maybe | California | Santa Clara, California, United States | 2026-09-03 16:37 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8095510) |
-| Obsidian Security | Chief Information Security Officer (CISO) | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-09-21 13:51 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008) |
+| Obsidian Security | Chief Information Security Officer (CISO) | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-09-21 18:31 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008) |
 | Obsidian Security | Software Engineer - AI Security Product | Cybersecurity | Maybe | California | Palo Alto, California, USA | 2026-09-21 13:51 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) |
 | Okta | Engineering Manager, Okta Identity Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-09-21 12:43 | [Apply](https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083) |
 | Okta | Staff Backend Engineer, Identity Threat Protection | Cybersecurity | Maybe | California | San Francisco, California | 2026-09-21 12:43 | [Apply](https://www.okta.com/company/careers/opportunity/8053199?gh_jid=8053199) |
