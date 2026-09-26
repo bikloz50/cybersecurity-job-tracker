@@ -1,10 +1,13 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-09-25 20:18 ET — 295 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-09-26 00:14 ET — 297 roles from 88 company boards · 4 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Stripe | Offensive Security Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=8233889) |
+| Affirm | Staff Software Engineer, Backend (Trust and Safety) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-09-25 18:32 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7993030003) |
+| Fastly | Senior Security Technical Account Manager 🆕 | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-09-25 19:48 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8231947) |
+| Coinbase | IT Support Engineer 🆕 | IT / On-Ramp | Yes | California | San Francisco, CA | 2026-09-25 16:40 | [Apply](https://www.coinbase.com/careers/positions/8234137?gh_jid=8234137) |
+| Verkada | Business Systems Support Engineer 🆕 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-09-25 17:28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5230743007) |
 | Expel | Associate SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-24 17:40 | [Apply](https://expel.com/about/career-listing/8588028002?gh_jid=8588028002) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
@@ -92,7 +95,6 @@ _Last updated 2026-09-25 20:18 ET — 295 roles from 88 company boards · 1 new 
 | Expel | Product Manager, Detection Pipeline | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-24 15:37 | [Apply](https://expel.com/about/career-listing/8706149002?gh_jid=8706149002) |
 | Expel | Senior Security Solutions Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-27 13:43 | [Apply](https://expel.com/about/career-listing/8756232002?gh_jid=8756232002) |
 | Fastly | Senior Data Security Architect | Cybersecurity | Maybe | California | San Francisco, CA | 2026-09-22 13:47 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8089506) |
-| Fastly | Senior Security Technical Account Manager | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-09-23 11:31 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8114333) |
 | Fastly | Senior Software Engineer, Edge Security | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-09-22 13:47 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8189311) |
 | Fastly | Staff Product Marketing Manager – Security | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-09-22 13:47 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8120168) |
 | GuidePoint Security | Security Engineer (Denver, CO) - Heartland (Remote) | Cybersecurity | Maybe | Colorado | Denver, CO | 2026-09-03 09:48 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6123662004?gh_jid=6123662004) |
@@ -193,11 +195,12 @@ _Last updated 2026-09-25 20:18 ET — 295 roles from 88 company boards · 1 new 
 | Samsara | Technical Program Manager - Enterprise Security | Cybersecurity | Maybe | Massachusetts | Remote - MA | 2026-09-25 16:07 | [Apply](https://www.samsara.com/company/careers/roles/8204376?gh_jid=8204376) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | Oregon | Remote - OR | 2026-09-25 16:07 | [Apply](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | Washington DC | Remote - DC | 2026-09-25 16:07 | [Apply](https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139) |
-| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
-| Stripe | Security Engineer, Bridge | Cybersecurity | Maybe | New York | SF, New York, Seattle | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=7776179) |
-| Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | US Remote  | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=8174965) |
-| Stripe | Security Incident Response Manager, Abuse Operations | Cybersecurity | Maybe | Remote (US) | Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=8172497) |
-| Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
+| Stripe | Client Platform Security Engineer | Cybersecurity | Maybe | New York | New York, New York  | 2026-09-25 16:44 | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) |
+| Stripe | Security Engineer, Bridge | Cybersecurity | Maybe | New York | SF, New York, Seattle | 2026-09-25 16:44 | [Apply](https://stripe.com/jobs/search?gh_jid=7776179) |
+| Stripe | Offensive Security Engineer | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-09-25 16:45 | [Apply](https://stripe.com/jobs/search?gh_jid=8233889) |
+| Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | US Remote  | 2026-09-25 16:45 | [Apply](https://stripe.com/jobs/search?gh_jid=8174965) |
+| Stripe | Security Incident Response Manager, Abuse Operations | Cybersecurity | Maybe | Remote (US) | Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 2026-09-25 16:45 | [Apply](https://stripe.com/jobs/search?gh_jid=8172497) |
+| Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-09-25 16:44 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
 | Tanium | Staff Identity and Access Management Engineer | Cybersecurity | Maybe | California, North Carolina, Texas, Virginia, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | 2026-09-24 06:10 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126772) |
 | Tanium | Senior Security Engineer, Customer Transparency | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-09-24 06:16 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8165481) |
 | Tenable | Research Manager - Security Research/Audits & Compliance | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-09-09 15:37 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5400359008) |
@@ -206,7 +209,6 @@ _Last updated 2026-09-25 20:18 ET — 295 roles from 88 company boards · 1 new 
 | Tenable | Security Sales Engineer - SLED/Public Sector | Cybersecurity | Maybe | Remote (US) | US - Remote - Austin - Texas | 2026-09-09 15:37 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5414481008) |
 | Trace3 | Regional Principal Security Solutions Architect | Wiz/PAN/CrowdStrike (Remote) | Cybersecurity | Maybe | California | Irvine, CA, United States | 2026-08-26 19:09 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8160798) |
 | Trace3 | Sr. Solutions Architect | Security (Northern California) | Cybersecurity | Maybe | California | Sacramento, CA | 2026-09-04 13:41 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8119730) |
-| Trace3 | Cyber Assessment and Authorization Engineer (26-367) | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-09-10 12:51 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8191626) |
 | Trace3 | Cybersecurity Engineer III | Cybersecurity | Maybe | Maryland | Linthicum Heights, MD | 2026-09-17 17:32 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8212306) |
 | Trace3 | Principal Consultant | AI Security (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-09-25 00:06 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8232472) |
 | Trace3 | Sr. Security Solutions Architect | IGA/PAM/NHI (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-09-17 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8211462) |
@@ -286,7 +288,7 @@ _Last updated 2026-09-25 20:18 ET — 295 roles from 88 company boards · 1 new 
 | Keeper Security | Systems Support Engineer (Night Shift) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-09-23 15:51 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4418561009) |
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
 | Ping Identity | Senior Technical Support Engineer | IT / On-Ramp | Maybe | Remote (US) | USA - Remote | 2026-09-24 15:53 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8743157002) |
-| Stripe | Credit Operations Manager | IT / On-Ramp | Maybe | Remote (US) | Chicago, Atlanta, US-Remote | 2026-09-25 16:04 | [Apply](https://stripe.com/jobs/search?gh_jid=8213951) |
+| Stripe | Credit Operations Manager | IT / On-Ramp | Maybe | Remote (US) | Chicago, Atlanta, US-Remote | 2026-09-25 16:45 | [Apply](https://stripe.com/jobs/search?gh_jid=8213951) |
 | Trace3 | System Administrator II | IT / On-Ramp | Maybe | Colorado | Colorado Springs, CO | 2026-09-23 15:16 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8155504) |
 | Trace3 | IT Support Specialist II | IT / On-Ramp | Maybe | Texas | Houston, TX | 2026-09-16 17:23 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8208513) |
 | Trace3 | Manager, IT Operations | IT / On-Ramp | Maybe | Texas | Houston, TX | 2026-09-16 17:22 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8208563) |
