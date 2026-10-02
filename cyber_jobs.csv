@@ -1,4 +1,6 @@
 company,title,category,entry_level,states,location,updated,url,is_new
+Deepwatch,Lead SOC Analyst,Cybersecurity,Maybe,Oregon,Tampa Hybrid or Remote,2026-10-01 18:35,https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005,True
+Okta,Senior Product Manager - Okta Identity Governance,Cybersecurity,Maybe,"California, Illinois, New York, Washington","Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",2026-10-01 19:21,https://www.okta.com/company/careers/opportunity/8213755?gh_jid=8213755,True
 Expel,Associate SOC Analyst,Cybersecurity,Yes,Remote (US),Remote,2026-09-24 17:40,https://expel.com/about/career-listing/8588028002?gh_jid=8588028002,False
 GuidePoint Security,Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.),Cybersecurity,Yes,Remote (US),Remote,2026-09-14 14:31,https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004,False
 GuidePoint Security,GPSU Cybersecurity Spring Internship,Cybersecurity,Yes,Remote (US),Remote,2026-08-31 15:15,https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004,False
@@ -32,9 +34,9 @@ Brex,Senior Security Operations Engineer,Cybersecurity,Maybe,New York,"New York,
 Brex,Senior Security Operations Engineer,Cybersecurity,Maybe,Washington,"Seattle, Washington, United States",2026-07-16 18:45,https://www.brex.com/careers/8339283002?gh_jid=8339283002,False
 Bridgewater Associates,Senior Security Engineer,Cybersecurity,Maybe,Remote (US),Remote,2026-04-23 00:00,https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280,False
 Bridgewater Associates Referrals,Senior Security Engineer Vulnerability & Exposure Management,Cybersecurity,Maybe,Remote (US),Remote (US),2026-04-22 00:01,https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258,False
-Chime,"Manager, Product Security",Cybersecurity,Maybe,California,"San Francisco, CA, USA",2026-10-01 17:06,https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002,False
-Chime,Security Risk Governance Analyst,Cybersecurity,Maybe,California,"San Francisco, CA, USA",2026-10-01 16:58,https://boards.greenhouse.io/chime/jobs/8806197002?gh_jid=8806197002,False
-Chime,"Product Manager, Trust and Safety",Cybersecurity,Maybe,"California, Illinois","Chicago, IL, USA; San Francisco, CA, USA",2026-10-01 17:05,https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002,False
+Chime,"Manager, Product Security",Cybersecurity,Maybe,California,"San Francisco, CA, USA",2026-10-01 18:59,https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002,False
+Chime,Security Risk Governance Analyst,Cybersecurity,Maybe,California,"San Francisco, CA, USA",2026-10-01 18:59,https://boards.greenhouse.io/chime/jobs/8806197002?gh_jid=8806197002,False
+Chime,"Product Manager, Trust and Safety",Cybersecurity,Maybe,"California, Illinois","Chicago, IL, USA; San Francisco, CA, USA",2026-10-01 18:59,https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002,False
 Cloudflare,Incident Response Analyst - React,Cybersecurity,Maybe,Indiana,In-Office,2026-09-04 10:59,https://boards.greenhouse.io/cloudflare/jobs/8025650?gh_jid=8025650,False
 Cloudflare,Security Engineer (IAM),Cybersecurity,Maybe,Indiana,In-Office,2026-09-04 10:59,https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227,False
 Cloudflare,"Senior Engineering Director, Security Products",Cybersecurity,Maybe,Indiana,In-Office,2026-09-16 09:10,https://boards.greenhouse.io/cloudflare/jobs/8195695?gh_jid=8195695,False
@@ -80,8 +82,8 @@ Datadog,Senior Platform Security Engineer,Cybersecurity,Maybe,New York,"New York
 Datadog,Senior Software Engineer - CI/CD Security,Cybersecurity,Maybe,New York,"New York, New York, USA",2026-09-29 13:18,https://careers.datadoghq.com/detail/8223819/?gh_jid=8223819,False
 Datadog,Enterprise Security Sales Specialist,Cybersecurity,Maybe,Remote (US),"District of Columbia, USA, Remote; North Carolina, USA, Remote",2026-09-29 13:18,https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132,False
 Datadog,Senior Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",2026-09-29 13:18,https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240,False
-Datadog,Senior Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",2026-09-29 13:18,https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243,False
 Datadog,Senior Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"Illinois, USA, Remote; Texas, USA, Remote",2026-09-29 13:18,https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877,False
+Datadog,Senior Security Sales Engineer,Cybersecurity,Maybe,Remote (US),"California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",2026-09-29 13:18,https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243,False
 Dragos,Associate Principal Cyber Threat Intelligence Analyst,Cybersecurity,Maybe,"Washington, Washington DC",Washington DC,2026-09-23 16:37,https://job-boards.greenhouse.io/dragos/jobs/5389909008,False
 Expel,"Product Manager, Detection Pipeline",Cybersecurity,Maybe,Remote (US),Remote,2026-08-24 15:37,https://expel.com/about/career-listing/8706149002?gh_jid=8706149002,False
 Expel,Senior Detection & Response Engineer,Cybersecurity,Maybe,Remote (US),Remote,2026-09-26 10:28,https://expel.com/about/career-listing/8836996002?gh_jid=8836996002,False
