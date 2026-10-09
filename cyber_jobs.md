@@ -1,11 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-10-09 18:44 ET — 297 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-10-09 21:29 ET — 296 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Okta | Staff Software Engineer, Security 🆕 | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-10-09 13:59 | [Apply](https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556) |
-| Twilio | Staff Enterprise Security Engineer, AI Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8160279) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-08 13:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | GPSU Cybersecurity Intern - Application Security | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-08 19:04 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004) |
@@ -154,6 +152,7 @@ _Last updated 2026-10-09 18:44 ET — 297 roles from 88 company boards · 2 new 
 | Okta | Corporate Counsel, U.S. Federal,  Defense and National Security Compliance | Cybersecurity | Maybe | Washington | Washington, DC | 2026-10-01 11:43 | [Apply](https://www.okta.com/company/careers/opportunity/8088417?gh_jid=8088417) |
 | Okta | Principal, Global Security Operations Center | Cybersecurity | Maybe | Washington | Washington, DC | 2026-09-21 12:43 | [Apply](https://www.okta.com/company/careers/opportunity/8186035?gh_jid=8186035) |
 | Okta | Staff DevSecOps Engineer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-09-21 12:43 | [Apply](https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028) |
+| Okta | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-10-09 13:59 | [Apply](https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556) |
 | Palantir | Security Systems Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2016-12-08 22:18 | [Apply](https://jobs.lever.co/palantir/a9788f77-d6d2-4ef9-9d57-7002d587b84f) |
 | Palantir | Senior Identity Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-05-28 21:17 | [Apply](https://jobs.lever.co/palantir/bb7af139-064c-4a59-a784-9ba8c4324d21) |
 | Palantir | Security Systems Engineer | Cybersecurity | Maybe | Colorado | Denver, CO | 2018-11-13 19:28 | [Apply](https://jobs.lever.co/palantir/8704b8c0-80b3-48b1-a82c-939994a0316c) |
@@ -220,7 +219,7 @@ _Last updated 2026-10-09 18:44 ET — 297 roles from 88 company boards · 2 new 
 | Trace3 | Sr. Security Solutions Architect | IGA/PAM/NHI (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-09-17 13:56 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8211462) |
 | Twilio | Global Security Operations Center Operator | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7808464) |
 | Twilio | Senior Security Engineer, Incident Response | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8065040) |
-| Twilio | Sr. Manager, Carrier Operations & Governance | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190719) |
+| Twilio | Staff Enterprise Security Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8160279) |
 | Twilio | Staff Security Engineer, Threat Hunting | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157344) |
 | Twilio | Vendor Operations & Governance Specialist | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-09 14:41 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8185920) |
 | UltraViolet Cyber | Principal Cyber Security Solutions Architect | Cybersecurity | Maybe | Maryland | National Harbor, MD | 2026-08-25 18:19 | [Apply](https://jobs.lever.co/uvcyber/eeac2fd9-dbc9-428c-b0c6-a81e24f8ce71) |
@@ -266,8 +265,8 @@ _Last updated 2026-10-09 18:44 ET — 297 roles from 88 company boards · 2 new 
 | Zscaler | Security-Compliance Program Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-08 07:16 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5239089007) |
 | Zscaler | Senior Information Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-08 07:16 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5235296007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-10-08 07:16 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
-| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-08 07:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-08 09:25 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
+| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-08 07:15 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Coinbase | IT Support Engineer | IT / On-Ramp | Yes | California | San Francisco, CA | 2026-09-25 16:40 | [Apply](https://www.coinbase.com/careers/positions/8234137?gh_jid=8234137) |
 | Dragos | Associate IT System Administrator | IT / On-Ramp | Yes | Maryland | Hanover, MD | 2026-10-08 15:25 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5443671008) |
 | Expel | IT Support Specialist | IT / On-Ramp | Yes | Virginia | Herndon, VA | 2026-10-07 17:12 | [Apply](https://expel.com/about/career-listing/8875646002?gh_jid=8875646002) |
