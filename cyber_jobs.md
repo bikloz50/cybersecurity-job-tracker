@@ -1,12 +1,12 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-10-09 21:29 ET — 296 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-10-10 01:23 ET — 295 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
+| Robinhood | Software Engineer, AI Security 🆕 | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-09 17:58 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-08 13:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
-| GuidePoint Security | GPSU Cybersecurity Intern - Application Security | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-08 19:04 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-08-31 15:15 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Tanium | Cloud Security Intern | Cybersecurity | Yes | North Carolina | Durham, NC (Hybrid) | 2026-09-30 09:37 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
@@ -20,8 +20,8 @@ _Last updated 2026-10-09 21:29 ET — 296 roles from 88 company boards · 0 new 
 | Abnormal Security | Application Security Engineer II | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7832743003?gh_jid=7832743003) |
 | Abnormal Security | Director of Security Engineering | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-06 20:34 | [Apply](https://abnormal.ai/careers/jobs/8015100003?gh_jid=8015100003) |
 | Abnormal Security | Security & Compliance Analyst, Public Sector | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-28 10:22 | [Apply](https://abnormal.ai/careers/jobs/7979987003?gh_jid=7979987003) |
-| Abnormal Security | Senior Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-21 12:42 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
 | Abnormal Security | Senior Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-28 11:59 | [Apply](https://abnormal.ai/careers/jobs/7896108003?gh_jid=7896108003) |
+| Abnormal Security | Senior Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-09-21 12:42 | [Apply](https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003) |
 | Abnormal Security | Staff Software Engineer, Security & Privacy | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-08-31 11:45 | [Apply](https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003) |
 | Adyen | Senior AI Governance Counsel | Cybersecurity | Maybe | New York | New York | 2026-08-24 15:49 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8107347) |
 | Affirm | Director, Information Technology & Security | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-09-14 17:25 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7607567003) |
@@ -114,7 +114,6 @@ _Last updated 2026-10-09 21:29 ET — 296 roles from 88 company boards · 0 new 
 | GuidePoint Security | Microsoft Security Engineer- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-24 17:22 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6208024004?gh_jid=6208024004) |
 | GuidePoint Security | SecOps Security Architect - North Central region (Remote in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-01 14:04 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193107004?gh_jid=6193107004) |
 | GuidePoint Security | Security Architect - AD/Entra ID (Remote in the US) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-07 18:02 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6220013004?gh_jid=6220013004) |
-| GuidePoint Security | Security Architect - Exposure Management (Presales) - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-03 09:46 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6134623004?gh_jid=6134623004) |
 | GuidePoint Security | Security Architect - Network and Data Security (Presales) - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-03 09:47 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6141904004?gh_jid=6141904004) |
 | GuidePoint Security | Security Automation Engineer (SOAR) - Mid-Atlantic region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-29 16:36 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6017633004?gh_jid=6017633004) |
 | GuidePoint Security | Security Consultant (Identity & SecOps) - Mid-Atlantic region (Remote in NC, VA, MD, DC, DE, PA, or NJ) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-03 09:48 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6143047004?gh_jid=6143047004) |
@@ -179,7 +178,7 @@ _Last updated 2026-10-09 21:29 ET — 296 roles from 88 company boards · 0 new 
 | Reddit | Staff Machine Learning Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-06 20:07 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8203478) |
 | Reddit | Staff Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-06 20:14 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7868511) |
 | Reddit | Staff Threat Analyst, Ads Fraud | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-07 02:52 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8189395) |
-| Reddit | Trust and Safety Policy, Ads Policy,  Lead | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-09 08:08 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8159077) |
+| Reddit | Trust and Safety Policy, Ads Policy,  Lead | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-09 20:15 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8159077) |
 | Robinhood | Security Risk Management Intern (Summer 2027) | Cybersecurity | Maybe | California | Menlo Park, CA | 2026-10-07 16:28 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
 | Robinhood | Senior Offensive Security Engineer | Cybersecurity | Maybe | California, Colorado, New York, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY | 2026-10-02 18:45 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8202858?t=gh_src=&gh_jid=8202858) |
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, Colorado, New York, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY | 2026-10-02 18:49 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
