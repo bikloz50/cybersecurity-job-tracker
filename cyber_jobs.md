@@ -1,11 +1,16 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-10-21 20:27 ET — 306 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-10-22 00:17 ET — 309 roles from 88 company boards · 7 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| GuidePoint Security | Fortinet Network Security Engineer - North Central region 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-21 15:54 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6231190004?gh_jid=6231190004) |
-| Zscaler | Security Architect / Security Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 15:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132492007) |
+| Abnormal Security | AI Security Sales Executive, Bay Area 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 17:18 | [Apply](https://abnormal.ai/careers/jobs/8039593003?gh_jid=8039593003) |
+| Abnormal Security | AI Security Sales Executive, North Central 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 16:42 | [Apply](https://abnormal.ai/careers/jobs/8039070003?gh_jid=8039070003) |
+| Abnormal Security | AI Security Sales Executive, Northeast 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 16:46 | [Apply](https://abnormal.ai/careers/jobs/8039130003?gh_jid=8039130003) |
+| Abnormal Security | AI Security Sales Executive, Public Sector 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 16:56 | [Apply](https://abnormal.ai/careers/jobs/8039165003?gh_jid=8039165003) |
+| Abnormal Security | AI Security Sales Executive, Southeast 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 16:51 | [Apply](https://abnormal.ai/careers/jobs/8039151003?gh_jid=8039151003) |
+| Abnormal Security | AI Security Sales Executive, TOLA 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-21 17:23 | [Apply](https://abnormal.ai/careers/jobs/8039626003?gh_jid=8039626003) |
+| Chime | Physical Security Lead 🆕 | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-10-21 20:00 | [Apply](https://boards.greenhouse.io/chime/jobs/8907828002?gh_jid=8907828002) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-14 11:29 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-15 11:34 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
@@ -87,8 +92,8 @@ _Last updated 2026-10-21 20:27 ET — 306 roles from 88 company boards · 2 new 
 | Datadog | Staff Software Engineer - Watchdog Anomaly Detection | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-20 14:24 | [Apply](https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-10-16 11:27 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-10-14 09:34 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-10-08 10:16 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-10-08 10:17 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-10-08 10:16 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-10-08 10:16 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-10-20 21:45 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-10-19 21:44 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
@@ -111,6 +116,7 @@ _Last updated 2026-10-21 20:27 ET — 306 roles from 88 company boards · 2 new 
 | GuidePoint Security | Azure Security Engineer- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-21 17:01 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6204117004?gh_jid=6204117004) |
 | GuidePoint Security | DevSecOps Presales Solutions Engineer - Mid-Atlantic region (Remote in VA, MD, PA, NC, DE, NJ, or DC) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-20 11:38 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6228770004?gh_jid=6228770004) |
 | GuidePoint Security | Director, OT/IoT Security Services- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-02 09:28 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6214798004?gh_jid=6214798004) |
+| GuidePoint Security | Fortinet Network Security Engineer - North Central region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-21 15:54 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6231190004?gh_jid=6231190004) |
 | GuidePoint Security | Microsoft Security Engagement Lead- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-08-24 11:36 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6151398004?gh_jid=6151398004) |
 | GuidePoint Security | Microsoft Security Engineer- Remote (Anywhere in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-24 17:22 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6208024004?gh_jid=6208024004) |
 | GuidePoint Security | SecOps Security Architect - North Central region (Remote in the U.S.) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-14 17:08 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6193107004?gh_jid=6193107004) |
@@ -160,7 +166,7 @@ _Last updated 2026-10-21 20:27 ET — 306 roles from 88 company boards · 2 new 
 | Okta | Principal, Global Security Operations Center | Cybersecurity | Maybe | Washington | Washington, DC | 2026-09-21 12:43 | [Apply](https://www.okta.com/company/careers/opportunity/8186035?gh_jid=8186035) |
 | Okta | Staff DevSecOps Engineer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-10-19 21:52 | [Apply](https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028) |
 | Okta | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-10-09 13:59 | [Apply](https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556) |
-| Orca Security | Sales Engineer - AI/AppSec/Cloud Security | Cybersecurity | Maybe | Massachusetts | Boston, Massachusetts, United States | 2026-10-13 16:19 | [Apply](https://orca.security/about/careers/6222178004?gh_jid=6222178004) |
+| Orca Security | Sales Engineer - AI/AppSec/Cloud Security | Cybersecurity | Maybe | Massachusetts | Boston, Massachusetts, United States | 2026-10-21 20:00 | [Apply](https://orca.security/about/careers/6222178004?gh_jid=6222178004) |
 | Palantir | Operations Analyst - US Government Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-10-09 00:39 | [Apply](https://jobs.lever.co/palantir/5f3f9547-2aea-4ac2-995d-e8fa53b16e39) |
 | Palantir | Physical Security Manager | Cybersecurity | Maybe | California | Palo Alto, CA | 2025-09-30 23:24 | [Apply](https://jobs.lever.co/palantir/0492e9c4-9ba9-4da0-896f-75be5151bae9) |
 | Palantir | Security Systems Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2016-12-08 22:18 | [Apply](https://jobs.lever.co/palantir/a9788f77-d6d2-4ef9-9d57-7002d587b84f) |
@@ -191,16 +197,14 @@ _Last updated 2026-10-21 20:27 ET — 306 roles from 88 company boards · 2 new 
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, Colorado, New York, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY | 2026-10-11 03:14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Senior Security Engineer, Detection & Response | Cybersecurity | Maybe | California, Colorado, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA | 2026-10-19 13:19 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8202863?t=gh_src=&gh_jid=8202863) |
 | Robinhood | Senior Physical Security Operations Manager | Cybersecurity | Maybe | California, New York | Menlo Park, CA; New York, NY | 2026-10-14 01:09 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8259652?t=gh_src=&gh_jid=8259652) |
-| Robinhood | Senior Staff Security Engineer, Security Operations | Cybersecurity | Maybe | California, New York, Washington | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-10-06 14:10 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8259431?t=gh_src=&gh_jid=8259431) |
-| Robinhood | Senior Staff Security Engineer, Security Engineering | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-08 14:15 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8167616?t=gh_src=&gh_jid=8167616) |
 | Robinhood | Staff Software Engineer, AI Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-06 12:11 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383) |
 | Robinhood | Staff Software Engineer, Security Platform | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-20 17:04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546) |
 | Rubrik | Senior Manager, Security Operations Center | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-10-14 23:23 | [Apply](https://www.rubrik.com/company/careers/departments/job.8241565?gh_jid=8241565) |
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-10-14 23:23 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Rubrik | Manager, CyberSecurity Risk Management | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-21 10:58 | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
 | Samsara | Senior Security Engineer - Threat Detection | Cybersecurity | Maybe | California | Remote - CA | 2026-10-02 03:05 | [Apply](https://www.samsara.com/company/careers/roles/8212787?gh_jid=8212787) |
-| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-14 20:06 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-14 20:07 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
+| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-14 20:06 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
 | Samsara | Sr Offensive AI Security Engineer II | Cybersecurity | Maybe | California | Remote - CA | 2026-10-08 11:42 | [Apply](https://www.samsara.com/company/careers/roles/8171920?gh_jid=8171920) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-19 18:49 | [Apply](https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183) |
 | Samsara | Sr Offensive AI Security Engineer II | Cybersecurity | Maybe | Massachusetts | Remote - MA | 2026-10-08 11:43 | [Apply](https://www.samsara.com/company/careers/roles/8264748?gh_jid=8264748) |
@@ -210,7 +214,6 @@ _Last updated 2026-10-21 20:27 ET — 306 roles from 88 company boards · 2 new 
 | Stripe | Security Engineer, Bridge | Cybersecurity | Maybe | New York | SF, New York, Seattle | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=7776179) |
 | Stripe | Security GRC Analyst/Program Manager, Bridge | Cybersecurity | Maybe | New York | New York  | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=8237244) |
 | Stripe | Offensive Security Engineer | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=8233889) |
-| Stripe | Security Analyst | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=8142302) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | US Remote  | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=8174965) |
 | Stripe | Security Incident Response Manager, Abuse Operations | Cybersecurity | Maybe | Remote (US) | Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=8172497) |
 | Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-10-21 14:53 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
