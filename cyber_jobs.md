@@ -1,10 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-10-22 20:26 ET — 306 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-10-23 00:14 ET — 306 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Abnormal Security | L1 Technical Support Engineer (Spanish-Speaking) 🆕 | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-10-22 14:15 | [Apply](https://abnormal.ai/careers/jobs/7989495003?gh_jid=7989495003) |
+| GuidePoint Security | GPSU Cybersecurity Spring Internship 🆕 | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-22 17:03 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-14 11:29 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | Huntress | Security Operations Analyst - West Coast Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-10-21 15:05 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
@@ -40,7 +40,7 @@ _Last updated 2026-10-22 20:26 ET — 306 roles from 88 company boards · 1 new 
 | Chime | Manager, Product Security | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-10-01 18:59 | [Apply](https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002) |
 | Chime | Regional Physical Security Lead | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-10-21 20:17 | [Apply](https://boards.greenhouse.io/chime/jobs/8907828002?gh_jid=8907828002) |
 | Chime | Senior Application Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, USA | 2026-10-13 16:13 | [Apply](https://boards.greenhouse.io/chime/jobs/8575541002?gh_jid=8575541002) |
-| Chime | Product Manager, Trust and Safety | Cybersecurity | Maybe | California, Illinois | Chicago, IL, USA; San Francisco, CA, USA | 2026-10-14 18:33 | [Apply](https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002) |
+| Chime | Product Manager, Trust and Safety | Cybersecurity | Maybe | California, Illinois | Chicago, IL, USA; San Francisco, CA, USA | 2026-10-22 17:13 | [Apply](https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002) |
 | Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-10-21 14:43 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
 | Cloudflare | Senior Product Manager - Threat Intel | Cybersecurity | Maybe | Indiana | Hybrid; In-Office | 2026-10-21 14:43 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552) |
 | Cloudflare | Technical Support Engineer, Application Security | Cybersecurity | Maybe | Indiana | In-Office | 2026-10-21 14:43 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993) |
@@ -260,7 +260,6 @@ _Last updated 2026-10-22 20:26 ET — 306 roles from 88 company boards · 1 new 
 | Wiz | Technical Escalation & Incident Response Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-20 09:53 | [Apply](https://www.wiz.io/careers/job/4717894006/:title?gh_jid=4717894006) |
 | Wiz | Threat Intelligence Researcher (Cloud) | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-01 09:29 | [Apply](https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006) |
 | Zscaler | Architect / Senior Principal Software Development Engineer (Layer 7 Security & Proxy) | Cybersecurity | Maybe | California | Santa Clara, California, USA | 2026-10-14 09:37 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5239093007) |
-| Zscaler | Staff Machine Learning Engineer - Data Lake, Anomaly Detection | Cybersecurity | Maybe | California | Santa Clara, California, USA | 2026-10-14 09:34 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114450007) |
 | Zscaler | Staff Software Engineer - AI Security (Go/Rust/Python) | Cybersecurity | Maybe | California | Santa Clara, California, USA | 2026-10-14 09:35 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5202464007) |
 | Zscaler | Security Compliance Architect | Cybersecurity | Maybe | California, Remote (US) | Remote - USA; Santa Clara, California, USA | 2026-10-14 09:45 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5140589007) |
 | Zscaler | Detection Analyst | Cybersecurity | Maybe | California, Remote (US), Washington | Bellevue, Washington, USA; Remote - D.C., USA; Remote - Georgia, USA; Remote - New York, USA; Remote - North Carolina, USA; Remote - Texas, USA; Remote - USA; Remote - Washington, USA; Santa Clara, California, USA; USA - Update Location | 2026-10-14 09:46 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5219486007) |
@@ -285,6 +284,7 @@ _Last updated 2026-10-22 20:26 ET — 306 roles from 88 company boards · 1 new 
 | Stripe | IT Support Engineer | IT / On-Ramp | Yes | New York | New York | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=8265151) |
 | Tanium | Technical Support Engineer (TSE) Intern | IT / On-Ramp | Yes | California, Washington | Bellevue, WA (Hybrid); Emeryville, CA (Hybrid) | 2026-10-14 12:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8189328) |
 | Tanium | Technical Support Engineer (TSE) Intern | IT / On-Ramp | Yes | Texas | Addison, TX (Hybrid) | 2026-10-14 12:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
+| Abnormal Security | L1 Technical Support Engineer (Spanish-Speaking) | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-10-22 14:15 | [Apply](https://abnormal.ai/careers/jobs/7989495003?gh_jid=7989495003) |
 | Axonius | Technical Support Engineer (SkillBridge: On-the-job training) | IT / On-Ramp | Maybe | Remote (US) | Remote US | 2026-10-19 15:09 | [Apply](https://www.axonius.com/company/careers/open-jobs?gh_jid=8009643003) |
 | Databricks | Sr Designated Support Engineer | IT / On-Ramp | Maybe | California | San Francisco, California | 2026-10-15 12:48 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
