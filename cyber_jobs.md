@@ -1,12 +1,13 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new since last run_
+_Last updated 2026-10-26 21:26 ET — 309 roles from 88 company boards · 4 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Datadog | Information Security Analyst II - Federal Programs 🆕 | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-26 12:31 | [Apply](https://careers.datadoghq.com/detail/8319487/?gh_jid=8319487) |
-| Stripe | Security Analyst 🆕 | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-10-26 12:25 | [Apply](https://stripe.com/jobs/search?gh_jid=8142302) |
-| UltraViolet Cyber | Account Executive | Cybersecurity Services (Southeast Territory) 🆕 | Cybersecurity | Maybe | North Carolina | North Carolina | 2026-10-26 17:00 | [Apply](https://jobs.lever.co/uvcyber/f65b7921-2189-4cf4-8dc3-1d65cee96b07) |
+| Coinbase | Security Engineer, Corporate Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-26 16:50 | [Apply](https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444) |
+| Coinbase | Senior Security Engineer, Corporate Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-26 16:49 | [Apply](https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448) |
+| Fastly | Senior Manager, Engineering - Platform Security 🆕 | Cybersecurity | Maybe | California, Colorado, New York | Denver, CO; New York City, NY; San Francisco, CA | 2026-10-26 17:09 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=7901940) |
+| Datadog | Manager I, Premier Support Engineering - Denver 🆕 | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-10-26 16:52 | [Apply](https://careers.datadoghq.com/detail/8083563/?gh_jid=8083563) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-14 11:29 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | GPSU Cybersecurity Spring Internship | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-22 17:03 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004) |
@@ -14,7 +15,6 @@ _Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new 
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Tanium | Cloud Security Intern | Cybersecurity | Yes | North Carolina | Durham, NC (Hybrid) | 2026-10-14 12:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | Tenable | Information Security Analyst | Cybersecurity | Yes | Maryland | US - Headquarters - Maryland - Columbia | 2026-10-21 13:04 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5460006008) |
-| UltraViolet Cyber | Cybersecurity Analyst | Cybersecurity | Yes | Oregon | Portland, OR | 2026-09-24 17:44 | [Apply](https://jobs.lever.co/uvcyber/9132d6be-93a2-4ba8-a81b-d2f1f6d4c07c) |
 | Verkada | Physical Security Associate, Events | Cybersecurity | Yes | California | San Mateo, CA United States | 2026-10-13 16:15 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5262546007) |
 | GuidePoint Security | Strategic Security Advisor (New England) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-10-14 16:34 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020620004?gh_jid=6020620004) |
 | GuidePoint Security | Strategic Security Advisor (New York Metro) - Northeast region | Cybersecurity | Yes (desc) | Remote (US) | Remote | 2026-10-14 16:35 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6020603004?gh_jid=6020603004) |
@@ -86,6 +86,7 @@ _Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new 
 | Datadog | Senior Security Engineer, Vulnerability Management | Cybersecurity | Maybe | Massachusetts, New York | Boston, Massachusetts, USA; New York, New York, USA | 2026-10-19 20:03 | [Apply](https://careers.datadoghq.com/detail/8173840/?gh_jid=8173840) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-16 11:27 | [Apply](https://careers.datadoghq.com/detail/7129425/?gh_jid=7129425) |
 | Datadog | Group Product Manager - Code Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-22 12:01 | [Apply](https://careers.datadoghq.com/detail/8314006/?gh_jid=8314006) |
+| Datadog | Information Security Analyst II - Federal Programs | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-26 12:31 | [Apply](https://careers.datadoghq.com/detail/8319487/?gh_jid=8319487) |
 | Datadog | Manager I, Engineering - Anomaly Detection | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-15 10:52 | [Apply](https://careers.datadoghq.com/detail/8259839/?gh_jid=8259839) |
 | Datadog | Senior Manager, Product Design - Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-15 12:08 | [Apply](https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102) |
 | Datadog | Senior Security Engineer - Platform Trust & Safety | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-10-16 17:11 | [Apply](https://careers.datadoghq.com/detail/8292699/?gh_jid=8292699) |
@@ -95,9 +96,9 @@ _Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new 
 | Datadog | Director, Security Channels (North America) | Cybersecurity | Maybe | New York, Remote (US) | Colorado, USA, Remote; Illinois, USA, Remote; New York, New York, USA; New York, USA, Remote; Texas, USA, Remote | 2026-10-26 10:41 | [Apply](https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-10-14 09:34 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-10-16 11:27 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-10-08 10:16 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-10-08 10:16 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-10-08 10:17 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-10-08 10:16 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-10-20 21:45 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Oregon | Tampa Hybrid or Remote | 2026-10-19 21:44 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
 | Dragos | Associate Principal Cyber Threat Intelligence Analyst | Cybersecurity | Maybe | Washington, Washington DC | Washington DC | 2026-09-23 16:37 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5389909008) |
@@ -214,6 +215,7 @@ _Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new 
 | Stripe | Security Engineer, Bridge | Cybersecurity | Maybe | New York | SF, New York, Seattle | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=7776179) |
 | Stripe | Security GRC Analyst/Program Manager, Bridge | Cybersecurity | Maybe | New York | New York  | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=8237244) |
 | Stripe | Offensive Security Engineer | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=8233889) |
+| Stripe | Security Analyst | Cybersecurity | Maybe | Remote (US) | US Remote | 2026-10-26 12:25 | [Apply](https://stripe.com/jobs/search?gh_jid=8142302) |
 | Stripe | Security Engineer | Cybersecurity | Maybe | Remote (US) | US Remote  | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=8174965) |
 | Stripe | Security Incident Response Manager, Abuse Operations | Cybersecurity | Maybe | Remote (US) | Seattle, SF, NYC, Chicago, Atlanta, Remote in the US | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=8172497) |
 | Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-10-22 09:17 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
@@ -234,6 +236,7 @@ _Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new 
 | Twilio | Vendor Operations & Governance Specialist | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-10-14 13:15 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8185920) |
 | UltraViolet Cyber | Sr Manager, Incident Response | Cybersecurity | Maybe | California | San Jose, CA | 2026-10-14 16:47 | [Apply](https://jobs.lever.co/uvcyber/ed3cb473-18f8-4304-9b42-5221de2237ca) |
 | UltraViolet Cyber | Senior Security Engineer - Crowdstrike | Cybersecurity | Maybe | Maryland | National Harbor, MD | 2026-08-03 17:57 | [Apply](https://jobs.lever.co/uvcyber/496fa1b1-00d0-4991-8bf3-5e68f2187c1e) |
+| UltraViolet Cyber | Account Executive | Cybersecurity Services (Southeast Territory) | Cybersecurity | Maybe | North Carolina | North Carolina | 2026-10-26 17:00 | [Apply](https://jobs.lever.co/uvcyber/f65b7921-2189-4cf4-8dc3-1d65cee96b07) |
 | UltraViolet Cyber | Network Security Engineer (Zscaler) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-07-13 21:10 | [Apply](https://jobs.lever.co/uvcyber/4eef8675-334e-4ce8-b6df-e84efe2669ce) |
 | UltraViolet Cyber | Senior Cloud Security & Compliance Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-13 22:49 | [Apply](https://jobs.lever.co/uvcyber/a22e6f9c-5c49-4723-a518-150a2ebde547) |
 | UltraViolet Cyber | AWS Cloud Security Engineer (Top Secret) | Cybersecurity | Maybe | Virginia | Springfield, VA | 2026-10-13 18:53 | [Apply](https://jobs.lever.co/uvcyber/2e44687b-bedb-44dd-923e-6a4dd97ec20a) |
@@ -242,7 +245,6 @@ _Last updated 2026-10-26 19:08 ET — 307 roles from 88 company boards · 3 new 
 | UltraViolet Cyber | Senior Security (SOC) Analyst, Secret Clearance Required | Cybersecurity | Maybe | Virginia | Herndon, VA | 2025-12-11 21:26 | [Apply](https://jobs.lever.co/uvcyber/1c168122-8406-493e-ae61-3624b7369526) |
 | UltraViolet Cyber | Senior Security (SOC) Analyst, Secret Clearance Required | Cybersecurity | Maybe | Virginia | Herndon, VA | 2025-08-05 19:30 | [Apply](https://jobs.lever.co/uvcyber/5af6f94e-c12a-4a50-9f32-e1aff6bf297b) |
 | UltraViolet Cyber | Senior Security Engineer | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-10-13 19:32 | [Apply](https://jobs.lever.co/uvcyber/a9114d6f-59ab-4872-825f-c107d3afdf3b) |
-| Verkada | Director of Global Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-28 18:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5155848007) |
 | Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-28 18:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
 | Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-09-28 18:36 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5234231007) |
 | Verkada | Lead Product Manager, Security Trailers | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-10-02 16:51 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5255988007) |
