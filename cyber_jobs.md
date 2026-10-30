@@ -1,11 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-10-29 21:36 ET — 312 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-10-30 01:24 ET — 313 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Robinhood | Senior Cloud Security Engineer 🆕 | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-29 16:13 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
-| Tenable | Director, Global Government Affairs (SLED) - Cybersecurity 🆕 | Cybersecurity | Maybe | Remote (US) | US - Remote - DC, US - Remote - Virginia , US - Headquarters - Maryland - Columbia | 2026-10-29 16:57 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5467527008) |
+| UltraViolet Cyber | Senior Account Executive | Cybersecurity Services 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-29 21:52 | [Apply](https://jobs.lever.co/uvcyber/b5129f2d-8fd7-4c74-b903-53e6ea8bbdcf) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-14 11:29 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
@@ -200,6 +199,7 @@ _Last updated 2026-10-29 21:36 ET — 312 roles from 88 company boards · 2 new 
 | Robinhood | Staff Offensive Security Engineer | Cybersecurity | Maybe | California, Colorado, New York, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY | 2026-10-11 03:14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Robinhood | Senior Security Engineer, Detection & Response | Cybersecurity | Maybe | California, Colorado, Washington | Bellevue, WA; Denver, CO; Menlo Park, CA | 2026-10-19 13:19 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8202863?t=gh_src=&gh_jid=8202863) |
 | Robinhood | Senior Physical Security Operations Manager | Cybersecurity | Maybe | California, New York | Menlo Park, CA; New York, NY | 2026-10-14 01:09 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8259652?t=gh_src=&gh_jid=8259652) |
+| Robinhood | Senior Cloud Security Engineer | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-29 16:13 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
 | Robinhood | Senior Software Engineer, AI Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-29 13:52 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429) |
 | Robinhood | Staff Software Engineer, AI Security | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-06 12:11 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383) |
 | Robinhood | Staff Software Engineer, Security Platform | Cybersecurity | Maybe | California, Washington | Bellevue, WA; Menlo Park, CA | 2026-10-20 17:04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546) |
@@ -226,6 +226,7 @@ _Last updated 2026-10-29 21:36 ET — 312 roles from 88 company boards · 2 new 
 | Tanium | Senior Security Engineer, Customer Transparency | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-10-14 12:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8165481) |
 | Tanium | Senior Security Engineer - Vulnerability Research | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-10-14 12:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8250452) |
 | Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-10-15 15:35 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5454389008) |
+| Tenable | Director, Global Government Affairs (SLED) - Cybersecurity | Cybersecurity | Maybe | Remote (US) | US - Remote - DC, US - Remote - Virginia , US - Headquarters - Maryland - Columbia | 2026-10-29 16:57 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5467527008) |
 | Tenable | Director of Product Marketing -  Cloud & OT Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-10-13 13:25 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5413733008) |
 | Tenable | Senior AI Information Security Engineer | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-10-13 13:22 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5434299008) |
 | Trace3 | Regional Principal Security Solutions Architect | Wiz/PAN/CrowdStrike (Remote) | Cybersecurity | Maybe | California | Irvine, CA, United States | 2026-08-26 19:09 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8160798) |
@@ -279,8 +280,8 @@ _Last updated 2026-10-29 21:36 ET — 312 roles from 88 company boards · 2 new 
 | Zscaler | Specialist Account Executive - AI Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5260493007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200385007) |
-| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
+| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200278007) |
 | Cloudflare | IT Operations Specialist I | IT / On-Ramp | Yes | Indiana | In-Office | 2026-10-21 14:43 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074) |
 | Expel | IT Support Specialist | IT / On-Ramp | Yes | Virginia | Herndon, VA | 2026-10-07 17:12 | [Apply](https://expel.com/about/career-listing/8875646002?gh_jid=8875646002) |
