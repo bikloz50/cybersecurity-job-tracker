@@ -1,10 +1,10 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-05 22:35 ET — 305 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-11-06 01:53 ET — 306 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Zscaler | Security Architect / Security Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-05 15:47 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132492007) |
+| GuidePoint Security | Senior Application Security Engineer - Southeast region 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-05 19:17 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6251111004?gh_jid=6251111004) |
 | GuidePoint Security | Application Security Intern - GPSU/NE | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-14 11:29 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
@@ -88,9 +88,9 @@ _Last updated 2026-11-05 22:35 ET — 305 roles from 88 company boards · 1 new 
 | Datadog | Senior Manager, Product Design - Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-11-05 17:11 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-10-26 17:55 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
 | Expel | Senior Detection & Response Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-09-26 10:28 | [Apply](https://expel.com/about/career-listing/8836996002?gh_jid=8836996002) |
@@ -197,8 +197,8 @@ _Last updated 2026-11-05 22:35 ET — 305 roles from 88 company boards · 1 new 
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Rubrik | Manager, CyberSecurity Risk Management | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
 | Samsara | Senior Security Engineer - Threat Detection | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:53 | [Apply](https://www.samsara.com/company/careers/roles/8212787?gh_jid=8212787) |
-| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
+| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | Oregon | Remote - OR | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | Washington DC | Remote - DC | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139) |
@@ -267,6 +267,7 @@ _Last updated 2026-11-05 22:35 ET — 305 roles from 88 company boards · 1 new 
 | Zscaler | Principal Product Specialist-Web Security / SSE / Zero Trust | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 12:26 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5229003007) |
 | Zscaler | Principal Specialist Sales Engineer, Data Security - Majors | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5240511007) |
 | Zscaler | Principal Specialist Sales Engineer, Zero Trust Branch - Healthcare/SLED | Cybersecurity | Maybe | Remote (US) | AMS - Update Location; Remote - Alabama, USA; Remote - Connecticut, USA; Remote - D.C., USA; Remote - Delaware, USA; Remote - Florida, USA; Remote - Georgia, USA; Remote - Indiana, USA; Remote - Kentucky, USA; Remote - Maine, USA; Remote - Maryland, USA; Remote - Massachusetts, USA; Remote - Michigan, USA; Remote - Mississippi, USA; Remote - New Hampshire, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - North Carolina, USA; Remote - Ohio, USA; Remote - Pennsylvania, USA; Remote - Rhode Island, USA; Remote - South Carolina, USA; Remote - Tennessee, USA; Remote - Vermont, USA; Remote - Virginia, USA; Remote - West Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5199283007) |
+| Zscaler | Security Architect / Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-05 15:47 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5132492007) |
 | Zscaler | Security-Compliance Program Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5239089007) |
 | Zscaler | Specialist Account Executive - AI Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5260493007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
