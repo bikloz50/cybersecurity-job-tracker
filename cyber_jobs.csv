@@ -1,5 +1,10 @@
 company,title,category,entry_level,states,location,updated,url,is_new
-GuidePoint Security,Senior Application Security Engineer - Southeast region,Cybersecurity,Maybe,Remote (US),Remote,2026-11-05 19:17,https://boards.greenhouse.io/guidepointsecurity/jobs/6251111004?gh_jid=6251111004,True
+Samsara,Security Operations Engineer I,Cybersecurity,Yes,California,Remote - CA,2026-11-06 13:24,https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283,True
+GuidePoint Security,Senior Security Engineer - SIEM/SOAR - Northeast region,Cybersecurity,Maybe,Remote (US),Remote,2026-11-06 08:52,https://boards.greenhouse.io/guidepointsecurity/jobs/6223478004?gh_jid=6223478004,True
+MongoDB,"Staff Technical Program Manager, IT Audit & Governance",Cybersecurity,Maybe,New York,New York City; Palo Alto,2026-11-06 14:34,https://www.mongodb.com/careers/job/?gh_jid=8346181,True
+Okta,Staff Product Designer - Okta Identity Governance,Cybersecurity,Maybe,"Illinois, New York, Washington","Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",2026-11-06 14:08,https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059,True
+Tanium,"Senior Software Engineer, AI Security",Cybersecurity,Maybe,"California, North Carolina, Texas, Washington","Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",2026-11-06 14:27,https://job-boards.greenhouse.io/tanium/jobs/8357200,True
+Tanium,"Software Engineer II, AI Security",Cybersecurity,Maybe,North Carolina,"Durham, NC (Hybrid)",2026-11-06 14:49,https://job-boards.greenhouse.io/tanium/jobs/8359784,True
 GuidePoint Security,Application Security Intern - GPSU/NE,Cybersecurity,Yes,Remote (US),Remote,2026-10-14 11:29,https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004,False
 GuidePoint Security,Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.),Cybersecurity,Yes,Remote (US),Remote,2026-09-14 14:31,https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004,False
 GuidePoint Security,Cybersecurity Presales Intern - GPSU/Heartland (Tulsa),Cybersecurity,Yes,Remote (US),Remote,2026-10-27 13:43,https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004,False
@@ -148,8 +153,7 @@ Okta,Staff Product Manager - Okta Identity Governance,Cybersecurity,Maybe,"Calif
 Okta,Staff Security Risk Analyst,Cybersecurity,Maybe,"California, Illinois, New York, Washington","Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",2026-11-02 14:27,https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852,False
 Okta,"Engineering Manager, Governance Intelligence",Cybersecurity,Maybe,"California, Washington","Bellevue, Washington; San Francisco, California",2026-09-29 19:44,https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524,False
 Okta,Senior Product Manager - Agentic Security (Auth0),Cybersecurity,Maybe,"Illinois, New York, Washington","Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",2026-10-22 16:17,https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929,False
-Okta,"Principal, Global Security Operations Center",Cybersecurity,Maybe,Washington,"Washington, DC",2026-09-21 12:43,https://www.okta.com/company/careers/opportunity/8186035?gh_jid=8186035,False
-Okta,Security Architect - U.S. Public Sector,Cybersecurity,Maybe,Washington,"Washington, DC",2026-10-30 14:52,https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602,False
+Okta,Security Architect - U.S. Public Sector,Cybersecurity,Maybe,Washington,"Washington, DC",2026-11-06 13:36,https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602,False
 Okta,Staff DevSecOps Engineer (TS/SCI),Cybersecurity,Maybe,Washington,"Washington, DC",2026-10-19 21:52,https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028,False
 Okta,"Staff Software Engineer, Security",Cybersecurity,Maybe,Washington,"Bellevue, Washington",2026-10-09 13:59,https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556,False
 Orca Security,Sales Engineer - AI/AppSec/Cloud Security,Cybersecurity,Maybe,Massachusetts,"Boston, Massachusetts, United States",2026-11-02 18:25,https://orca.security/about/careers/6222178004?gh_jid=6222178004,False
@@ -176,7 +180,7 @@ Palantir,Senior Identity Security Engineer,Cybersecurity,Maybe,Washington,"Washi
 Palantir,Technical Program Manager - Security,Cybersecurity,Maybe,Washington,"Washington, D.C.",2026-07-20 15:01,https://jobs.lever.co/palantir/b908b3e4-81f9-47b3-9088-ee8dd3932003,False
 Ping Identity,Senior GRC Analyst,Cybersecurity,Maybe,Remote (US),USA - Remote,2026-10-27 11:33,https://job-boards.greenhouse.io/pingidentity/jobs/8911623002,False
 Recorded Future,Senior Software Engineer: Ransomware Collections,Cybersecurity,Maybe,Massachusetts,"Boston, MA",2026-10-30 10:09,https://job-boards.greenhouse.io/recordedfuture/jobs/8917984002,False
-Recorded Future,Senior Threat Intelligence Analyst,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-11-01 13:14,https://job-boards.greenhouse.io/recordedfuture/jobs/8917956002,False
+Recorded Future,Senior Threat Intelligence Analyst,Cybersecurity,Maybe,Remote (US),Remote - USA,2026-11-06 14:31,https://job-boards.greenhouse.io/recordedfuture/jobs/8917956002,False
 Recorded Future,Senior Software Engineer: Ransomware Collections,Cybersecurity,Maybe,Washington,"Washington, DC",2026-10-30 10:09,https://job-boards.greenhouse.io/recordedfuture/jobs/8920083002,False
 Reddit,"Senior Software Engineer, GRC",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-11-03 15:11,https://job-boards.greenhouse.io/reddit/jobs/8350749,False
 Reddit,"Staff Machine Learning Engineer, AI Security",Cybersecurity,Maybe,Remote (US),Remote - United States,2026-10-23 10:06,https://job-boards.greenhouse.io/reddit/jobs/8203478,False
@@ -220,9 +224,9 @@ Trace3,Cybersecurity Engineer III,Cybersecurity,Maybe,Maryland,"Linthicum Height
 Trace3,Sr. Architect | Offensive Security/ AI Testing/ Cloud Testing (Remote),Cybersecurity,Maybe,Tennessee,"Nashville, TN",2026-11-04 14:57,https://job-boards.greenhouse.io/trace3/jobs/8353779,False
 Trace3,Architect | GRC/AI Governance (Remote),Cybersecurity,Maybe,Texas,"Dallas, TX, United States",2026-11-04 14:35,https://job-boards.greenhouse.io/trace3/jobs/8353764,False
 Trace3,Senior Solutions Architect | Vulnerability/Exposure Management (Remote),Cybersecurity,Maybe,Texas,"Dallas, TX",2026-10-23 14:08,https://job-boards.greenhouse.io/trace3/jobs/8318943,False
-Twilio,"Staff Enterprise Security Engineer, AI Security",Cybersecurity,Maybe,Remote (US),Remote - US,2026-11-01 20:22,https://job-boards.greenhouse.io/twilio/jobs/8160279,False
-Twilio,"Staff Security Engineer, Threat Hunting",Cybersecurity,Maybe,Remote (US),Remote - US,2026-11-01 20:22,https://job-boards.greenhouse.io/twilio/jobs/8157344,False
-Twilio,Vendor Operations & Governance Specialist,Cybersecurity,Maybe,Remote (US),Remote - US,2026-11-01 20:22,https://job-boards.greenhouse.io/twilio/jobs/8185920,False
+Twilio,"Staff Enterprise Security Engineer, AI Security",Cybersecurity,Maybe,Remote (US),Remote - US,2026-11-06 04:17,https://job-boards.greenhouse.io/twilio/jobs/8160279,False
+Twilio,"Staff Security Engineer, Threat Hunting",Cybersecurity,Maybe,Remote (US),Remote - US,2026-11-06 12:02,https://job-boards.greenhouse.io/twilio/jobs/8157344,False
+Twilio,Vendor Operations & Governance Specialist,Cybersecurity,Maybe,Remote (US),Remote - US,2026-11-06 04:17,https://job-boards.greenhouse.io/twilio/jobs/8185920,False
 UltraViolet Cyber,"Sr Manager, Incident Response",Cybersecurity,Maybe,California,"San Jose, CA",2026-10-14 16:47,https://jobs.lever.co/uvcyber/ed3cb473-18f8-4304-9b42-5221de2237ca,False
 UltraViolet Cyber,Senior Security Engineer - Crowdstrike,Cybersecurity,Maybe,Maryland,"National Harbor, MD",2026-08-03 17:57,https://jobs.lever.co/uvcyber/496fa1b1-00d0-4991-8bf3-5e68f2187c1e,False
 UltraViolet Cyber,Account Executive | Cybersecurity Services (Southeast Territory),Cybersecurity,Maybe,North Carolina,North Carolina,2026-10-26 17:00,https://jobs.lever.co/uvcyber/f65b7921-2189-4cf4-8dc3-1d65cee96b07,False
@@ -237,7 +241,7 @@ Verkada,Embedded Linux Security Engineer,Cybersecurity,Maybe,California,"San Mat
 Verkada,GRC Engineer,Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5234231007,False
 Verkada,"Lead Product Manager, Security Trailers",Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5255988007,False
 Verkada,"Product Marketing Manager, Privacy and Data Security",Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5150337007,False
-Verkada,Security Software Engineering Intern 2027,Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5213881007,False
+Verkada,Security Software Engineering Intern 2027,Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-06 14:21,https://job-boards.greenhouse.io/verkada/jobs/5213881007,False
 Verkada,"Senior Product Manager, Perimeter & Intrusion Security",Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5205130007,False
 Verkada,Staff Backend Engineer - Device Security,Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5154370007,False
 Verkada,"Staff+ Security Engineer, Core Command",Cybersecurity,Maybe,California,"San Mateo, CA United States",2026-11-04 13:53,https://job-boards.greenhouse.io/verkada/jobs/5167601007,False
