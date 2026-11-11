@@ -1,9 +1,13 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-11 01:34 ET — 320 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-11-11 20:06 ET — 322 roles from 88 company boards · 4 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
+| Zscaler | Principal Security & Privacy Compliance Architect 🆕 | Cybersecurity | Maybe | California | Santa Clara, California, USA | 2026-11-11 14:41 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5292785007) |
+| Zscaler | Senior Professional Services Consultant - AI Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-11 13:53 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5129997007) |
+| Stripe | Credit Operations Analyst 🆕 | IT / On-Ramp | Maybe | Georgia, Illinois | Chicago, IL; Atlanta, GA; Toronto, Canada | 2026-11-11 12:58 | [Apply](https://stripe.com/jobs/search?gh_jid=8354560) |
+| Wiz | Senior Solutions Support Engineer - US East 🆕 | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-11 12:41 | [Apply](https://www.wiz.io/careers/job/4728329006/:title?gh_jid=4728329006) |
 | Expel | Associate SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote | 2026-11-10 12:24 | [Apply](https://expel.com/about/career-listing/8936554002?gh_jid=8936554002) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
@@ -88,9 +92,9 @@ _Last updated 2026-11-11 01:34 ET — 320 roles from 88 company boards · 0 new 
 | Datadog | Senior Manager, Product Design - Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-11-05 17:11 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-10-26 17:55 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
 | Dropbox | Security Engineer, IAM | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-11-10 14:18 | [Apply](https://jobs.dropbox.com/listing/8328534?gh_jid=8328534) |
@@ -158,7 +162,7 @@ _Last updated 2026-11-11 01:34 ET — 320 roles from 88 company boards · 0 new 
 | Okta | Senior Product Manager - Agentic Security (Auth0) | Cybersecurity | Maybe | Illinois, New York, Washington | Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC | 2026-10-22 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929) |
 | Okta | Staff Product Designer - Okta Identity Governance | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-11-06 14:08 | [Apply](https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059) |
 | Okta | Security Architect - U.S. Public Sector | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-06 13:36 | [Apply](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602) |
-| Okta | Staff DevSecOps Engineer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-10-19 21:52 | [Apply](https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028) |
+| Okta | Staff DevSecOps Engineer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-10 23:15 | [Apply](https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028) |
 | Okta | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-10-09 13:59 | [Apply](https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556) |
 | Orca Security | Sales Engineer - AI/AppSec/Cloud Security | Cybersecurity | Maybe | Massachusetts | Boston, Massachusetts, United States | 2026-11-02 18:25 | [Apply](https://orca.security/about/careers/6222178004?gh_jid=6222178004) |
 | Palantir | Operations Analyst - US Government Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-10-09 00:39 | [Apply](https://jobs.lever.co/palantir/5f3f9547-2aea-4ac2-995d-e8fa53b16e39) |
@@ -197,8 +201,8 @@ _Last updated 2026-11-11 01:34 ET — 320 roles from 88 company boards · 0 new 
 | Robinhood | Offensive Security Engineer | Cybersecurity | Maybe | Washington | Bellevue, WA | 2026-11-02 17:08 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167) |
 | Rubrik | Application Security Engineer | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-11-09 12:34 | [Apply](https://www.rubrik.com/company/careers/departments/job.8366954?gh_jid=8366954) |
 | Rubrik | Senior Manager, Security Operations Center | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-11-09 16:06 | [Apply](https://www.rubrik.com/company/careers/departments/job.8241565?gh_jid=8241565) |
-| Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Rubrik | Manager, CyberSecurity Risk Management | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
+| Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | Washington, Washington DC | Remote - Washington DC | 2026-11-11 13:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Samsara | Senior Security Engineer - Threat Detection | Cybersecurity | Maybe | California | Remote - CA | 2026-11-10 12:17 | [Apply](https://www.samsara.com/company/careers/roles/8212787?gh_jid=8212787) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
@@ -294,18 +298,16 @@ _Last updated 2026-11-11 01:34 ET — 320 roles from 88 company boards · 0 new 
 | Tanium | Technical Support Engineer (TSE) Intern | IT / On-Ramp | Yes | Texas | Addison, TX (Hybrid) | 2026-10-30 15:57 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
 | Abnormal Security | L1 Technical Support Engineer (Spanish-Speaking) | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-10 09:59 | [Apply](https://abnormal.ai/careers/jobs/8180130003?gh_jid=8180130003) |
 | Axonius | Technical Support Engineer (SkillBridge: On-the-job training) | IT / On-Ramp | Maybe | Remote (US) | Remote US | 2026-10-19 15:09 | [Apply](https://www.axonius.com/company/careers/open-jobs?gh_jid=8009643003) |
-| Cloudflare | Technical Support Engineer | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-11-10 04:41 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8359552?gh_jid=8359552) |
 | Cloudflare | Technical Support Engineer, Application Services | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993) |
 | Databricks | Sr Designated Support Engineer | IT / On-Ramp | Maybe | California, New York, Texas, Washington | New York; Plano, Texas; San Francisco, California; Seattle, Washington | 2026-11-04 18:00 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
 | Databricks | Senior Support Engineer (GovOps) | IT / On-Ramp | Maybe | Virginia | McLean, Virginia | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8798215002) |
 | Datadog | Manager I, Premier Support Engineering - Denver | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8083563/?gh_jid=8083563) |
-| Datadog | Senior Enablement Program Manager, Support Engineering | IT / On-Ramp | Maybe | New York | New York, New York, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8128764/?gh_jid=8128764) |
 | Fastly | Customer Support Engineer | IT / On-Ramp | Maybe | Colorado, Illinois, New York, Texas | Austin, TX; Chicago, IL; Denver, CO; Houston, TX; New York City, NY | 2026-10-30 08:57 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
 | Keeper Security | Director of IT Operations | IT / On-Ramp | Maybe | California | El Dorado Hills, California, United States | 2026-11-09 14:00 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4486507009) |
 | Keeper Security | Consumer Support Specialist (Weekend Shift, Sunday - Thursday) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-09-23 20:24 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4412808009) |
 | Keeper Security | IT Support Specialist, Tier 2 | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-10-23 15:48 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4459433009) |
-| MongoDB | IT Support Lead | IT / On-Ramp | Maybe | New York | New York City | 2026-11-10 16:49 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8360183) |
+| MongoDB | IT Support Lead | IT / On-Ramp | Maybe | New York | New York City | 2026-11-10 21:01 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8360183) |
 | Netskope | Director, IT Service Desk | IT / On-Ramp | Maybe | California | Santa Clara, California, United States | 2026-11-05 12:05 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8334837) |
 | Netskope | Director, IT Service Desk | IT / On-Ramp | Maybe | Missouri | Saint Louis, Missouri, United States | 2026-11-05 12:06 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8353043) |
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
