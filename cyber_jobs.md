@@ -1,11 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-10 22:10 ET — 321 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-11-11 01:34 ET — 320 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Okta | Staff Security Risk Analyst 🆕 | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-11-10 15:56 | [Apply](https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852) |
-| MongoDB | IT Support Lead 🆕 | IT / On-Ramp | Maybe | New York | New York City | 2026-11-10 16:49 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8360183) |
 | Expel | Associate SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote | 2026-11-10 12:24 | [Apply](https://expel.com/about/career-listing/8936554002?gh_jid=8936554002) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
@@ -36,7 +34,6 @@ _Last updated 2026-11-10 22:10 ET — 321 roles from 88 company boards · 2 new 
 | Affirm | Quantitative Analytics Manager, Affirm Bank Model Governance | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-10-30 17:15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819441003) |
 | Affirm | Security Risk Management Lead | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-10-30 17:15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7718808003) |
 | Affirm | Senior Manager, Security Incident Response | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-10-30 19:34 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8045376003) |
-| Affirm | Senior Product Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-10-30 17:15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8042128003) |
 | Affirm | Staff CIAM Software Engineer | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-10-30 17:15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819449003) |
 | Affirm | Staff Security Engineer, Enterprise AI | Cybersecurity | Maybe | Remote (US) | Remote US | 2026-10-30 17:15 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7994553003) |
 | Brex | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, California, United States | 2026-07-16 18:44 | [Apply](https://www.brex.com/careers/8339252002?gh_jid=8339252002) |
@@ -156,6 +153,7 @@ _Last updated 2026-11-10 22:10 ET — 321 roles from 88 company boards · 2 new 
 | Okta | Director Product Manager - Okta Identity Threat Detection and Response Products | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-10-15 07:01 | [Apply](https://www.okta.com/company/careers/opportunity/8157885?gh_jid=8157885) |
 | Okta | Senior Product Manager - Okta Identity Governance | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-10-14 14:00 | [Apply](https://www.okta.com/company/careers/opportunity/8213755?gh_jid=8213755) |
 | Okta | Staff Product Manager - Okta Identity Governance | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-11-04 14:17 | [Apply](https://www.okta.com/company/careers/opportunity/8248427?gh_jid=8248427) |
+| Okta | Staff Security Risk Analyst | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-11-10 15:56 | [Apply](https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852) |
 | Okta | Engineering Manager, Governance Intelligence | Cybersecurity | Maybe | California, Washington | Bellevue, Washington; San Francisco, California | 2026-09-29 19:44 | [Apply](https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524) |
 | Okta | Senior Product Manager - Agentic Security (Auth0) | Cybersecurity | Maybe | Illinois, New York, Washington | Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC | 2026-10-22 16:17 | [Apply](https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929) |
 | Okta | Staff Product Designer - Okta Identity Governance | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-11-06 14:08 | [Apply](https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059) |
@@ -288,8 +286,8 @@ _Last updated 2026-11-10 22:10 ET — 321 roles from 88 company boards · 2 new 
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Zscaler | Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200278007) |
 | Cloudflare | IT Operations Specialist I | IT / On-Ramp | Yes | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074) |
-| Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:54 | [Apply](https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621) |
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:52 | [Apply](https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618) |
+| Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:54 | [Apply](https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621) |
 | Expel | IT Support Specialist | IT / On-Ramp | Yes | Virginia | Herndon, VA | 2026-10-07 17:12 | [Apply](https://expel.com/about/career-listing/8875646002?gh_jid=8875646002) |
 | New Relic | Desktop Support Technician | IT / On-Ramp | Yes | California | San Francisco, California, USA | 2026-10-30 09:38 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5444698008) |
 | Stripe | IT Support Engineer | IT / On-Ramp | Yes | New York | New York | 2026-11-09 09:16 | [Apply](https://stripe.com/jobs/search?gh_jid=8265151) |
@@ -307,6 +305,7 @@ _Last updated 2026-11-10 22:10 ET — 321 roles from 88 company boards · 2 new 
 | Keeper Security | Director of IT Operations | IT / On-Ramp | Maybe | California | El Dorado Hills, California, United States | 2026-11-09 14:00 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4486507009) |
 | Keeper Security | Consumer Support Specialist (Weekend Shift, Sunday - Thursday) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-09-23 20:24 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4412808009) |
 | Keeper Security | IT Support Specialist, Tier 2 | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-10-23 15:48 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4459433009) |
+| MongoDB | IT Support Lead | IT / On-Ramp | Maybe | New York | New York City | 2026-11-10 16:49 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8360183) |
 | Netskope | Director, IT Service Desk | IT / On-Ramp | Maybe | California | Santa Clara, California, United States | 2026-11-05 12:05 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8334837) |
 | Netskope | Director, IT Service Desk | IT / On-Ramp | Maybe | Missouri | Saint Louis, Missouri, United States | 2026-11-05 12:06 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8353043) |
 | Palantir | Support Engineer | IT / On-Ramp | Maybe | New York | New York, NY | 2026-05-19 18:25 | [Apply](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
@@ -323,5 +322,5 @@ _Last updated 2026-11-10 22:10 ET — 321 roles from 88 company boards · 2 new 
 | Verkada | Technical Support Engineering Manager | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144834007) |
 | Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 | Verkada | Technical Support Engineer - University Graduate 2027 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
-| Wiz | Manager of Applied AI, Solutions Support Engineering | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-10-29 14:52 | [Apply](https://www.wiz.io/careers/job/4719843006/:title?gh_jid=4719843006) |
+| Wiz | Manager of Applied AI, Solutions Support Engineering | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-10 17:27 | [Apply](https://www.wiz.io/careers/job/4719843006/:title?gh_jid=4719843006) |
 | Wiz | Solutions Support Engineer - US East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-10-27 16:31 | [Apply](https://www.wiz.io/careers/job/4721575006/:title?gh_jid=4721575006) |
