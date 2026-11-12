@@ -1,11 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-11 23:20 ET — 322 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-11-12 02:35 ET — 322 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Netskope | IT Support Analyst 🆕 | IT / On-Ramp | Yes | Missouri | Saint Louis, Missouri, United States | 2026-11-11 15:24 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8060117) |
-| Keeper Security | Bilingual Systems Support Engineer, Spanish  (Weekend Shift) 🆕 | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-11-11 15:25 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4504018009) |
 | Expel | Associate SOC Analyst | Cybersecurity | Yes | Remote (US) | Remote | 2026-11-10 12:24 | [Apply](https://expel.com/about/career-listing/8936554002?gh_jid=8936554002) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
@@ -90,8 +88,8 @@ _Last updated 2026-11-11 23:20 ET — 322 roles from 88 company boards · 2 new 
 | Datadog | Senior Manager, Product Design - Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-11-05 17:11 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-10-26 17:55 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
@@ -217,8 +215,8 @@ _Last updated 2026-11-11 23:20 ET — 322 roles from 88 company boards · 2 new 
 | Tanium | Software Engineer II, AI Security | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-06 14:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8359784) |
 | Tanium | Senior Security Engineer - Vulnerability Research | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-10-30 15:57 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8250452) |
 | Tenable | AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-10-30 11:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5468272008) |
-| Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:54 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5454389008) |
 | Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-05 12:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5474498008) |
+| Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:54 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5454389008) |
 | Tenable | Senior AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:53 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5434299008) |
 | Tenable | Director, Global Government Affairs (SLED) - Cybersecurity | Cybersecurity | Maybe | Remote (US) | US - Remote - DC, US - Remote - Virginia , US - Headquarters - Maryland - Columbia | 2026-10-29 16:57 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5467527008) |
 | Tenable | Director of Product Marketing -  Cloud & OT Security | Cybersecurity | Maybe | Remote (US) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | 2026-11-02 15:56 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5413733008) |
@@ -292,18 +290,20 @@ _Last updated 2026-11-11 23:20 ET — 322 roles from 88 company boards · 2 new 
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:52 | [Apply](https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618) |
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:54 | [Apply](https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621) |
 | Expel | IT Support Specialist | IT / On-Ramp | Yes | Virginia | Herndon, VA | 2026-10-07 17:12 | [Apply](https://expel.com/about/career-listing/8875646002?gh_jid=8875646002) |
+| Netskope | IT Support Analyst | IT / On-Ramp | Yes | Missouri | Saint Louis, Missouri, United States | 2026-11-11 15:24 | [Apply](https://www.netskope.com/company/careers/open-positions/?gh_jid=8060117) |
 | New Relic | Desktop Support Technician | IT / On-Ramp | Yes | California | San Francisco, California, USA | 2026-10-30 09:38 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5444698008) |
 | Stripe | IT Support Engineer | IT / On-Ramp | Yes | New York | New York | 2026-11-09 09:16 | [Apply](https://stripe.com/jobs/search?gh_jid=8265151) |
 | Tanium | Technical Support Engineer (TSE) Intern | IT / On-Ramp | Yes | Texas | Addison, TX (Hybrid) | 2026-10-30 15:57 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176322) |
 | Abnormal Security | L1 Technical Support Engineer (Spanish-Speaking) | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-10 09:59 | [Apply](https://abnormal.ai/careers/jobs/8180130003?gh_jid=8180130003) |
 | Axonius | Technical Support Engineer (SkillBridge: On-the-job training) | IT / On-Ramp | Maybe | Remote (US) | Remote US | 2026-10-19 15:09 | [Apply](https://www.axonius.com/company/careers/open-jobs?gh_jid=8009643003) |
 | Cloudflare | Technical Support Engineer, Application Services | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993) |
-| Databricks | Sr Designated Support Engineer | IT / On-Ramp | Maybe | California, New York, Texas, Washington | New York; Plano, Texas; San Francisco, California; Seattle, Washington | 2026-11-04 18:00 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
+| Databricks | Sr Designated Support Engineer | IT / On-Ramp | Maybe | California, New York, Texas, Washington | New York; Plano, Texas; San Francisco, California; Seattle, Washington | 2026-11-11 18:59 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
 | Databricks | Senior Support Engineer (GovOps) | IT / On-Ramp | Maybe | Virginia | McLean, Virginia | 2026-09-21 13:22 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8798215002) |
 | Datadog | Manager I, Premier Support Engineering - Denver | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8083563/?gh_jid=8083563) |
 | Fastly | Customer Support Engineer | IT / On-Ramp | Maybe | Colorado, Illinois, New York, Texas | Austin, TX; Chicago, IL; Denver, CO; Houston, TX; New York City, NY | 2026-10-30 08:57 | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
 | Keeper Security | Director of IT Operations | IT / On-Ramp | Maybe | California | El Dorado Hills, California, United States | 2026-11-09 14:00 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4486507009) |
+| Keeper Security | Bilingual Systems Support Engineer, Spanish  (Weekend Shift) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-11-11 15:25 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4504018009) |
 | Keeper Security | Consumer Support Specialist (Weekend Shift, Sunday - Thursday) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-09-23 20:24 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4412808009) |
 | Keeper Security | IT Support Specialist, Tier 2 | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-10-23 15:48 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4459433009) |
 | MongoDB | IT Support Lead | IT / On-Ramp | Maybe | New York | New York City | 2026-11-10 21:01 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8360183) |
