@@ -1,10 +1,13 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-13 22:24 ET — 323 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-11-14 01:54 ET — 327 roles from 88 company boards · 4 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Okta | Staff Software Engineer - Okta Identity Governance 🆕 | Cybersecurity | Maybe | California | San Francisco, California | 2026-11-13 17:17 | [Apply](https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834) |
+| Brex | Senior GRC Engineer 🆕 | Cybersecurity | Maybe | California | San Francisco, California, United States | 2026-11-13 18:47 | [Apply](https://www.brex.com/careers/8943782002?gh_jid=8943782002) |
+| Brex | Senior GRC Engineer 🆕 | Cybersecurity | Maybe | New York | New York, New York, United States | 2026-11-13 18:47 | [Apply](https://www.brex.com/careers/8943620002?gh_jid=8943620002) |
+| Brex | Senior GRC Engineer 🆕 | Cybersecurity | Maybe | Washington | Seattle, Washington, United States | 2026-11-13 18:47 | [Apply](https://www.brex.com/careers/8943780002?gh_jid=8943780002) |
+| Okta | Senior Product Manager - Okta Identity Governance 🆕 | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-11-13 18:20 | [Apply](https://www.okta.com/company/careers/opportunity/8213755?gh_jid=8213755) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
 | Huntress | Security Operations Analyst - West Coast/Mountain Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-11-13 12:04 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
@@ -148,6 +151,7 @@ _Last updated 2026-11-13 22:24 ET — 323 roles from 88 company boards · 1 new 
 | Obsidian Security | Chief Information Security Officer (CISO) | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-10-01 01:00 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5417263008) |
 | Obsidian Security | Software Engineer - AI Security Product | Cybersecurity | Maybe | California | Palo Alto, California, USA | 2026-10-01 01:00 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) |
 | Okta | Engineering Manager, Okta Identity Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-11-13 16:59 | [Apply](https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083) |
+| Okta | Staff Software Engineer - Okta Identity Governance | Cybersecurity | Maybe | California | San Francisco, California | 2026-11-13 17:17 | [Apply](https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834) |
 | Okta | Director Product Manager - Okta Identity Threat Detection and Response Products | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC | 2026-11-13 16:59 | [Apply](https://www.okta.com/company/careers/opportunity/8157885?gh_jid=8157885) |
 | Okta | Staff Product Manager - Okta Identity Governance | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-11-13 16:59 | [Apply](https://www.okta.com/company/careers/opportunity/8248427?gh_jid=8248427) |
 | Okta | Staff Security Risk Analyst | Cybersecurity | Maybe | California, Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC | 2026-11-13 16:59 | [Apply](https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852) |
@@ -199,8 +203,8 @@ _Last updated 2026-11-13 22:24 ET — 323 roles from 88 company boards · 1 new 
 | Rubrik | Manager, CyberSecurity Risk Management | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | Washington, Washington DC | Remote - Washington DC | 2026-11-11 13:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Samsara | Senior Security Engineer - Threat Detection | Cybersecurity | Maybe | California | Remote - CA | 2026-11-10 12:17 | [Apply](https://www.samsara.com/company/careers/roles/8212787?gh_jid=8212787) |
-| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
+| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | Oregon | Remote - OR | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | Washington DC | Remote - DC | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139) |
