@@ -1,12 +1,11 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-17 00:40 ET — 324 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-11-17 04:14 ET — 323 roles from 88 company boards · 1 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Verkada | Physical Security Operations, Senior Manager 🆕 | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-16 19:16 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5292895007) |
+| Coinbase | Product Security Engineer, Offensive Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-16 20:13 | [Apply](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
-| GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Cybersecurity | Yes | Remote (US) | Remote | 2026-10-27 13:43 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) |
 | Huntress | Security Operations Analyst - West Coast/Mountain Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-11-13 12:04 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Samsara | Security Operations Engineer I | Cybersecurity | Yes | California | Remote - CA | 2026-11-06 13:24 | [Apply](https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283) |
@@ -89,11 +88,10 @@ _Last updated 2026-11-17 00:40 ET — 324 roles from 88 company boards · 1 new 
 | Datadog | Senior Manager, Product Design - Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-11-05 17:11 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
-| Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-10-26 17:55 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
 | Dropbox | Application Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-11-12 12:58 | [Apply](https://jobs.dropbox.com/listing/8328511?gh_jid=8328511) |
 | Dropbox | Security Engineer, IAM | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-11-10 14:18 | [Apply](https://jobs.dropbox.com/listing/8328534?gh_jid=8328534) |
 | Dropbox | Senior Client Platform Engineer, Endpoint Platform & Automation | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-11-12 12:56 | [Apply](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941) |
@@ -161,7 +159,7 @@ _Last updated 2026-11-17 00:40 ET — 324 roles from 88 company boards · 1 new 
 | Okta | Engineering Manager, Governance Intelligence | Cybersecurity | Maybe | California, Washington | Bellevue, Washington; San Francisco, California | 2026-11-16 18:41 | [Apply](https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524) |
 | Okta | Senior Product Manager - Agentic Security (Auth0) | Cybersecurity | Maybe | Illinois, New York, Washington | Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC | 2026-11-16 18:22 | [Apply](https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929) |
 | Okta | Staff Product Designer - Okta Identity Governance | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-11-16 18:42 | [Apply](https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059) |
-| Okta | Security Architect - U.S. Public Sector | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-16 18:45 | [Apply](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602) |
+| Okta | Security Architect - U.S. Public Sector | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-16 22:30 | [Apply](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602) |
 | Okta | Staff DevSecOps Engineer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-16 18:39 | [Apply](https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028) |
 | Okta | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-11-16 18:27 | [Apply](https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556) |
 | Palantir | Operations Analyst - US Government Security | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-10-09 00:39 | [Apply](https://jobs.lever.co/palantir/5f3f9547-2aea-4ac2-995d-e8fa53b16e39) |
@@ -203,8 +201,8 @@ _Last updated 2026-11-17 00:40 ET — 324 roles from 88 company boards · 1 new 
 | Rubrik | Manager, CyberSecurity Risk Management | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | Washington, Washington DC | Remote - Washington DC | 2026-11-11 13:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
 | Samsara | Senior Security Engineer - Threat Detection | Cybersecurity | Maybe | California | Remote - CA | 2026-11-10 12:17 | [Apply](https://www.samsara.com/company/careers/roles/8212787?gh_jid=8212787) |
-| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
+| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | Oregon | Remote - OR | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | Washington DC | Remote - DC | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139) |
@@ -218,8 +216,8 @@ _Last updated 2026-11-17 00:40 ET — 324 roles from 88 company boards · 1 new 
 | Tanium | Software Engineer II, AI Security | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-06 14:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8359784) |
 | Tanium | Senior Security Engineer - Vulnerability Research | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-10-30 15:57 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8250452) |
 | Tenable | AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-10-30 11:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5468272008) |
-| Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-05 12:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5474498008) |
 | Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:54 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5454389008) |
+| Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-05 12:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5474498008) |
 | Tenable | Senior AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:53 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5434299008) |
 | Tenable | Director, Global Government Affairs (SLED) - Cybersecurity | Cybersecurity | Maybe | Remote (US) | US - Remote - DC, US - Remote - Virginia , US - Headquarters - Maryland - Columbia | 2026-10-29 16:57 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5467527008) |
 | Tenable | Director of Product Marketing -  Cloud & OT Security | Cybersecurity | Maybe | Remote (US) | US - Headquarters - Maryland - Columbia , US - Remote - Massachusetts | 2026-11-16 14:20 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5413733008) |
@@ -246,6 +244,7 @@ _Last updated 2026-11-17 00:40 ET — 324 roles from 88 company boards · 1 new 
 | Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5234231007) |
 | Verkada | Lead Product Manager, Perimeter & Intrusion Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-10 16:54 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5205130007) |
 | Verkada | Lead Product Manager, Security Trailers | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5255988007) |
+| Verkada | Physical Security Operations, Senior Manager | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-16 19:16 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5292895007) |
 | Verkada | Security Software Engineering Intern 2027 | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
 | Verkada | Senior Product Marketing Manager, Privacy and Data Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-09 12:46 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5150337007) |
 | Verkada | Staff Backend Engineer - Device Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5154370007) |
