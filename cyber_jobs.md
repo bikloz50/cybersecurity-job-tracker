@@ -1,11 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-17 23:46 ET — 317 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-11-18 03:12 ET — 316 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Okta | Staff Software Engineer - Okta Identity Governance 🆕 | Cybersecurity | Maybe | New York, Washington, Washington DC | Bellevue, WA, United States; New York, New York, United States; Washington D.C. | 2026-11-17 17:15 | [Apply](https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676) |
-| Stripe | Product Support Specialist 🆕 | IT / On-Ramp | Maybe | New York | New York, Seattle, San Francisco | 2026-11-17 18:25 | [Apply](https://stripe.com/jobs/search?gh_jid=8245584) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | Huntress | Security Operations Analyst - West Coast/Mountain Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-11-13 12:04 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
 | Palantir | Information Security Engineer, Internship | Cybersecurity | Yes | New York | New York, NY | 2022-08-03 19:25 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
@@ -44,7 +42,7 @@ _Last updated 2026-11-17 23:46 ET — 317 roles from 88 company boards · 2 new 
 | Chime | Manager, Product Security | Cybersecurity | Maybe | California, Illinois, New York | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 2026-11-17 14:31 | [Apply](https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002) |
 | Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
 | Cloudflare | Senior Product Manager - Threat Intel | Cybersecurity | Maybe | Indiana | Hybrid; In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552) |
-| Cloudflare | Technical Support Engineer, Zero Trust | Cybersecurity | Maybe | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998) |
+| Cloudflare | Technical Support Engineer, Zero Trust | Cybersecurity | Maybe | Indiana | In-Office | 2026-11-17 21:26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998) |
 | Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 10:33 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
 | Coinbase | Product Security Engineer, Offensive Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-16 20:13 | [Apply](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) |
 | Coinbase | Security Engineer, Corporate Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 11:21 | [Apply](https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444) |
@@ -157,6 +155,7 @@ _Last updated 2026-11-17 23:46 ET — 317 roles from 88 company boards · 2 new 
 | Okta | Engineering Manager, Governance Intelligence | Cybersecurity | Maybe | California, Washington | Bellevue, Washington; San Francisco, California | 2026-11-16 18:41 | [Apply](https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524) |
 | Okta | Senior Product Manager - Agentic Security (Auth0) | Cybersecurity | Maybe | Illinois, New York, Washington | Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC | 2026-11-16 18:22 | [Apply](https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929) |
 | Okta | Staff Product Designer - Okta Identity Governance | Cybersecurity | Maybe | Illinois, New York, Washington | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | 2026-11-16 18:42 | [Apply](https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059) |
+| Okta | Staff Software Engineer - Okta Identity Governance | Cybersecurity | Maybe | New York, Washington, Washington DC | Bellevue, WA, United States; New York, New York, United States; Washington D.C. | 2026-11-17 17:15 | [Apply](https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676) |
 | Okta | Security Architect - U.S. Public Sector | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-17 12:46 | [Apply](https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602) |
 | Okta | Staff DevSecOps Engineer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-16 18:39 | [Apply](https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028) |
 | Okta | Staff Software Engineer, Security | Cybersecurity | Maybe | Washington | Bellevue, Washington | 2026-11-16 18:27 | [Apply](https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556) |

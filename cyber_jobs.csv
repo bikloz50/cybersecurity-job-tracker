@@ -1,6 +1,4 @@
 company,title,category,entry_level,states,location,updated,url,is_new
-Okta,Staff Software Engineer - Okta Identity Governance,Cybersecurity,Maybe,"New York, Washington, Washington DC","Bellevue, WA, United States; New York, New York, United States; Washington D.C.",2026-11-17 17:15,https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676,True
-Stripe,Product Support Specialist,IT / On-Ramp,Maybe,New York,"New York, Seattle, San Francisco",2026-11-17 18:25,https://stripe.com/jobs/search?gh_jid=8245584,True
 GuidePoint Security,Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.),Cybersecurity,Yes,Remote (US),Remote,2026-09-14 14:31,https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004,False
 Huntress,Security Operations Analyst - West Coast/Mountain Shift,Cybersecurity,Yes,Remote (US),Remote US,2026-11-13 12:04,https://job-boards.greenhouse.io/huntress/jobs/7743188003,False
 Palantir,"Information Security Engineer, Internship",Cybersecurity,Yes,New York,"New York, NY",2022-08-03 19:25,https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb,False
@@ -39,7 +37,7 @@ Chime,"Product Manager, Trust and Safety",Cybersecurity,Maybe,"California, Illin
 Chime,"Manager, Product Security",Cybersecurity,Maybe,"California, Illinois, New York","Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",2026-11-17 14:31,https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002,False
 Cloudflare,Security Engineer (IAM),Cybersecurity,Maybe,Indiana,In-Office,2026-11-09 19:03,https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227,False
 Cloudflare,Senior Product Manager - Threat Intel,Cybersecurity,Maybe,Indiana,Hybrid; In-Office,2026-11-09 19:03,https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552,False
-Cloudflare,"Technical Support Engineer, Zero Trust",Cybersecurity,Maybe,Indiana,In-Office,2026-11-09 19:03,https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998,False
+Cloudflare,"Technical Support Engineer, Zero Trust",Cybersecurity,Maybe,Indiana,In-Office,2026-11-17 21:26,https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998,False
 Coinbase,"Compliance, Threat & Risk Assessment Manager",Cybersecurity,Maybe,Remote (US),Remote - USA,2026-10-30 10:33,https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692,False
 Coinbase,"Product Security Engineer, Offensive Security",Cybersecurity,Maybe,Remote (US),Remote - USA,2026-11-16 20:13,https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654,False
 Coinbase,"Security Engineer, Corporate Security",Cybersecurity,Maybe,Remote (US),Remote - USA,2026-10-30 11:21,https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444,False
@@ -152,6 +150,7 @@ Okta,"Director, Product Security, PSIRT",Cybersecurity,Maybe,"California, Washin
 Okta,"Engineering Manager, Governance Intelligence",Cybersecurity,Maybe,"California, Washington","Bellevue, Washington; San Francisco, California",2026-11-16 18:41,https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524,False
 Okta,Senior Product Manager - Agentic Security (Auth0),Cybersecurity,Maybe,"Illinois, New York, Washington","Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",2026-11-16 18:22,https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929,False
 Okta,Staff Product Designer - Okta Identity Governance,Cybersecurity,Maybe,"Illinois, New York, Washington","Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",2026-11-16 18:42,https://www.okta.com/company/careers/opportunity/8247059?gh_jid=8247059,False
+Okta,Staff Software Engineer - Okta Identity Governance,Cybersecurity,Maybe,"New York, Washington, Washington DC","Bellevue, WA, United States; New York, New York, United States; Washington D.C.",2026-11-17 17:15,https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676,False
 Okta,Security Architect - U.S. Public Sector,Cybersecurity,Maybe,Washington,"Washington, DC",2026-11-17 12:46,https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602,False
 Okta,Staff DevSecOps Engineer (TS/SCI),Cybersecurity,Maybe,Washington,"Washington, DC",2026-11-16 18:39,https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028,False
 Okta,"Staff Software Engineer, Security",Cybersecurity,Maybe,Washington,"Bellevue, Washington",2026-11-16 18:27,https://www.okta.com/company/careers/opportunity/8267556?gh_jid=8267556,False
