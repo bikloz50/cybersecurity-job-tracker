@@ -1,11 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-18 23:17 ET — 320 roles from 88 company boards · 2 new since last run_
+_Last updated 2026-11-19 02:52 ET — 320 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Databricks | Staff Software Engineer - Threat and Abuse Defense 🆕 | Cybersecurity | Maybe | California | Mountain View, California | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002) |
-| Tanium | Security Engineer 🆕 | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-11-18 17:20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8335066) |
 | Chime | Associate, Governance and Assurance | Cybersecurity | Yes | California | San Francisco, CA, USA | 2026-11-18 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8904561002?gh_jid=8904561002) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | Huntress | Security Operations Analyst - West Coast/Mountain Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-11-13 12:04 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
@@ -66,6 +64,7 @@ _Last updated 2026-11-18 23:17 ET — 320 roles from 88 company boards · 2 new 
 | Databricks | Staff Enterprise Security Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002) |
 | Databricks | Staff Product Manager, Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002) |
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
+| Databricks | Staff Software Engineer - Threat and Abuse Defense | Cybersecurity | Maybe | California | Mountain View, California | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002) |
 | Databricks | Staff Technical Program Manager- Security | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8864290002) |
 | Databricks | Staff Technical Program Manager - Cleared/Security | Cybersecurity | Maybe | Virginia, Washington | McLean, Virginia; Washington, D.C. | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493148002) |
 | Databricks | Deputy Facility Security Officer | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8811713002) |
@@ -201,8 +200,8 @@ _Last updated 2026-11-18 23:17 ET — 320 roles from 88 company boards · 2 new 
 | Rubrik | Senior Manager, Security Operations Center | Cybersecurity | Maybe | California | Palo Alto, CA | 2026-11-09 16:06 | [Apply](https://www.rubrik.com/company/careers/departments/job.8241565?gh_jid=8241565) |
 | Rubrik | Manager, CyberSecurity Risk Management | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-03 16:29 | [Apply](https://www.rubrik.com/company/careers/departments/job.8306164?gh_jid=8306164) |
 | Rubrik | Staff Platform Product Manager, Platform & Cloud Security | Cybersecurity | Maybe | Washington, Washington DC | Remote - Washington DC | 2026-11-11 13:03 | [Apply](https://www.rubrik.com/company/careers/departments/job.7423902?gh_jid=7423902) |
-| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369) |
+| Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | California | Remote - CA | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | California | San Francisco, CA, United States | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183) |
 | Samsara | Senior Security Operations Engineer | Cybersecurity | Maybe | Oregon | Remote - OR | 2026-10-30 11:25 | [Apply](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 | Samsara | Staff Application Security Engineer | Cybersecurity | Maybe | Washington DC | Remote - DC | 2026-10-30 11:20 | [Apply](https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139) |
@@ -214,6 +213,7 @@ _Last updated 2026-11-18 23:17 ET — 320 roles from 88 company boards · 2 new 
 | Tanium | Staff Identity and Access Management Engineer | Cybersecurity | Maybe | California, North Carolina, Texas, Virginia, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | 2026-10-30 15:57 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126772) |
 | Tanium | Senior Software Engineer, AI Security | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-11-06 14:27 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8357200) |
 | Tanium | Software Engineer II, AI Security | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-06 14:49 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8359784) |
+| Tanium | Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-11-18 17:20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8335066) |
 | Tanium | Senior Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-11-18 16:53 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8250452) |
 | Tenable | AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-10-30 11:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5468272008) |
 | Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-05 12:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5474498008) |
@@ -280,8 +280,8 @@ _Last updated 2026-11-18 23:17 ET — 320 roles from 88 company boards · 2 new 
 | Zscaler | Sr. Director, MSSP (Managed Security Services Provider) | Cybersecurity | Maybe | Remote (US) | Remote - New Jersey, USA; Remote - USA | 2026-11-18 13:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5231708007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Sr. Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200385007) |
-| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
+| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
 | Zscaler | Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200278007) |
 | Cloudflare | IT Operations Specialist I | IT / On-Ramp | Yes | Indiana | In-Office | 2026-11-18 18:09 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074) |
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:52 | [Apply](https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618) |
@@ -297,7 +297,7 @@ _Last updated 2026-11-18 23:17 ET — 320 roles from 88 company boards · 2 new 
 | Cloudflare | Technical Support Engineer, Application Services | IT / On-Ramp | Maybe | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993) |
 | Databricks | Sr Designated Support Engineer | IT / On-Ramp | Maybe | California, New York, Texas, Washington | New York; Plano, Texas; San Francisco, California; Seattle, Washington | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Databricks | Sr. Manager – Data & AI Support Engineering | IT / On-Ramp | Maybe | Texas | Plano, Texas | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002) |
-| Databricks | Senior Support Engineer (GovOps) | IT / On-Ramp | Maybe | Virginia | McLean, Virginia | 2026-11-18 17:50 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8798215002) |
+| Databricks | Senior Support Engineer (GovOps) | IT / On-Ramp | Maybe | Virginia | McLean, Virginia | 2026-11-18 21:04 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8798215002) |
 | Datadog | Manager I, Premier Support Engineering - Denver | IT / On-Ramp | Maybe | Colorado | Denver, Colorado, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8083563/?gh_jid=8083563) |
 | Keeper Security | Director of IT Operations | IT / On-Ramp | Maybe | California | El Dorado Hills, California, United States | 2026-11-17 14:48 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4486507009) |
 | Keeper Security | Bilingual Systems Support Engineer, Spanish (Wednesday - Sunday) | IT / On-Ramp | Maybe | Remote (US) | Remote, US | 2026-11-18 15:13 | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4504018009) |
