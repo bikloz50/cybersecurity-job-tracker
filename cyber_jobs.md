@@ -1,18 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new since last run_
+_Last updated 2026-11-20 22:58 ET — 330 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Chime | Senior Infrastructure Security Engineer 🆕 | Cybersecurity | Maybe | California, Illinois, New York | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 2026-11-20 11:56 | [Apply](https://boards.greenhouse.io/chime/jobs/8950917002?gh_jid=8950917002) |
-| Palantir | Supply Chain Security Analyst 🆕 | Cybersecurity | Maybe | New York | New York, NY | 2021-10-20 08:05 | [Apply](https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6) |
-| Palantir | Supply Chain Security Analyst 🆕 | Cybersecurity | Maybe | Washington | Washington, D.C. | 2021-10-20 08:05 | [Apply](https://jobs.lever.co/palantir/26c63e91-64bb-4a9d-8b24-f51754bffb83) |
-| Reddit | Principal Engineer, Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-11-20 15:50 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8399817) |
-| Tenable | Security Engineer (Pre-Sales) DFW Area 🆕 | Cybersecurity | Maybe | Remote (US) | US - Remote - Texas - DFW Area | 2026-11-20 14:09 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5491081008) |
-| Twilio | Principal Engineer, Cloud Security 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-11-20 14:22 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405813) |
-| Twilio | Senior Engineer, Security Automation 🆕 | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-11-20 14:23 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405805) |
-| UltraViolet Cyber | Senior Information Systems Security Officer (TS/SCI) 🆕 | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-20 15:31 | [Apply](https://jobs.lever.co/uvcyber/92f541a2-4a28-44a3-b0a3-219ff1552b1f) |
-| Zscaler | Federal SOC Leader 🆕 | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-20 10:26 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5202105007) |
 | Chime | Associate, Governance and Assurance | Cybersecurity | Yes | California | San Francisco, CA, USA | 2026-11-18 17:45 | [Apply](https://boards.greenhouse.io/chime/jobs/8904561002?gh_jid=8904561002) |
 | GuidePoint Security | Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.) | Cybersecurity | Yes | Remote (US) | Remote | 2026-09-14 14:31 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004) |
 | Huntress | Security Operations Analyst - West Coast/Mountain Shift | Cybersecurity | Yes | Remote (US) | Remote US | 2026-11-13 12:04 | [Apply](https://job-boards.greenhouse.io/huntress/jobs/7743188003) |
@@ -48,6 +39,7 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | Chime | Product Manager, Trust and Safety | Cybersecurity | Maybe | California, Illinois | Chicago, IL, USA; San Francisco, CA, USA | 2026-11-03 13:35 | [Apply](https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002) |
 | Chime | Manager, Product Security | Cybersecurity | Maybe | California, Illinois, New York | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 2026-11-20 12:02 | [Apply](https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002) |
 | Chime | Senior Application Security Engineer | Cybersecurity | Maybe | California, Illinois, New York | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 2026-11-19 18:20 | [Apply](https://boards.greenhouse.io/chime/jobs/8575541002?gh_jid=8575541002) |
+| Chime | Senior Infrastructure Security Engineer | Cybersecurity | Maybe | California, Illinois, New York | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 2026-11-20 11:56 | [Apply](https://boards.greenhouse.io/chime/jobs/8950917002?gh_jid=8950917002) |
 | Cloudflare | Response Engineer (Application & Network Security) | Cybersecurity | Maybe | Indiana | In-Office | 2026-11-18 10:20 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8037628?gh_jid=8037628) |
 | Cloudflare | Security Engineer (IAM) | Cybersecurity | Maybe | Indiana | In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8124227?gh_jid=8124227) |
 | Cloudflare | Senior Product Manager - Threat Intel | Cybersecurity | Maybe | Indiana | Hybrid; In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552) |
@@ -183,6 +175,7 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | Palantir | Information Security Engineer - Insider Risk | Cybersecurity | Maybe | New York | New York, NY | 2026-04-14 14:31 | [Apply](https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166) |
 | Palantir | Security Systems Engineer | Cybersecurity | Maybe | New York | New York, NY | 2018-08-23 18:23 | [Apply](https://jobs.lever.co/palantir/fdbc68df-8817-49dc-96f3-18a53f4fcd4c) |
 | Palantir | Senior Identity Security Engineer | Cybersecurity | Maybe | New York | New York, NY | 2026-05-28 21:15 | [Apply](https://jobs.lever.co/palantir/144f32bc-21e5-42bd-9710-7165a22d51e1) |
+| Palantir | Supply Chain Security Analyst | Cybersecurity | Maybe | New York | New York, NY | 2021-10-20 08:05 | [Apply](https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6) |
 | Palantir | Technical Program Manager - Security | Cybersecurity | Maybe | New York | New York, NY | 2026-07-20 14:50 | [Apply](https://jobs.lever.co/palantir/b5362bc1-8a07-44e2-9ddc-cb4236aa0f20) |
 | Palantir | Defensive Security Analyst | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-01-08 11:51 | [Apply](https://jobs.lever.co/palantir/bc803bd5-7793-452d-9ae5-9301ee24615a) |
 | Palantir | Forward Deployed Security Engineer - US Government | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-03-09 20:23 | [Apply](https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98) |
@@ -191,11 +184,13 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | Palantir | Operations Analyst - US Government Security | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-10-16 14:07 | [Apply](https://jobs.lever.co/palantir/a468565d-8502-4baf-8788-b7ffe233b725) |
 | Palantir | Security Systems Engineer | Cybersecurity | Maybe | Washington | Seattle, WA | 2026-09-23 20:22 | [Apply](https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b) |
 | Palantir | Senior Identity Security Engineer | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-05-28 21:18 | [Apply](https://jobs.lever.co/palantir/146aba99-2a9a-44ee-9fb3-42dd1e211221) |
+| Palantir | Supply Chain Security Analyst | Cybersecurity | Maybe | Washington | Washington, D.C. | 2021-10-20 08:05 | [Apply](https://jobs.lever.co/palantir/26c63e91-64bb-4a9d-8b24-f51754bffb83) |
 | Palantir | Technical Program Manager - Security | Cybersecurity | Maybe | Washington | Washington, D.C. | 2026-07-20 15:01 | [Apply](https://jobs.lever.co/palantir/b908b3e4-81f9-47b3-9088-ee8dd3932003) |
 | Ping Identity | Senior GRC Analyst | Cybersecurity | Maybe | Remote (US) | USA - Remote | 2026-10-27 11:33 | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8911623002) |
 | Recorded Future | Senior Software Engineer: Ransomware Collections | Cybersecurity | Maybe | Massachusetts | Boston, MA | 2026-10-30 10:09 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8917984002) |
 | Recorded Future | Senior Threat Intelligence Analyst | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-06 14:31 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8917956002) |
 | Recorded Future | Senior Software Engineer: Ransomware Collections | Cybersecurity | Maybe | Washington | Washington, DC | 2026-10-30 10:09 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8920083002) |
+| Reddit | Principal Engineer, Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-11-20 15:50 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8399817) |
 | Reddit | Senior Software Engineer, GRC | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-11-03 15:11 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8350749) |
 | Reddit | Staff Machine Learning Engineer, AI Security | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-23 10:06 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8203478) |
 | Reddit | Staff Threat Analyst, Ads Fraud | Cybersecurity | Maybe | Remote (US) | Remote - United States | 2026-10-23 10:06 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8189395) |
@@ -230,6 +225,7 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:54 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5454389008) |
 | Tenable | Senior AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:53 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5434299008) |
 | Tenable | Director, Global Government Affairs (SLED) - Cybersecurity | Cybersecurity | Maybe | Remote (US) | US - Remote - DC, US - Remote - Virginia , US - Headquarters - Maryland - Columbia | 2026-10-29 16:57 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5467527008) |
+| Tenable | Security Engineer (Pre-Sales) DFW Area | Cybersecurity | Maybe | Remote (US) | US - Remote - Texas - DFW Area | 2026-11-20 14:09 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5491081008) |
 | Trace3 | GTM Forecasting & Pipeline Governance Manager | Cybersecurity | Maybe | California | Irvine, CA, United States | 2026-11-06 19:24 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8360648) |
 | Trace3 | Regional Principal Security Solutions Architect | Wiz/PAN/CrowdStrike (Remote) | Cybersecurity | Maybe | California | Irvine, CA, United States | 2026-11-02 16:08 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8160798) |
 | Trace3 | DevSecOps Cloud Engineer | Cybersecurity | Maybe | Colorado | Colorado Springs, CO | 2026-11-02 16:12 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8346776) |
@@ -240,6 +236,8 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | Trace3 | Architect | GRC/AI Governance (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX, United States | 2026-11-04 14:35 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8353764) |
 | Trace3 | Senior Solutions Architect | Vulnerability/Exposure Management (Remote) | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-10-23 14:08 | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8318943) |
 | Twilio | Fraud Specialist, Supplier Operations & Governance | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-11-17 16:23 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8386095) |
+| Twilio | Principal Engineer, Cloud Security | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-11-20 14:22 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405813) |
+| Twilio | Senior Engineer, Security Automation | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-11-20 14:23 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405805) |
 | UltraViolet Cyber | Senior Security Engineer - Crowdstrike | Cybersecurity | Maybe | Maryland | National Harbor, MD | 2026-08-03 17:57 | [Apply](https://jobs.lever.co/uvcyber/496fa1b1-00d0-4991-8bf3-5e68f2187c1e) |
 | UltraViolet Cyber | Account Executive | Cybersecurity Services (Southeast Territory) | Cybersecurity | Maybe | North Carolina | North Carolina | 2026-10-26 17:00 | [Apply](https://jobs.lever.co/uvcyber/f65b7921-2189-4cf4-8dc3-1d65cee96b07) |
 | UltraViolet Cyber | Senior Account Executive | Cybersecurity Services | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-29 21:52 | [Apply](https://jobs.lever.co/uvcyber/b5129f2d-8fd7-4c74-b903-53e6ea8bbdcf) |
@@ -247,6 +245,7 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | UltraViolet Cyber | Security Engineer (Microsoft Defender) | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-11-06 22:35 | [Apply](https://jobs.lever.co/uvcyber/bfb7cc89-527f-4e38-9713-c9fd401dadf9) |
 | UltraViolet Cyber | Senior Microsoft Cloud Security Engineer | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-10-06 22:00 | [Apply](https://jobs.lever.co/uvcyber/0f4f511d-ed2d-4b6e-8ce0-b5278bb1d02d) |
 | UltraViolet Cyber | Senior Security Engineer | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-10-13 19:32 | [Apply](https://jobs.lever.co/uvcyber/a9114d6f-59ab-4872-825f-c107d3afdf3b) |
+| UltraViolet Cyber | Senior Information Systems Security Officer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-20 15:31 | [Apply](https://jobs.lever.co/uvcyber/92f541a2-4a28-44a3-b0a3-219ff1552b1f) |
 | Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
 | Verkada | GRC Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-06 19:37 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5234231007) |
 | Verkada | Lead Product Manager, Perimeter & Intrusion Security | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-10 16:54 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5205130007) |
@@ -290,6 +289,7 @@ _Last updated 2026-11-20 20:59 ET — 330 roles from 88 company boards · 9 new 
 | Zscaler | Senior Professional Services Consultant - AI Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-11 13:53 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5129997007) |
 | Zscaler | Sr. Director, MSSP (Managed Security Services Provider) | Cybersecurity | Maybe | Remote (US) | Remote - New Jersey, USA; Remote - USA | 2026-11-18 13:21 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5231708007) |
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
+| Zscaler | Federal SOC Leader | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-20 10:26 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5202105007) |
 | Zscaler | Sr. Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200385007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
