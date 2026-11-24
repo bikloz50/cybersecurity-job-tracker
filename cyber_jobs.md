@@ -1,9 +1,12 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-11-24 22:58 ET — 334 roles from 88 company boards · 3 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
+| Deepwatch | Principal Cyber Advisor 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-24 10:09 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4758157005) |
+| GuidePoint Security | Cloud Security Engineer - Mid-Atlantic region (Remote) 🆕 | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-24 15:40 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6270593004?gh_jid=6270593004) |
+| Cloudflare | IT Operations Specialist I 🆕 | IT / On-Ramp | Yes | Indiana | In-Office | 2026-11-24 07:35 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074) |
 | Brex | Credit Policy & Governance Associate | Cybersecurity | Yes | California | San Francisco, California, United States | 2026-11-23 12:43 | [Apply](https://www.brex.com/careers/8957625002?gh_jid=8957625002) |
 | Brex | Credit Policy & Governance Associate | Cybersecurity | Yes | New York | New York, New York, United States | 2026-11-23 12:42 | [Apply](https://www.brex.com/careers/8957623002?gh_jid=8957623002) |
 | Brex | Credit Policy & Governance Associate | Cybersecurity | Yes | Washington | Seattle, Washington, United States | 2026-11-23 12:43 | [Apply](https://www.brex.com/careers/8957626002?gh_jid=8957626002) |
@@ -47,11 +50,11 @@ _Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new 
 | Cloudflare | Senior Product Manager - Threat Intel | Cybersecurity | Maybe | Indiana | Hybrid; In-Office | 2026-11-09 19:03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552) |
 | Cloudflare | Technical Support Engineer, Zero Trust | Cybersecurity | Maybe | Indiana | In-Office | 2026-11-17 21:26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998) |
 | Coinbase | Compliance, Threat & Risk Assessment Manager | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 10:33 | [Apply](https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692) |
-| Coinbase | Product Security Engineer, Offensive Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-11-16 20:13 | [Apply](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) |
 | Coinbase | Security Engineer, Corporate Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 11:21 | [Apply](https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444) |
 | Coinbase | Senior Security Engineer, Corporate Security | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 11:21 | [Apply](https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448) |
 | Coinbase | Senior Threat Intelligence Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 11:12 | [Apply](https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803) |
 | Coinbase | Threat Intelligence Platform Engineer | Cybersecurity | Maybe | Remote (US) | Remote - USA | 2026-10-30 11:06 | [Apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
+| Coinbase | Product Security Engineer, Offensive Security | Cybersecurity | Maybe | Texas | Dallas, TX | 2026-11-24 16:24 | [Apply](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) |
 | Databricks | Principal Security Field Engineer | Cybersecurity | Maybe | California | Remote - California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8612863002) |
 | Databricks | Senior Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
 | Databricks | Sr. Manager, Security — Continuous Monitoring v 2.0 | Cybersecurity | Maybe | California | Remote - California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8470847002) |
@@ -89,9 +92,9 @@ _Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new 
 | Datadog | Senior Manager, Product Design - Security | Cybersecurity | Maybe | New York | New York, New York, USA | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | California, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) |
 | Datadog | Enterprise Security Sales Specialist | Cybersecurity | Maybe | Remote (US) | District of Columbia, USA, Remote; North Carolina, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132) |
-| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243) |
 | Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Illinois, USA, Remote; Texas, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| Datadog | Senior Security Sales Engineer | Cybersecurity | Maybe | Remote (US) | Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote | 2026-11-05 12:12 | [Apply](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240) |
 | Deepwatch | Lead SOC Analyst | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-11-05 17:11 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4712680005) |
 | Deepwatch | Security Analyst III (Afternoons) | Cybersecurity | Maybe | Florida, Oregon | Tampa, FL Hybrid or Remote | 2026-11-19 10:00 | [Apply](https://www.deepwatch.com/current-job-openings/?gh_jid=4736032005) |
 | Dropbox | Application Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote - US: Select locations | 2026-11-12 12:58 | [Apply](https://jobs.dropbox.com/listing/8328511?gh_jid=8328511) |
@@ -216,14 +219,14 @@ _Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new 
 | Stripe | Software Engineer, Vulnerability Management | Cybersecurity | Maybe | Remote (US) | US - Remote | 2026-11-19 12:12 | [Apply](https://stripe.com/jobs/search?gh_jid=8089353) |
 | Stripe | Staff Offensive Security Engineer, Proactive threat | Cybersecurity | Maybe | Remote (US) | Remote - US | 2026-11-23 11:45 | [Apply](https://stripe.com/jobs/search?gh_jid=8399913) |
 | Tanium | Staff Identity and Access Management Engineer | Cybersecurity | Maybe | California, North Carolina, Texas, Virginia, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | 2026-11-23 08:14 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8126772) |
-| Tanium | Senior Software Engineer, AI Security | Cybersecurity | Maybe | California, North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-11-23 08:36 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8357200) |
-| Tanium | Software Engineer II, AI Security | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-23 08:25 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8359784) |
-| Tanium | Staff IT Security Engineer | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-23 17:58 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407483) |
+| Tanium | Software Engineer II, AI Security | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-24 13:05 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8359784) |
+| Tanium | Staff IT Security Engineer | Cybersecurity | Maybe | North Carolina | Durham, NC (Hybrid) | 2026-11-24 12:52 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407483) |
+| Tanium | Senior Software Engineer, AI Security | Cybersecurity | Maybe | North Carolina, Texas, Washington | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid) | 2026-11-24 13:04 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8357200) |
 | Tanium | Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-11-23 08:05 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8335066) |
 | Tanium | Senior Security Engineer | Cybersecurity | Maybe | Remote (US) | Remote, US | 2026-11-23 08:04 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8250452) |
 | Tenable | AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-10-30 11:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5468272008) |
-| Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-05 12:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5474498008) |
 | Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:54 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5454389008) |
+| Tenable | Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-05 12:43 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5474498008) |
 | Tenable | Senior AI Information Security Engineer | Cybersecurity | Maybe | Maryland | US - Headquarters - Maryland - Columbia | 2026-11-02 15:53 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5434299008) |
 | Tenable | Director, Global Government Affairs (SLED) - Cybersecurity | Cybersecurity | Maybe | Remote (US) | US - Remote - DC, US - Remote - Virginia , US - Headquarters - Maryland - Columbia | 2026-10-29 16:57 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5467527008) |
 | Tenable | Security Engineer (Pre-Sales) DFW Area | Cybersecurity | Maybe | Remote (US) | US - Remote - Texas - DFW Area | 2026-11-20 14:09 | [Apply](https://job-boards.greenhouse.io/tenableinc/jobs/5491081008) |
@@ -244,7 +247,6 @@ _Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new 
 | UltraViolet Cyber | Senior Account Executive | Cybersecurity Services | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-29 21:52 | [Apply](https://jobs.lever.co/uvcyber/b5129f2d-8fd7-4c74-b903-53e6ea8bbdcf) |
 | UltraViolet Cyber | Senior Cloud Security & Compliance Engineer | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-13 22:49 | [Apply](https://jobs.lever.co/uvcyber/a22e6f9c-5c49-4723-a518-150a2ebde547) |
 | UltraViolet Cyber | Security Engineer (Microsoft Defender) | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-11-06 22:35 | [Apply](https://jobs.lever.co/uvcyber/bfb7cc89-527f-4e38-9713-c9fd401dadf9) |
-| UltraViolet Cyber | Senior Microsoft Cloud Security Engineer | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-10-06 22:00 | [Apply](https://jobs.lever.co/uvcyber/0f4f511d-ed2d-4b6e-8ce0-b5278bb1d02d) |
 | UltraViolet Cyber | Senior Security Engineer | Cybersecurity | Maybe | Virginia | Arlington, VA | 2026-10-13 19:32 | [Apply](https://jobs.lever.co/uvcyber/a9114d6f-59ab-4872-825f-c107d3afdf3b) |
 | UltraViolet Cyber | Senior Information Systems Security Officer (TS/SCI) | Cybersecurity | Maybe | Washington | Washington, DC | 2026-11-20 15:31 | [Apply](https://jobs.lever.co/uvcyber/92f541a2-4a28-44a3-b0a3-219ff1552b1f) |
 | Verkada | Embedded Linux Security Engineer | Cybersecurity | Maybe | California | San Mateo, CA United States | 2026-11-23 12:58 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129347007) |
@@ -294,8 +296,8 @@ _Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new 
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Federal SOC Leader | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-20 10:26 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5202105007) |
 | Zscaler | Sr. Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200385007) |
-| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
+| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-10-29 16:28 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200278007) |
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:52 | [Apply](https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618) |
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:54 | [Apply](https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621) |
@@ -332,7 +334,7 @@ _Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new 
 | Verkada | Technical Support Engineering Intern - Summer 2027 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-23 12:58 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | Verkada | Technical Support Engineering Manager | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-23 12:58 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5144834007) |
 | Verkada | Technical Support Engineer - University Graduate 2026 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-23 12:58 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
-| Verkada | Technical Support Engineer - University Graduate 2027 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-23 12:58 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
+| Verkada | Technical Support Engineer - University Graduate 2027 | IT / On-Ramp | Maybe | California | San Mateo, CA United States | 2026-11-24 16:23 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
 | Wiz | Manager of Applied AI, Solutions Support Engineering | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-20 08:45 | [Apply](https://www.wiz.io/careers/job/4719843006/:title?gh_jid=4719843006) |
 | Wiz | Solutions Support Engineer - US East | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-20 08:45 | [Apply](https://www.wiz.io/careers/job/4721575006/:title?gh_jid=4721575006) |
 | Zscaler | Product Support Engineer | IT / On-Ramp | Maybe | Remote (US) | Remote - USA | 2026-11-12 15:00 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5239098007) |
