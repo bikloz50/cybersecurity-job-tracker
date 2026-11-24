@@ -1,6 +1,6 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-24 03:10 ET — 332 roles from 88 company boards · 0 new since last run_
+_Last updated 2026-11-24 05:40 ET — 332 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
