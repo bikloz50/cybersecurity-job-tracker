@@ -1,10 +1,9 @@
 # Cybersecurity & IT Job Tracker
 
-_Last updated 2026-11-26 00:51 ET — 335 roles from 88 company boards · 1 new since last run_
+_Last updated 2026-11-26 03:50 ET — 334 roles from 88 company boards · 0 new since last run_
 
 | Company | Role | Category | Entry? | States | Location | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| Databricks | Staff Security Detection Engineer 🆕 | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-11-25 17:25 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8184634002) |
 | Brex | Credit Policy & Governance Associate | Cybersecurity | Yes | California | San Francisco, California, United States | 2026-11-23 12:43 | [Apply](https://www.brex.com/careers/8957625002?gh_jid=8957625002) |
 | Brex | Credit Policy & Governance Associate | Cybersecurity | Yes | New York | New York, New York, United States | 2026-11-23 12:42 | [Apply](https://www.brex.com/careers/8957623002?gh_jid=8957623002) |
 | Brex | Credit Policy & Governance Associate | Cybersecurity | Yes | Washington | Seattle, Washington, United States | 2026-11-23 12:43 | [Apply](https://www.brex.com/careers/8957626002?gh_jid=8957626002) |
@@ -66,6 +65,7 @@ _Last updated 2026-11-26 00:51 ET — 335 roles from 88 company boards · 1 new 
 | Databricks | Sr Staff Technical Program Manager- Security | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8818577002) |
 | Databricks | Staff Data Scientist - Trust and Safety | Cybersecurity | Maybe | California | San Francisco, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8178287002) |
 | Databricks | Staff Product Manager, Security | Cybersecurity | Maybe | California | San Francisco, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7110499002) |
+| Databricks | Staff Security Detection Engineer | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-11-25 17:25 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8184634002) |
 | Databricks | Staff Software Engineer - Security Infrastructure | Cybersecurity | Maybe | California | Mountain View, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
 | Databricks | Staff Software Engineer - Threat and Abuse Defense | Cybersecurity | Maybe | California | Mountain View, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002) |
 | Databricks | Staff Technical Program Manager- Security | Cybersecurity | Maybe | California | Mountain View, California; San Francisco, California | 2026-11-19 16:47 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8864290002) |
@@ -117,7 +117,6 @@ _Last updated 2026-11-26 00:51 ET — 335 roles from 88 company boards · 1 new 
 | GuidePoint Security | Application Security Engineer - North Central region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-14 17:05 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6220720004?gh_jid=6220720004) |
 | GuidePoint Security | Application Security Engineer - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-14 16:30 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6207768004?gh_jid=6207768004) |
 | GuidePoint Security | Application Security Engineer - Southeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-14 16:51 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218520004?gh_jid=6218520004) |
-| GuidePoint Security | Cloud Security Engineer - Mid-Atlantic region (Remote) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-25 15:23 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6270593004?gh_jid=6270593004) |
 | GuidePoint Security | DevSecOps Engineer - AWS - Northeast region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-11-18 09:39 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) |
 | GuidePoint Security | DevSecOps Presales Solutions Engineer - Mid-Atlantic region (Remote in VA, MD, PA, NC, DE, NJ, or DC) | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-20 11:38 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6228770004?gh_jid=6228770004) |
 | GuidePoint Security | Fortinet Network Security Engineer - North Central region | Cybersecurity | Maybe | Remote (US) | Remote | 2026-10-21 15:54 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6231190004?gh_jid=6231190004) |
@@ -297,8 +296,8 @@ _Last updated 2026-11-26 00:51 ET — 335 roles from 88 company boards · 1 new 
 | Zscaler | Principal AI Security Specialist - Federal | Cybersecurity | Maybe | Remote (US), Virginia | McLean, Virginia, USA; Remote - D.C., USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5174765007) |
 | Zscaler | Federal SOC Leader | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5202105007) |
 | Zscaler | Sr. Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200385007) |
-| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5128580007) |
+| Zscaler | Sr. Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5252248007) |
 | Zscaler | Staff Site Reliability Engineer-Federal, Security Clearance | Cybersecurity | Maybe | Virginia | Crystal City, Virginia, USA | 2026-11-25 11:04 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5200278007) |
 | Cloudflare | IT Operations Specialist I | IT / On-Ramp | Yes | Indiana | In-Office | 2026-11-24 07:35 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074) |
 | Coinbase | Social Support Specialist I | IT / On-Ramp | Yes | Remote (US) | Remote - USA | 2026-11-03 19:52 | [Apply](https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618) |
